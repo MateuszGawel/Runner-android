@@ -14,5 +14,7 @@ public class AndroidLauncher extends AndroidApplication {
 		config.useAccelerometer = false;
         config.useCompass = false;
 		initialize(new Runner(), config);
+		
+		//tu bylem
 	}
 }
