@@ -4,11 +4,17 @@
   <image source="grass.png" width="32" height="32"/>
  </tileset>
  <layer name="Tile Layer 1" width="50" height="30">
+  <properties>
+   <property name="" value=""/>
+  </properties>
   <data encoding="base64" compression="zlib">
    eJzt1jEKACEMRUFdvf+Z19LCLYKCWZiB16f4RUoBAOCv6ui5fcQBbdRvHwHAUg2WVQvGWnQPc5l+luge5vwsezvItIWdHdgCX16j5QDD
   </data>
  </layer>
  <objectgroup name="Object Layer 1" width="50" height="30">
+  <properties>
+   <property name="physicsEnabled" value="true"/>
+  </properties>
   <object x="0" y="416" width="272" height="32"/>
   <object x="416" y="176">
    <polyline points="0,0 16,32 0,64 32,48 64,64 48,32 64,0 32,16 0,0"/>
