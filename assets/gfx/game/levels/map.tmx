@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="50" height="30" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="platform" tilewidth="16" tileheight="16">
+  <image source="grass.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKACEMRUFdvf+Z19LCLYKCWZiB16f4RUoBAOCv6ui5fcQBbdRvHwHAUg2WVQvGWnQPc5l+luge5vwsezvItIWdHdgCX16j5QDD
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1" width="50" height="30">
+  <object x="0" y="416" width="272" height="32"/>
+  <object x="416" y="176">
+   <polyline points="0,0 16,32 0,64 32,48 64,64 48,32 64,0 32,16 0,0"/>
+  </object>
+  <object x="608" y="320" width="32" height="32">
+   <ellipse/>
+  </object>
+  <object x="640" y="320" width="32" height="32">
+   <ellipse/>
+  </object>
+  <object x="672" y="320" width="32" height="32">
+   <ellipse/>
+  </object>
+  <object x="704" y="320" width="32" height="32">
+   <ellipse/>
+  </object>
+  <object x="736" y="320" width="32" height="32">
+   <ellipse/>
+  </object>
+  <object x="768" y="320" width="32" height="32">
+   <ellipse/>
+  </object>
+  <object x="320" y="368">
+   <polygon points="0,0 0,32 256,0"/>
+  </object>
+ </objectgroup>
+</map>
