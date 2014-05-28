@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="50" height="30" tilewidth="16" tileheight="16">
+ <properties>
+  <property name="ambientLightColor" value="1,0,1,1"/>
+  <property name="enableAmbientLight" value="false"/>
+  <property name="enableLight" value="true"/>
+ </properties>
  <tileset firstgid="1" name="platform" tilewidth="16" tileheight="16">
   <image source="grass.png" width="32" height="32"/>
  </tileset>
@@ -39,6 +44,14 @@
   </object>
   <object x="320" y="368">
    <polygon points="0,0 0,32 256,0"/>
+  </object>
+  <object name="light" type="light" x="144" y="176" width="16" height="16">
+   <properties>
+    <property name="lightColor" value="1,1,1,1"/>
+    <property name="lightDistance" value="100"/>
+    <property name="lightRays" value="2000"/>
+   </properties>
+   <ellipse/>
   </object>
  </objectgroup>
 </map>
