@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="50" height="30" tilewidth="16" tileheight="16">
  <properties>
-  <property name="ambientLightColor" value="1,0,1,1"/>
-  <property name="enableAmbientLight" value="false"/>
+  <property name="ambientLightColor" value="1,1,1,0.12"/>
+  <property name="enableAmbientLight" value="true"/>
+  <property name="enableGammaCorrection" value="true"/>
   <property name="enableLight" value="true"/>
  </properties>
  <tileset firstgid="1" name="platform" tilewidth="16" tileheight="16">
@@ -45,11 +46,11 @@
   <object x="320" y="368">
    <polygon points="0,0 0,32 256,0"/>
   </object>
-  <object name="light" type="light" x="144" y="176" width="16" height="16">
+  <object name="light" type="light" x="32" y="64" width="16" height="16">
    <properties>
-    <property name="lightColor" value="1,1,1,1"/>
-    <property name="lightDistance" value="100"/>
+    <property name="lightDistance" value="80"/>
     <property name="lightRays" value="2000"/>
+    <property name="opacity" value="0.4"/>
    </properties>
    <ellipse/>
   </object>
