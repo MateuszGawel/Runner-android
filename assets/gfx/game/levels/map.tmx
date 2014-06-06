@@ -65,5 +65,8 @@
    </properties>
    <ellipse/>
   </object>
+  <object x="350" y="327">
+   <polyline points="0,0 207,-128 177,25 -1,2"/>
+  </object>
  </objectgroup>
 </map>
