@@ -1,0 +1,144 @@
+stickman.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bored0
+  rotate: false
+  xy: 386, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored1
+  rotate: false
+  xy: 354, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored2
+  rotate: false
+  xy: 386, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored3
+  rotate: false
+  xy: 322, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored4
+  rotate: false
+  xy: 290, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored5
+  rotate: false
+  xy: 258, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored6
+  rotate: false
+  xy: 226, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored7
+  rotate: false
+  xy: 194, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored8
+  rotate: false
+  xy: 162, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+bored9
+  rotate: false
+  xy: 322, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle0
+  rotate: false
+  xy: 130, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle1
+  rotate: false
+  xy: 98, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle2
+  rotate: false
+  xy: 354, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle3
+  rotate: false
+  xy: 98, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle4
+  rotate: false
+  xy: 130, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle5
+  rotate: false
+  xy: 66, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle6
+  rotate: false
+  xy: 34, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle7
+  rotate: false
+  xy: 2, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle8
+  rotate: false
+  xy: 34, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+idle9
+  rotate: false
+  xy: 66, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
