@@ -1,72 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="50" height="30" tilewidth="16" tileheight="16">
- <properties>
-  <property name="ambientLightColor" value="1,1,1,0.12"/>
-  <property name="enableAmbientLight" value="true"/>
-  <property name="enableGammaCorrection" value="true"/>
-  <property name="enableLight" value="true"/>
- </properties>
- <tileset firstgid="1" name="platform" tilewidth="16" tileheight="16">
-  <image source="grass.png" width="32" height="32"/>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="f" tilewidth="64" tileheight="64">
+  <image source="tileset.png" width="640" height="256"/>
  </tileset>
- <layer name="Tile Layer 1" width="50" height="30">
-  <properties>
-   <property name="" value=""/>
-  </properties>
+ <tileset firstgid="41" name="ground" tilewidth="64" tileheight="64">
+  <image source="ground.png" width="640" height="320"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="200" height="20">
   <data encoding="base64" compression="zlib">
-   eJzt0isOACAMREF+9z8zFlFEg6BiJlm/4rUGAAAAEOvJVTWTI5bt4dz48Pcm28O59eFvNS8dVGrhpQMtcLMBIQ0AuQ==
+   eJztWttu00AUXO5Q7qA4aYjT9AJPIHErqEhpLfFQhMQDfFE+jU/hU9hVdshkctYxaRojskcarb1er53dM2fOcetctmzZsmXLlq0tu+5xw+Nm2y+SLdsl2y2P2x53/uKeBx4PPR5dyhtly7ZZq4v3jz2eeDw1rl3xuOpxbU3v8Syi6btZlnqnXY++MX+2bMts1Xh/1+Oex/0LPr8f0fEoGrxbnaat652y/b924nHs8S7ifTwP+NDie6lBL7puyovQdhrcV6dpq9g2astuxDZa5dzPM98GjCNO43nV3mv9MfAicKJDAE+yXZ6BFz03XfN/gSevPd54vPV46fFqDXMGjQi6wBoBBC78cPO8AFeqNTx7Feu7+Twq7A80Q9ts67Wd2Ia1x7qDH72ITXBkR849DyaBF5/czE+9304+uovzpIoa8d250TjOfUrPCa1qB/o3mWMdRsD/WS+wR+jvxr5szQ25IcCGPug1uIE4hPXHcV+wS/cGIB4jX+eYjDh9nOhj4H7Pg4nmOfDXAM+bic4VfPeFgRM3X0fA/zWH0pavb1JDRhFlhGqEHiOOZf2YxpORx77AMvg4/FyvKQ+0xboXMhf6+Jx9mf3q3OOLm8VfXNNjYCzHZwasOO+f8avy7XMDn+UefY5C5+ZnV4m1XocdRAwJA2evd1eAPdp2C2sWYsqA2kFiLHMgALG+72ZrWtD1joGezFNIi2tW7FV/Hht9em0s/eyrVj+Oz5fwg5+temS9V0pbqsRaX8SQR+256V6GtnTz+gF+6H5pPNt247gClImx7Mvwd9ZqvgY/528hyoWCxhUyjuMx+7SeWzHcqoU1hls5kGpR5Zbrh8UF7dPfoX2r1CBaXwWDXoT9C5xQ3UAsDOB1Zz6onrf9PaWpWeuxjntZP4BhYizWUdeS+/jbueZRhTFHT+bA/XWxV+tfyx81rqdqglRuxM9N6YfyTp9t5XWaL4aavkqsd8p2CMHAC3CC91M1BP2sG7qXvEcBVg3WNkINcBh/N/RyFPtHEZYdyD0M3L/vFnPTAR2XcSyej3s4P2I97rr59dU6g8cXMsbSeNUPq8Zlf7N0wMqlLI1Q/1ZNCmiaX6X4muIij+Paj9cd+zCSPRkRrByKMYzXwR/mR13Mwn5YGto21G8598HvtAzXNYboOQPzDukY50M51ppO/Zu/WVl7oDUK52Os85aPWXnMshpY43yqTtdxyqOjCEsbLO1YlvexrmF9sXfYc4797NulXB/SdW5LmYPvZ73W9dfvJqGvbT4oN9jP0TJnQp9lpZvnEPs/50+6/rx2yhseU7rFeFO4RV7wmmuuq9/B9H8a8P2qroao0xaLN6k6QHVI87TQ/5X6v7lF/07lenXc5vfRfeFaQc8H0moM1bim8Y6fo3Eu9U0+tG1zwuKHxgr+jU34wbDiEfOANZifrWOgzfr9Q/mhsPRCtYVrEY3pdfmTxSPlVyqPUj1o4s86l5VjWbmf6g2OOfYAvN6sC8oB5pTGsz1Xzzf9TsJ1Isc0nLfNC0DjfekW439oDwgjN6sn9mis3sN7oZphaYmlX3Xfca3vulxXWH8vtPYj5d9WXpTSAY3rFr+W1Qqp2iWV4+mcFg/53Mqbh8Yxn1t1t+oI77HOg7mwD7zuqvus8Uf/AJgb+ts0T7V8WuMNxyWNN5rHKk9K6eN1Vx5ovaHrrf9nwpphff/6DfAAG6U=
   </data>
  </layer>
- <objectgroup name="Object Layer 1" width="50" height="30">
+ <objectgroup name="Terrainlayer" width="200" height="20">
   <properties>
    <property name="physicsEnabled" value="true"/>
+   <property name="terrain" value="true"/>
   </properties>
-  <object x="0" y="416" width="272" height="32"/>
-  <object x="608" y="320" width="32" height="32">
+  <object x="1" y="643">
+   <polyline points="0,0 1285,-1 1535,-131 1600,-131 1857,-1 2175,-3 2175,253 2239,253 2239,381 2303,381 2303,445 2431,445 2431,381 2495,381 2495,-3 2751,-3 2751,-131 3199,-131 3199,-259 3711,-259 3711,-67 3775,-67 3775,189 3839,189 3839,317 4799,317 4799,253 4927,253 4927,189 5055,189 5055,125 5183,125 5183,61 5311,61 5311,-3 5439,-3 5439,-67 5567,-67 5567,-131 5759,-131 5759,-195 5887,-195 5887,-259 6015,-259 6015,-323 6143,-323 6143,-387 6271,-387 6271,189 6335,189 6335,381 6399,381 6399,509 6463,509 6463,637 8575,637 8575,573 8639,573 8639,381 8703,381 8703,253 9279,253 9279,509 9599,509 9599,253 9919,253 10367,253 10367,-3 10751,-3 10751,253 11071,253 11071,-67 11327,-67 11327,61 11519,61 11519,-67 11775,-67 11775,-131 11839,-131 11839,-195 11967,-195 11967,-259 12095,-259 12095,-195 12223,-195 12223,-131 12287,-131 12287,-67 12799,-67 12799,637 -1,637 -1,-3 63,-3"/>
+  </object>
+  <object x="4023" y="257" width="85" height="69">
    <ellipse/>
   </object>
-  <object x="640" y="320" width="32" height="32">
+  <object x="3969" y="288" width="61" height="80">
    <ellipse/>
   </object>
-  <object x="672" y="320" width="32" height="32">
+  <object x="4095" y="277" width="63" height="71">
    <ellipse/>
   </object>
-  <object x="704" y="320" width="32" height="32">
+  <object x="4453" y="196" width="64" height="76">
    <ellipse/>
   </object>
-  <object x="736" y="320" width="32" height="32">
+  <object x="4500" y="188" width="89" height="93">
    <ellipse/>
   </object>
-  <object x="768" y="320" width="32" height="32">
+  <object x="4419" y="247" width="69" height="71">
    <ellipse/>
   </object>
-  <object x="320" y="368">
-   <polygon points="0,0 0,32 256,0"/>
-  </object>
-  <object name="light" type="light" x="256" y="96" width="16" height="16">
-   <properties>
-    <property name="lightDistance" value="80"/>
-    <property name="lightRays" value="2000"/>
-    <property name="opacity" value="0.4"/>
-   </properties>
+  <object x="4544" y="249" width="63" height="68">
    <ellipse/>
   </object>
-  <object x="224" y="128">
-   <polyline points="0,0 16,-48 64,-48 80,0 64,0 48,-32 32,-32 16,0 0,0"/>
-  </object>
-  <object x="480" y="128">
-   <polyline points="0,0 16,-48 64,-48 80,0 64,0 48,-32 32,-32 16,0 0,0"/>
-  </object>
-  <object name="light" type="light" x="512" y="96" width="16" height="16">
-   <properties>
-    <property name="lightDistance" value="80"/>
-    <property name="lightRays" value="2000"/>
-    <property name="opacity" value="0.4"/>
-   </properties>
+  <object x="4863" y="300" width="59" height="69">
    <ellipse/>
   </object>
-  <object x="350" y="327">
-   <polyline points="0,0 207,-128 177,25 -1,2"/>
+  <object x="4911" y="257" width="67" height="75">
+   <ellipse/>
   </object>
+  <object x="4968" y="257" width="73" height="95">
+   <ellipse/>
+  </object>
+  <object x="5008" y="307" width="47" height="64">
+   <ellipse/>
+  </object>
+  <object x="5244" y="151" width="65" height="89">
+   <ellipse/>
+  </object>
+  <object x="5295" y="128" width="96" height="80">
+   <ellipse/>
+  </object>
+  <object x="5365" y="140" width="76" height="83">
+   <ellipse/>
+  </object>
+  <object x="6463" y="288" width="72" height="77">
+   <ellipse/>
+  </object>
+  <object x="6507" y="252" width="96" height="91">
+   <ellipse/>
+  </object>
+  <object x="6585" y="272" width="71" height="79">
+   <ellipse/>
+  </object>
+  <object x="6781" y="377" width="68" height="72">
+   <ellipse/>
+  </object>
+  <object x="6813" y="323" width="81" height="79">
+   <ellipse/>
+  </object>
+  <object x="6865" y="315" width="92" height="101">
+   <ellipse/>
+  </object>
+  <object x="6907" y="365" width="71" height="80">
+   <ellipse/>
+  </object>
+  <object x="7236" y="304" width="55" height="61">
+   <ellipse/>
+  </object>
+  <object x="7276" y="259" width="69" height="79">
+   <ellipse/>
+  </object>
+  <object x="7335" y="252" width="77" height="80">
+   <ellipse/>
+  </object>
+  <object x="7369" y="311" width="52" height="61">
+   <ellipse/>
+  </object>
+  <object x="7615" y="257" width="192" height="64"/>
+  <object x="8064" y="384" width="192" height="64"/>
+ </objectgroup>
+ <objectgroup name="KillingLayer" width="200" height="20">
+  <properties>
+   <property name="killing" value="true"/>
+   <property name="physicsEnabled" value="true"/>
+  </properties>
+  <object x="1025" y="577" width="63" height="61"/>
+  <object x="4608" y="832" width="64" height="126"/>
+  <object x="4672" y="897" width="63" height="61"/>
+  <object x="4544" y="897" width="65" height="62"/>
+  <object x="8960" y="833" width="63" height="61"/>
+  <object x="9921" y="832" width="61" height="63"/>
  </objectgroup>
 </map>
