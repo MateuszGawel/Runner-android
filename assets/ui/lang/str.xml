@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+	
+	<language id = "pl" description = "polish" icoFilePath = "" default = "true">
+	    <string key = "backButton">Powrót</string>
+	    <string key = "upgradeButton">Ulepszenia</string>
+	    <string key = "campaignButton">Kampania</string>
+	    <string key = "multiplayerButton">Multiplayer</string>
+	    <string key = "selectLevelButton">Wybierz poziom</string>
+	    <string key = "createRoomButton">Utwórz pokój</string>
+	    <string key = "joinRoomButton">Dołącz do pokoju</string>
+	    <string key = "joinRandomRoomButton">Znajdź losowy</string>
+	    <string key = "createRoomMenuButton">Utwórz własny pokój</string>
+	    <string key = "joinRoomMenuButton">Znajdź pokój</string>
+	    
+	    <string key = "upgradeLabel">Ekran Ulepszeń</string>
+	    <string key = "multiplayerLabel">Ekran Gry Sieciowej</string>
+	    <string key = "mainMenuLabel">Ekran Menu Głównego</string>
+	    <string key = "campaignLabel">Ekran Kampanii</string>
+	    <string key = "createRoomLabel">Ekran Tworzenia Pokoju</string>
+	    <string key = "joinRoomLabel">Ekran Wyszukiwania Pokoju</string>
+	</language>
+	
+	<language id = "en" description = "english" icoFilePath = "" default = "false">
+	    <string key = "backButton">Back</string>
+	    <string key = "upgradeButton">Upgrades</string>
+	    <string key = "campaignButton">Campaign</string>
+	    <string key = "multiplayerButton">Multiplayer</string>
+	    <string key = "selectLevelButton">Choose level</string>
+	    <string key = "createRoomButton">Create room</string>
+	    <string key = "joinRoomButton">Join this room</string>
+	    <string key = "joinRandomRoomButton">Join random</string>
+	    <string key = "createRoomMenuButton">Create your room</string>
+	    <string key = "joinRoomMenuButton">Find a room</string>
+	    
+	    <string key = "upgradeLabel">Upgrade Screen</string>
+	    <string key = "multiplayerLabel">Multiplayer Screen</string>
+	    <string key = "mainMenuLabel">Main Menu Screen</string>
+	    <string key = "campaignLabel">Campaign Screen</string>
+	    <string key = "createRoomLabel">Creating Room Screen</string>
+	    <string key = "joinRoomLabel">Finding Room Screen</string>
+	</language>
+	
+</languages>
