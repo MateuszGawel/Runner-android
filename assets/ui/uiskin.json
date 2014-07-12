@@ -10,11 +10,11 @@ com.badlogic.gdx.scenes.scene2d.ui.Skin$TintedDrawable: {
 dialogDim: { name: white, color: { r: 0, g: 0, b: 0, a: 0.45 } }
 },
 com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
-default: { down: ccc, up: ccc, font: default-font, fontColor: white }
+default: { down: button, up: button, font: default-font, fontColor: white }
 },
 com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
-default-horizontal: { background: aaa, knob: bbb },
-default-vertical: { background: aaa, knob: bbb }
+default-horizontal: { background: slide, knob: knob },
+default-vertical: { background: slide, knob: knob }
 },
 com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
     default: { font: default-font, fontColor: white }

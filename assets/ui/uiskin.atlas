@@ -3,30 +3,30 @@ uiskin.png
 format: RGBA8888
 filter: Nearest,Nearest
 repeat: none
-ccc
+button
   rotate: false
-  xy: 1, 32
+  xy: 1, 43
   size: 200, 20
   orig: 200, 20
   offset: 0, 0
   index: -1
-aaa
+knob
   rotate: false
-  xy: 1, 20
-  size: 53, 10
-  orig: 53, 10
+  xy: 1, 1
+  size: 37, 40
+  orig: 37, 40
   offset: 0, 0
   index: -1
-bbb
+slide
   rotate: false
-  xy: 203, 1
-  size: 19, 51
-  orig: 19, 51
+  xy: 40, 1
+  size: 37, 40
+  orig: 37, 40
   offset: 0, 0
   index: -1
 white
   rotate: false
-  xy: 224, 51
+  xy: 203, 62
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
