@@ -5,63 +5,77 @@ repeat: none
 bomb0
   rotate: false
   xy: 2, 2
-  size: 33, 46
-  orig: 33, 46
+  size: 32, 48
+  orig: 32, 48
   offset: 0, 0
   index: -1
 bomb1
   rotate: false
-  xy: 37, 2
-  size: 33, 46
-  orig: 33, 46
+  xy: 36, 2
+  size: 32, 48
+  orig: 32, 48
   offset: 0, 0
   index: -1
 bomb2
   rotate: false
-  xy: 72, 2
-  size: 33, 46
-  orig: 33, 46
+  xy: 70, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+bomb3
+  rotate: false
+  xy: 104, 2
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+bomb4
+  rotate: false
+  xy: 138, 2
+  size: 32, 48
+  orig: 32, 48
   offset: 0, 0
   index: -1
 bombExplosion0
   rotate: false
-  xy: 107, 2
-  size: 194, 198
-  orig: 194, 198
+  xy: 172, 2
+  size: 83, 89
+  orig: 83, 89
   offset: 0, 0
   index: -1
 bombExplosion1
   rotate: false
-  xy: 303, 2
-  size: 194, 198
-  orig: 194, 198
+  xy: 257, 2
+  size: 83, 89
+  orig: 83, 89
   offset: 0, 0
   index: -1
 bombExplosion2
   rotate: false
-  xy: 499, 2
-  size: 194, 198
-  orig: 194, 198
+  xy: 342, 2
+  size: 83, 89
+  orig: 83, 89
   offset: 0, 0
   index: -1
 bombExplosion3
   rotate: false
-  xy: 695, 2
-  size: 194, 198
-  orig: 194, 198
+  xy: 427, 2
+  size: 83, 89
+  orig: 83, 89
   offset: 0, 0
   index: -1
 bombExplosion4
   rotate: false
-  xy: 891, 2
-  size: 194, 198
-  orig: 194, 198
+  xy: 512, 2
+  size: 83, 89
+  orig: 83, 89
   offset: 0, 0
   index: -1
 bombExplosion5
   rotate: false
-  xy: 1087, 2
-  size: 194, 198
-  orig: 194, 198
+  xy: 597, 2
+  size: 83, 89
+  orig: 83, 89
   offset: 0, 0
   index: -1
