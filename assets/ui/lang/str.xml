@@ -15,7 +15,7 @@
 	    
 	    <string key = "upgradeLabel">Ekran Ulepszeń</string>
 	    <string key = "multiplayerLabel">Ekran Gry Sieciowej</string>
-	    <string key = "mainMenuLabel">Ekran Menu Głównego</string>
+	    <string key = "mainMenuLabel">THE RUNNER</string>
 	    <string key = "campaignLabel">Ekran Kampanii</string>
 	    <string key = "createRoomLabel">Ekran Tworzenia Pokoju</string>
 	    <string key = "joinRoomLabel">Ekran Wyszukiwania Pokoju</string>
@@ -35,7 +35,7 @@
 	    
 	    <string key = "upgradeLabel">Upgrade Screen</string>
 	    <string key = "multiplayerLabel">Multiplayer Screen</string>
-	    <string key = "mainMenuLabel">Main Menu Screen</string>
+	    <string key = "mainMenuLabel">THE RUNNER</string>
 	    <string key = "campaignLabel">Campaign Screen</string>
 	    <string key = "createRoomLabel">Creating Room Screen</string>
 	    <string key = "joinRoomLabel">Finding Room Screen</string>
