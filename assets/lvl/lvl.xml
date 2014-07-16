@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+	<level buttonLabel="1" mapPath="gfx/game/levels/map.tmx"></level>
+	<level buttonLabel="2" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="3" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="4" mapPath="gfx/game/levels/map.tmx"></level>
+	<level buttonLabel="5" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="6" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="7" mapPath="gfx/game/levels/map.tmx"></level>
+	<level buttonLabel="8" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="9" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="10" mapPath="gfx/game/levels/map.tmx"></level>
+	<level buttonLabel="11" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="12" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="13" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="14" mapPath="gfx/game/levels/map2.tmx"></level>
+	<level buttonLabel="15" mapPath="gfx/game/levels/map2.tmx"></level>
+</levels>
