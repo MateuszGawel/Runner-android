@@ -5,77 +5,84 @@ filter: Nearest,Nearest
 repeat: none
 defaultButton
   rotate: false
-  xy: 1, 285
+  xy: 1, 307
   size: 500, 200
   orig: 500, 200
   offset: 0, 0
   index: -1
 defaultButtonDown
   rotate: false
-  xy: 1, 83
+  xy: 1, 105
   size: 500, 200
   orig: 500, 200
   offset: 0, 0
   index: -1
 joinRandomRoomButton
   rotate: false
-  xy: 503, 285
+  xy: 503, 307
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 joinRandomRoomButtonDown
   rotate: false
-  xy: 503, 83
+  xy: 503, 105
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
-knobHorizontal
-  rotate: false
-  xy: 705, 355
-  size: 50, 130
-  orig: 50, 130
-  offset: 0, 0
-  index: -1
-knobVertical
-  rotate: false
-  xy: 705, 355
-  size: 130, 50
-  orig: 130, 50
-  offset: 0, 0
-  index: -1
 settingsButton
   rotate: false
-  xy: 1, 1
+  xy: 1, 23
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 settingsButtonDown
   rotate: false
-  xy: 757, 405
+  xy: 705, 427
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 soundButton
   rotate: false
-  xy: 83, 1
+  xy: 83, 23
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 soundButtonDown
   rotate: false
-  xy: 839, 405
+  xy: 705, 345
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
+defaultBackground
+  rotate: false
+  xy: 787, 457
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+knobHorizontal
+  rotate: false
+  xy: 165, 73
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+knobVertical
+  rotate: false
+  xy: 165, 73
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
 slider
   rotate: false
-  xy: 705, 333
+  xy: 1, 1
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
