@@ -9,7 +9,10 @@ black: { a: 1, b: 0, g: 0, r: 0 }
 com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
 settings: { down: settingsButtonDown, up: settingsButton },
 sound: { down: soundButtonDown, up: soundButton },
-joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton }
+joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
+toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
+toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
+blackOut: { down: black, up: black }
 },
 com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
 small: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
