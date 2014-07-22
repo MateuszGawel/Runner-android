@@ -80,6 +80,13 @@ knobVertical
   orig: 30, 60
   offset: 0, 0
   index: -1
+white
+  rotate: false
+  xy: 705, 318
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
 slider
   rotate: false
   xy: 1, 1

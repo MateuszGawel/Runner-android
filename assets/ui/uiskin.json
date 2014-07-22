@@ -11,6 +11,11 @@ settings: { down: settingsButtonDown, up: settingsButton },
 sound: { down: soundButtonDown, up: soundButton },
 joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton }
 },
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+small: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
+medium: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
+big: { titleFont: default-font, background: defaultBackground, titleFontColor: white }
+},
 com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
 default: { down: defaultButtonDown, up: defaultButton, font: default-font, fontColor: white }
 },
