@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <languages>
 	
-	<language id = "pl" description = "polish" icoFilePath = "" default = "true">
+	<language id = "pl" description = "polish" icoFilePath = "ui/lang/flags/pl.png" chosenIcoFilePath = "ui/lang/flags/pl_chosen.png" default = "false">
 	    <string key = "backButton">Powrót</string>
 	    <string key = "upgradeButton">Ulepszenia</string>
 	    <string key = "campaignButton">Kampania</string>
@@ -21,7 +21,7 @@
 	    <string key = "joinRoomLabel">Ekran Wyszukiwania Pokoju</string>
 	</language>
 	
-	<language id = "en" description = "english" icoFilePath = "" default = "false">
+	<language id = "en" description = "english" icoFilePath = "ui/lang/flags/uk.png" chosenIcoFilePath = "ui/lang/flags/uk_chosen.png" default = "true">
 	    <string key = "backButton">Back</string>
 	    <string key = "upgradeButton">Upgrades</string>
 	    <string key = "campaignButton">Campaign</string>
