@@ -6,6 +6,9 @@
  <tileset firstgid="41" name="ground" tilewidth="64" tileheight="64">
   <image source="ground.png" width="1024" height="1024"/>
  </tileset>
+ <tileset firstgid="297" name="barrelSmall" tilewidth="60" tileheight="60">
+  <image source="barrelSmall.png" width="62" height="61"/>
+ </tileset>
  <layer name="Ground" width="200" height="20">
   <data encoding="base64" compression="zlib">
    eJzt00EJAEAMA8FaOf8mqyBQ7lXKDMRBtgoAAAAAAAAAAAAA2OwNBhdMvv4zuEAfkOkDMn1Apg/IGlT4D1g=
@@ -71,8 +74,11 @@
   <object x="3570" y="778">
    <polyline points="61,4 65,-54 37,-82 45,-104 63,-90 65,-138 91,-134 97,-102 91,-66 101,-84 121,-82 113,-38 93,-20 91,-4"/>
   </object>
-  <object x="986" y="906">
+  <object name="bonfire" x="986" y="906">
    <polyline points="0,0 -2,-16 16,-16 8,-42 34,-96 48,-94 48,-62 58,-32 54,-10 74,-10 66,-8"/>
+  </object>
+  <object name="barrel" x="704" y="896" width="64" height="64">
+   <ellipse/>
   </object>
  </objectgroup>
  <objectgroup name="NoKillingLayer" width="200" height="20">
@@ -108,4 +114,5 @@
    <polyline points="0,0 8,-25 3,-47 32,-68 49,-60 72,-60 89,-47 88,-32 103,-9 100,4"/>
   </object>
  </objectgroup>
+ <objectgroup name="barrel" width="200" height="20"/>
 </map>
