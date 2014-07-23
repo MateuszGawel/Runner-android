@@ -12,7 +12,9 @@ sound: { down: soundButtonDown, up: soundButton },
 joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
 toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
 toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
-blackOut: { down: black, up: black }
+blackOut: { down: black, up: black },
+ok: { down: okButton, up: okButton },
+no: { down: noButton, up: noButton }
 },
 com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
 small: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
