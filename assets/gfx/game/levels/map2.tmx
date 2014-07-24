@@ -77,7 +77,10 @@
   <object name="bonfire" x="986" y="906">
    <polyline points="0,0 -2,-16 16,-16 8,-42 34,-96 48,-94 48,-62 58,-32 54,-10 74,-10 66,-8"/>
   </object>
-  <object name="barrel" x="704" y="896" width="64" height="64">
+  <object name="barrel" x="320" y="768" width="64" height="64">
+   <ellipse/>
+  </object>
+  <object name="barrel" x="830" y="762" width="64" height="64">
    <ellipse/>
   </object>
  </objectgroup>
