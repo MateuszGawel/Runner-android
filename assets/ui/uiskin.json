@@ -33,5 +33,8 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
     default: { font: default-font, fontColor: white },
     title:  { font: title-font, fontColor: white },
     dialogLabel: { font: default-font, fontColor: white }
+},
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+default: { background: black, font: default-font, fontColor: white}
 }
 }
