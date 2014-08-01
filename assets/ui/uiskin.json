@@ -36,5 +36,14 @@ com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
 },
 com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
 default: { background: black, font: default-font, fontColor: white}
+},
+com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
+default: { background: black, font: default-font, fontColorSelected: white, fontColorUnselected: white, selection: whiteBackground}
+},
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+default: { vScroll: whiteBackground, hScrollKnob: knobHorizontal, background: slider, hScroll: black, vScrollKnob: knobVertical }
+},
+com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
+default: { background: black, font: default-font, fontColor: white, listStyle: default, scrollStyle: default}
 }
 }

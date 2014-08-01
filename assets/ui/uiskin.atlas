@@ -5,147 +5,154 @@ filter: Nearest,Nearest
 repeat: none
 defaultButton
   rotate: false
-  xy: 1, 285
+  xy: 1, 302
   size: 500, 200
   orig: 500, 200
   offset: 0, 0
   index: -1
 defaultButtonDown
   rotate: false
-  xy: 1, 83
+  xy: 1, 100
   size: 500, 200
   orig: 500, 200
   offset: 0, 0
   index: -1
 joinRandomRoomButton
   rotate: false
-  xy: 503, 285
+  xy: 503, 302
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 joinRandomRoomButtonDown
   rotate: false
-  xy: 503, 83
+  xy: 503, 100
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 noButton
   rotate: false
-  xy: 1, 6
+  xy: 1, 23
   size: 150, 75
   orig: 150, 75
   offset: 0, 0
   index: -1
 noButtonDown
   rotate: false
-  xy: 705, 410
+  xy: 705, 427
   size: 150, 75
   orig: 150, 75
   offset: 0, 0
   index: -1
 okButton
   rotate: false
-  xy: 153, 6
+  xy: 153, 23
   size: 150, 75
   orig: 150, 75
   offset: 0, 0
   index: -1
 okButtonDown
   rotate: false
-  xy: 705, 333
+  xy: 705, 350
   size: 150, 75
   orig: 150, 75
   offset: 0, 0
   index: -1
 yesButton
   rotate: false
-  xy: 857, 410
+  xy: 857, 427
   size: 150, 75
   orig: 150, 75
   offset: 0, 0
   index: -1
 yesButtonDown
   rotate: false
-  xy: 305, 6
+  xy: 305, 23
   size: 150, 75
   orig: 150, 75
   offset: 0, 0
   index: -1
 toggleWidgetButtonHorizontal
   rotate: false
-  xy: 705, 281
+  xy: 705, 298
   size: 150, 50
   orig: 150, 50
   offset: 0, 0
   index: -1
 toggleWidgetButtonVertical
   rotate: false
-  xy: 705, 129
+  xy: 705, 146
   size: 50, 150
   orig: 50, 150
   offset: 0, 0
   index: -1
 settingsButton
   rotate: false
-  xy: 857, 328
+  xy: 857, 345
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 settingsButtonDown
   rotate: false
-  xy: 757, 199
+  xy: 757, 216
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 soundButton
   rotate: false
-  xy: 457, 1
+  xy: 457, 18
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 soundButtonDown
   rotate: false
-  xy: 539, 1
+  xy: 539, 18
   size: 80, 80
   orig: 80, 80
   offset: 0, 0
   index: -1
 defaultBackground
   rotate: false
-  xy: 939, 358
+  xy: 939, 375
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 knobHorizontal
   rotate: false
-  xy: 857, 296
+  xy: 857, 313
   size: 60, 30
   orig: 60, 30
   offset: 0, 0
   index: -1
 knobVertical
   rotate: false
-  xy: 857, 296
+  xy: 857, 313
   size: 30, 60
   orig: 30, 60
   offset: 0, 0
   index: -1
 black
   rotate: false
-  xy: 705, 102
+  xy: 705, 119
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+whiteBackground
+  rotate: false
+  xy: 757, 189
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 slider
   rotate: false
-  xy: 757, 177
+  xy: 1, 1
   size: 20, 20
   orig: 20, 20
   offset: 0, 0
