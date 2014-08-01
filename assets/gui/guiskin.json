@@ -3,6 +3,10 @@ com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
 banditJumpButton: { down: banditJumpButton, up: banditJumpButton },
 banditSlideButton: { down: banditSlideButton, up: banditSlideButton },
 banditSlowButton: { down: banditSlowButton, up: banditSlowButton },
-banditBombAbilityButton: { down: banditBombAbilityButton, up: banditBombAbilityButton }
+banditBombAbilityButton: { down: banditBombAbilityButton, up: banditBombAbilityButton },
+archerJumpButton: { down: archerJumpButton, up: archerJumpButton },
+archerSlideButton: { down: archerSlideButton, up: archerSlideButton },
+archerSlowButton: { down: archerSlowButton, up: archerSlowButton },
+archerArrowAbilityButton: { down: archerArrowAbilityButton, up: archerArrowAbilityButton }
 }
 }

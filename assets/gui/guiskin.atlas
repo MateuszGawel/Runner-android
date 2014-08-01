@@ -1,32 +1,59 @@
-
 guiskin.png
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Linear,Linear
 repeat: none
+archerArrowAbilityButton
+  rotate: false
+  xy: 2, 2
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+archerJumpButton
+  rotate: false
+  xy: 131, 2
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+archerSlideButton
+  rotate: false
+  xy: 260, 2
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+archerSlowButton
+  rotate: false
+  xy: 2, 135
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
 banditBombAbilityButton
   rotate: false
-  xy: 1, 1
+  xy: 131, 135
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 banditJumpButton
   rotate: false
-  xy: 131, 1
+  xy: 261, 135
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 banditSlideButton
   rotate: false
-  xy: 261, 1
+  xy: 2, 268
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 banditSlowButton
   rotate: false
-  xy: 391, 1
+  xy: 132, 268
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
