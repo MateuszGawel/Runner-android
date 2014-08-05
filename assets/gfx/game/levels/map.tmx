@@ -35,8 +35,8 @@
  </layer>
  <objectgroup name="Terrainlayer" width="200" height="20">
   <properties>
-   <property name="physicsEnabled" value="true"/>
-   <property name="terrain" value="true"/>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
   </properties>
   <object x="0" y="960">
    <polyline points="0,0 832,0 960,-64 1152,-64 1280,0 3136,0 3520,-192 3776,-192 3904,-128 4224,-128 4352,-64 4800,-64 4928,0 8000,0 8256,-128 8320,-128 8320,0 10496,0 11136,-320 11776,0 12672,0 12672,-704 12800,-704"/>
@@ -44,8 +44,8 @@
  </objectgroup>
  <objectgroup name="KillingLayer" width="200" height="20">
   <properties>
-   <property name="killing" value="true"/>
-   <property name="physicsEnabled" value="true"/>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
   </properties>
   <object x="12684" y="328">
    <polyline points="0,0 -60,0 -82,24 -108,24 -108,8 -98,4 -134,4 -150,-12 -132,-30 -70,-28 -94,-40 -74,-58 -36,-36 -8,-30"/>
@@ -74,8 +74,8 @@
  </objectgroup>
  <objectgroup name="NoKillingLayer" width="200" height="20">
   <properties>
-   <property name="physicsEnabled" value="true"/>
-   <property name="terrain" value="true"/>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
   </properties>
   <object x="2238" y="960">
    <polyline points="0,0 2,-256 -446,-256 -446,0"/>
