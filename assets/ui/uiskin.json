@@ -1,49 +1,77 @@
 {
-com.badlogic.gdx.graphics.g2d.BitmapFont: { default-font: { file: default.fnt }, title-font: { file: title.fnt } },
-com.badlogic.gdx.graphics.Color: {
-green: { a: 1, b: 0, g: 1, r: 0 },
-white: { a: 1, b: 1, g: 1, r: 1 },
-red: { a: 1, b: 0, g: 0, r: 1 },
-black: { a: 1, b: 0, g: 0, r: 0 }
-},
-com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
-settings: { down: settingsButtonDown, up: settingsButton },
-sound: { down: soundButtonDown, up: soundButton },
-joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
-toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
-toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
-blackOut: { down: black, up: black },
-ok: { up: okButton, down: okButtonDown },
-no: { up: noButton, down: noButtonDown },
-yes: { up: yesButton, down: yesButtonDown }
-},
-com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
-small: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
-medium: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
-big: { titleFont: default-font, background: defaultBackground, titleFontColor: white }
-},
-com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
-default: { down: defaultButtonDown, up: defaultButton, font: default-font, fontColor: white }
-},
-com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: {
-default-horizontal: { background: slider, knob: knobHorizontal },
-default-vertical: { background: slider, knob: knobVertical }
-},
-com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
-    default: { font: default-font, fontColor: white },
-    title:  { font: title-font, fontColor: white },
-    dialogLabel: { font: default-font, fontColor: white }
-},
-com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
-default: { background: black, font: default-font, fontColor: white}
-},
-com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: {
-default: { background: black, font: default-font, fontColorSelected: white, fontColorUnselected: white, selection: whiteBackground}
-},
-com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
-default: { vScroll: whiteBackground, hScrollKnob: knobHorizontal, background: slider, hScroll: black, vScrollKnob: knobVertical }
-},
-com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: {
-default: { background: black, font: default-font, fontColor: white, listStyle: default, scrollStyle: default}
-}
+	com.badlogic.gdx.graphics.g2d.BitmapFont: 
+	{ 
+		default-font: { file: default.fnt }, 
+		title-font: { file: title.fnt } 
+	},
+
+	com.badlogic.gdx.graphics.Color: 
+	{
+		green: { a: 1, b: 0, g: 1, r: 0 },
+		white: { a: 1, b: 1, g: 1, r: 1 },
+		red: { a: 1, b: 0, g: 0, r: 1 },
+		black: { a: 1, b: 0, g: 0, r: 0 }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
+	{
+		settings: { down: settingsButtonDown, up: settingsButton },
+		sound: { down: soundButtonDown, up: soundButton },
+		joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
+		toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
+		toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
+		blackOut: { down: black, up: black },
+		ok: { up: okButton, down: okButtonDown },
+		no: { up: noButton, down: noButtonDown },
+		yes: { up: yesButton, down: yesButtonDown }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
+	{
+		default: { down: defaultButtonDown, up: defaultButton, font: default-font, fontColor: white },
+		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: default-font, fontColor: white },
+		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: default-font, fontColor: white },
+		westWildCampaignButton: { up: westWildCampaignButtonUp, down: westWildCampaignButtonDown, font: default-font, fontColor: white },
+		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: default-font, fontColor: white }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: 
+	{
+		small: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
+		medium: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
+		big: { titleFont: default-font, background: defaultBackground, titleFontColor: white }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: 
+	{
+		default-horizontal: { background: slider, knob: knobHorizontal },
+		default-vertical: { background: slider, knob: knobVertical }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
+	{
+	    default: { font: default-font, fontColor: white },
+	    title:  { font: title-font, fontColor: white },
+	    dialogLabel: { font: default-font, fontColor: white }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 
+	{
+		default: { background: black, font: default-font, fontColor: white}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: 
+	{
+		default: { background: black, font: default-font, fontColorSelected: white, fontColorUnselected: white, selection: whiteBackground}
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
+	{
+		default: { vScroll: whiteBackground, hScrollKnob: knobHorizontal, background: slider, hScroll: black, vScrollKnob: knobVertical }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: 
+	{
+		default: { background: black, font: default-font, fontColor: white, listStyle: default, scrollStyle: default}
+	}
 }

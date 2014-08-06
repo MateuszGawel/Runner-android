@@ -15,9 +15,22 @@
 			<level buttonLabel="10" mapPath="gfx/game/levels/map.tmx" unlockKey="map10.0"></level>
 			<level buttonLabel="11" mapPath="gfx/game/levels/map2.tmx" unlockKey="map11.0"></level>
 			<level buttonLabel="12" mapPath="gfx/game/levels/map2.tmx" unlockKey="map12.0"></level>
-			<level buttonLabel="13" mapPath="gfx/game/levels/map2.tmx" unlockKey="map13.0"></level>
+		</campaign>
+		<multiplayer>
+		    <level buttonLabel="13" mapPath="gfx/game/levels/map2.tmx" unlockKey="map13.0"></level>
 			<level buttonLabel="14" mapPath="gfx/game/levels/map2.tmx" unlockKey="map14.0"></level>
 			<level buttonLabel="15" mapPath="gfx/game/levels/map2.tmx" unlockKey="map15.0"></level>
+		</multiplayer>
+	</world>
+	<world name="forest">
+        <campaign>
+		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
+			<level buttonLabel="1" mapPath="gfx/game/levels/map.tmx" unlockKey="map1.0"></level>
+			<level buttonLabel="2" mapPath="gfx/game/levels/map2.tmx" unlockKey="map2.0"></level>
+			<level buttonLabel="3" mapPath="gfx/game/levels/map2.tmx" unlockKey="map3.0"></level>
+			<level buttonLabel="4" mapPath="gfx/game/levels/map.tmx" unlockKey="map4.0"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/map2.tmx" unlockKey="map5.0"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/map2.tmx" unlockKey="map6.0"></level>
 		</campaign>
 		<multiplayer>
 		    <level buttonLabel="13" mapPath="gfx/game/levels/map2.tmx" unlockKey="map13.0"></level>
