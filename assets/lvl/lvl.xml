@@ -31,6 +31,9 @@
 			<level buttonLabel="4" mapPath="gfx/game/levels/map.tmx" unlockKey="map4.0"></level>
 			<level buttonLabel="5" mapPath="gfx/game/levels/map2.tmx" unlockKey="map5.0"></level>
 			<level buttonLabel="6" mapPath="gfx/game/levels/map2.tmx" unlockKey="map6.0"></level>
+			<level buttonLabel="4" mapPath="gfx/game/levels/map.tmx" unlockKey="map4.0"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/map2.tmx" unlockKey="map5.0"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/map2.tmx" unlockKey="map6.0"></level>
 		</campaign>
 		<multiplayer>
 		    <level buttonLabel="13" mapPath="gfx/game/levels/map2.tmx" unlockKey="map13.0"></level>
