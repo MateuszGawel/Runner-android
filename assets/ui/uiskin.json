@@ -15,8 +15,10 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
 	{
-		settings: { down: settingsButtonDown, up: settingsButton },
-		sound: { down: soundButtonDown, up: soundButton },
+		settings: { down: settingsButton, up: settingsButton },
+		soundOn: { down: soundButtonOn, up: soundButtonOn },
+		facebook: { down: facebookButton, up: facebookButton },
+		googlePlus: { down: googlePlusButton, up: googlePlusButton },
 		joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
 		toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
 		toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
@@ -28,11 +30,13 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
 	{
-		default: { down: defaultButtonDown, up: defaultButton, font: default-font, fontColor: white },
+		default: { down: defaultButton, up: defaultButton, font: default-font, fontColor: white },
 		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: default-font, fontColor: white },
 		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: default-font, fontColor: white },
 		westWildCampaignButton: { up: westWildCampaignButtonUp, down: westWildCampaignButtonDown, font: default-font, fontColor: white },
-		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: default-font, fontColor: white }
+		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: default-font, fontColor: white },
+		spaceCampaignButton: { up: spaceCampaignButtonUp, down: spaceCampaignButtonDown, font: default-font, fontColor: white },
+		spaceCampaignLockedButton: { up: spaceCampaignLockedButtonUp, down: spaceCampaignLockedButtonDown, font: default-font, fontColor: white }
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: 
