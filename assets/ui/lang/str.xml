@@ -19,6 +19,7 @@
 	    <string key = "campaignLabel">Ekran Kampanii</string>
 	    <string key = "createRoomLabel">Ekran Tworzenia Pokoju</string>
 	    <string key = "joinRoomLabel">Ekran Wyszukiwania Pokoju</string>
+	    <string key = "loadingLabel">Wczytywanie</string>
 	</language>
 	
 	<language id = "en" description = "english" icoFilePath = "ui/lang/flags/uk.png" chosenIcoFilePath = "ui/lang/flags/uk_chosen.png" default = "true">
@@ -39,6 +40,7 @@
 	    <string key = "campaignLabel">Campaign Screen</string>
 	    <string key = "createRoomLabel">Creating Room Screen</string>
 	    <string key = "joinRoomLabel">Finding Room Screen</string>
+	    <string key = "loadingLabel">Loading</string>
 	</language>
 	
 </languages>
