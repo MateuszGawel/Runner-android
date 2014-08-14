@@ -17,6 +17,7 @@
 	{
 		settings: { down: settingsButton, up: settingsButton },
 		soundOn: { down: soundButtonOn, up: soundButtonOn },
+		soundOff: { down: soundButtonOff, up: soundButtonOff },
 		facebook: { down: facebookButton, up: facebookButton },
 		googlePlus: { down: googlePlusButton, up: googlePlusButton },
 		joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
