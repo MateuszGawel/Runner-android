@@ -31,6 +31,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
 	{
+		loader: { down: knobHorizontal, up: knobHorizontal, font: default-font, fontColor: white },
 		default: { down: defaultButton, up: defaultButton, font: default-font, fontColor: white },
 		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: default-font, fontColor: white },
 		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: default-font, fontColor: white },
