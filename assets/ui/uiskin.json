@@ -20,7 +20,7 @@
 		soundOff: { down: soundButtonOff, up: soundButtonOff },
 		facebook: { down: facebookButton, up: facebookButton },
 		googlePlus: { down: googlePlusButton, up: googlePlusButton },
-		joinRandomRoom: { down: joinRandomRoomButtonDown, up: joinRandomRoomButton },
+		joinRandomRoom: { down: joinRandomRoomButton, up: joinRandomRoomButton },
 		toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
 		toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
 		blackOut: { down: black, up: black },
