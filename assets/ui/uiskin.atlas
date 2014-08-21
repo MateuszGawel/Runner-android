@@ -192,6 +192,27 @@ soundButtonOn
   orig: 111, 111
   offset: 0, 0
   index: -1
+backButton
+  rotate: false
+  xy: 630, 670
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+campaignArrowLeft
+  rotate: false
+  xy: 742, 679
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
+campaignArrowRight
+  rotate: false
+  xy: 362, 242
+  size: 107, 87
+  orig: 107, 87
+  offset: 0, 0
+  index: -1
 defaultBackground
   rotate: false
   xy: 855, 829
@@ -201,16 +222,30 @@ defaultBackground
   index: -1
 knobHorizontal
   rotate: false
-  xy: 630, 736
+  xy: 359, 210
   size: 60, 30
   orig: 60, 30
   offset: 0, 0
   index: -1
 knobVertical
   rotate: false
-  xy: 630, 736
+  xy: 359, 210
   size: 30, 60
   orig: 30, 60
+  offset: 0, 0
+  index: -1
+closeWidgetButton
+  rotate: false
+  xy: 471, 294
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+widgetBackground
+  rotate: false
+  xy: 855, 797
+  size: 30, 30
+  orig: 30, 30
   offset: 0, 0
   index: -1
 black
@@ -222,7 +257,7 @@ black
   index: -1
 whiteBackground
   rotate: false
-  xy: 855, 802
+  xy: 907, 854
   size: 25, 25
   orig: 25, 25
   offset: 0, 0

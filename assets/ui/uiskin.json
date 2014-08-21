@@ -15,6 +15,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
 	{
+		back: { down: backButton, up: backButton },
 		settings: { down: settingsButton, up: settingsButton },
 		soundOn: { down: soundButtonOn, up: soundButtonOn },
 		soundOff: { down: soundButtonOff, up: soundButtonOff },
@@ -24,6 +25,9 @@
 		toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
 		toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
 		blackOut: { down: black, up: black },
+		closeWidget: { down: closeWidgetButton, up: closeWidgetButton },
+		campaignArrowLeft: { down: campaignArrowLeft, up: campaignArrowLeft },
+		campaignArrowRight: { down: campaignArrowRight, up: campaignArrowRight },
 		ok: { up: okButton, down: okButtonDown },
 		no: { up: noButton, down: noButtonDown },
 		yes: { up: yesButton, down: yesButtonDown }
@@ -43,9 +47,9 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: 
 	{
-		small: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
-		medium: { titleFont: default-font, background: defaultBackground, titleFontColor: white },
-		big: { titleFont: default-font, background: defaultBackground, titleFontColor: white }
+		small: { titleFont: default-font, background: widgetBackground, titleFontColor: white },
+		medium: { titleFont: default-font, background: widgetBackground, titleFontColor: white },
+		big: { titleFont: default-font, background: widgetBackground, titleFontColor: white }
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: 
