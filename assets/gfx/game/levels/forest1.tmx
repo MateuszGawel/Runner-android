@@ -40,8 +40,8 @@
  </layer>
  <objectgroup name="Terrainlayer" width="200" height="20">
   <properties>
-   <property name="physicsEnabled" value="true"/>
-   <property name="terrain" value="true"/>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
   </properties>
   <object x="0" y="957">
    <polyline points="0,0 2112,3 2752,-317 2816,-317 2816,-189 2688,-189 2688,-125 2560,-125 2560,-61 2496,-61 2496,3 2432,3 2432,67 2368,67 2368,259 2368,323 0,323 0,3"/>
