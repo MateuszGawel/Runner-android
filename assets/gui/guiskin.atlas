@@ -2,58 +2,86 @@ guiskin.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-archerArrowAbilityButton
+alienJumpButton
   rotate: false
   xy: 2, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienLiftAbilityButton
+  rotate: false
+  xy: 130, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienSlideButton
+  rotate: false
+  xy: 2, 130
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienSlowButton
+  rotate: false
+  xy: 130, 130
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+archerArrowAbilityButton
+  rotate: false
+  xy: 2, 258
   size: 127, 131
   orig: 127, 131
   offset: 0, 0
   index: -1
 archerJumpButton
   rotate: false
-  xy: 131, 2
+  xy: 131, 258
   size: 127, 131
   orig: 127, 131
   offset: 0, 0
   index: -1
 archerSlideButton
   rotate: false
-  xy: 260, 2
+  xy: 2, 391
   size: 127, 131
   orig: 127, 131
   offset: 0, 0
   index: -1
 archerSlowButton
   rotate: false
-  xy: 2, 135
+  xy: 131, 391
   size: 127, 131
   orig: 127, 131
   offset: 0, 0
   index: -1
 banditBombAbilityButton
   rotate: false
-  xy: 131, 135
+  xy: 2, 524
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 banditJumpButton
   rotate: false
-  xy: 261, 135
+  xy: 132, 524
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 banditSlideButton
   rotate: false
-  xy: 2, 268
+  xy: 2, 654
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 banditSlowButton
   rotate: false
-  xy: 132, 268
+  xy: 132, 654
   size: 128, 128
   orig: 128, 128
   offset: 0, 0

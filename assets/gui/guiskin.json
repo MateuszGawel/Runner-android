@@ -7,6 +7,10 @@ banditBombAbilityButton: { down: banditBombAbilityButton, up: banditBombAbilityB
 archerJumpButton: { down: archerJumpButton, up: archerJumpButton },
 archerSlideButton: { down: archerSlideButton, up: archerSlideButton },
 archerSlowButton: { down: archerSlowButton, up: archerSlowButton },
-archerArrowAbilityButton: { down: archerArrowAbilityButton, up: archerArrowAbilityButton }
+archerArrowAbilityButton: { down: archerArrowAbilityButton, up: archerArrowAbilityButton },
+alienJumpButton: { down: alienJumpButton, up: alienJumpButton },
+alienSlideButton: { down: alienSlideButton, up: alienSlideButton },
+alienSlowButton: { down: alienSlowButton, up: alienSlowButton },
+alienLiftAbilityButton: { down: alienLiftAbilityButton, up: alienLiftAbilityButton }
 }
 }
