@@ -15,7 +15,7 @@
  </layer>
  <layer name="Obstacles" width="200" height="20">
   <data encoding="base64" compression="zlib">
-   eJzt18EKwjAQhOGctIJerYJe2wr6Tn3/p3C8BQSFZGvG8n8w92FJwiYlAAAAAADwa9uU5l4ZldZdADcb3YujMnA/AAAAAGT0V3j9p1GBGa6X/tGpb13izzHD9RqUsXWJD/bKoXWJL9xniHedsmtdIlO6g1yUa3CXnNucHDm+UbU77Uk5B3WJULqD3JVHcJec25wcLf1GlajdaSflFtQlgusO4jYnR0u/USVczxMAAAAAOHsCOn0HYA==
+   eJzt2DsOg0AMBcCt8rkAhAtAcqvc/xQxXQqKjbCyLmak1z9ZXsnQGgAAAPBv19bec2SLjO4C1VziXUyR1fsAAABIFd9b+z8J4MAUmUeXgKLWyDa6BD+5Re6jS3ypeoNUmxN9zu7TI7IkdclQ9QapNif6nN2nZ+SV1CVD1Ruk2pzoU3WfAAAAKvsAutgFgw==
   </data>
  </layer>
  <layer name="Decorations #Back" width="200" height="20">
@@ -50,17 +50,11 @@
   <object x="12684" y="328">
    <polyline points="0,0 -60,0 -82,24 -108,24 -108,8 -98,4 -134,4 -150,-12 -132,-30 -70,-28 -94,-40 -74,-58 -36,-36 -8,-30"/>
   </object>
-  <object x="11280" y="716">
-   <polyline points="0,0 6,-38 32,-68 24,-96 10,-88 6,-134 -26,-146 -28,-110 -42,-110 -56,-94 -40,-72 -28,-14"/>
-  </object>
   <object x="10652" y="900">
    <polyline points="0,0 16,-60 -6,-76 -50,-72 -70,-52 -54,-4"/>
   </object>
   <object x="9612" y="972">
    <polyline points="0,0 2,-28 30,-60 30,-90 10,-84 6,-130 -10,-144 -22,-132 -24,-102 -40,-110 -48,-98 -28,-56 -24,-10"/>
-  </object>
-  <object x="7258" y="964">
-   <polyline points="0,0 2,-8 -12,-6 -8,-24 -16,-64 -14,-90 -38,-92 -36,-74 -50,-36 -46,-8 -66,-6 -62,2"/>
   </object>
   <object x="2540" y="970">
    <polyline points="0,0 -22,-52 -6,-82 50,-80 68,-58 42,-4"/>
@@ -68,23 +62,42 @@
   <object x="3570" y="778">
    <polyline points="61,4 65,-54 37,-82 45,-104 63,-90 65,-138 91,-134 97,-102 91,-66 101,-84 121,-82 113,-38 93,-20 91,-4"/>
   </object>
-  <object x="986" y="906">
-   <polyline points="0,0 -2,-16 16,-16 8,-42 34,-96 48,-94 48,-62 58,-32 54,-10 74,-10 66,-8"/>
+  <object type="bonfire" x="1016" y="904">
+   <polyline points="17,-10 36,-68 54,-10"/>
   </object>
-  <object type="jointHandle" x="643" y="575" width="61" height="64">
+  <object type="jointHandle" x="896" y="256" width="61" height="64">
    <properties>
     <property name="jointId" value="1"/>
     <property name="myName" value="h"/>
    </properties>
    <ellipse/>
   </object>
-  <object x="643" y="578" width="60" height="59">
+  <object type="barrel" x="11198" y="561" width="60" height="59">
    <properties>
     <property name="isJointed" value="true"/>
     <property name="jointId" value="1"/>
     <property name="myName" value="o"/>
    </properties>
    <ellipse/>
+  </object>
+  <object type="barrel" x="11200" y="624" width="60" height="59">
+   <properties>
+    <property name="isJointed" value="true"/>
+    <property name="jointId" value="1"/>
+    <property name="myName" value="o"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object type="barrel" x="11140" y="593" width="60" height="59">
+   <properties>
+    <property name="isJointed" value="true"/>
+    <property name="jointId" value="1"/>
+    <property name="myName" value="o"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object type="bonfire" x="7193" y="968">
+   <polyline points="17,-10 36,-68 54,-10"/>
   </object>
  </objectgroup>
  <objectgroup name="NoKillingLayer" width="200" height="20">
