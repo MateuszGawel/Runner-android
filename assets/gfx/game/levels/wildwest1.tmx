@@ -74,18 +74,38 @@
   <object type="bonfire" x="1074" y="895">
    <polygon points="0,0 44,0 21,-60"/>
   </object>
-  <object type="jointHandle" x="736" y="288" width="64" height="64">
+  <object type="jointHandle" x="703" y="510" width="63" height="64">
    <properties>
     <property name="jointId" value="0"/>
     <property name="myName" value="A"/>
    </properties>
    <ellipse/>
   </object>
-  <object x="928" y="480" width="64" height="64">
+  <object x="252" y="769" width="131" height="183"/>
+  <object type="jointHandle" x="2316" y="398" width="41" height="40">
+   <properties>
+    <property name="jointId" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object type="jointHandle" x="2697" y="403" width="34" height="33">
+   <properties>
+    <property name="jointId" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object x="2307" y="643" width="440" height="56">
+   <properties>
+    <property name="isDynamic" value="true"/>
+    <property name="isJointed" value="true"/>
+    <property name="jointId" value="1;2"/>
+    <property name="jointX" value="-3;3"/>
+   </properties>
+  </object>
+  <object type="barrel" x="840" y="620" width="67" height="68">
    <properties>
     <property name="isJointed" value="true"/>
     <property name="jointId" value="0"/>
-    <property name="myName" value="B"/>
    </properties>
    <ellipse/>
   </object>
