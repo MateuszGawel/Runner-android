@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="ground" tilewidth="64" tileheight="64">
+  <image source="ground.png" width="1024" height="1024"/>
+ </tileset>
+ <layer name="Ground" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlwFuwjAQBP2I9gGG9gEQPsDP+vRiNSct27mkqkCh9FaycBLbOe/tnkNrhUKhUCgUCoVCoVAoFLbCW2sfu62DKBQeFKeLP85bB1EoPCjKH4VCjuGPaesgCoUHxfDHcesgCoUHRZ0fhb+I14tuX77a6N8N9f+j8JcQvnifdTu+fUZ9v5dPnvn8CC73l/5ou7ndu+YUbg/3xaF9eeM490e7PLt5bp/RH8plcDea8jq4DN/09r+9E3y9bR0IQHMZZ0W0yGX07+GT06yh3yBiH/oKrW2pL68xg7eoMZNdK7c6Njju7do3O7l+Fg+59k5bByTQ2CJHkbPxq/44z029Mq5v4ZPwh35/dPvdy2+X66jPEWNo8L1da0vn72Vt/+7RPt3rMq/DOpFn0r36gp7pte7Fedc9Elfe1xh7u/ad95WPvd3TscRht/vKn4/R/Lne/DztsAbtsyfv82eUP1ojfKF5UH+c5Z7myHMY3woeg/Pl8cdz1ZO+/9C+a0vHLM072Bq03mTPfW3Xo39rTrYmxeBn72TjfazHS3s52hw/jzR+8iWdYTqeYqRz0GP2uI/wfop9at/j8nfTc303feNQy9Z1jkkLdO5P8FyvKSdrGtS5Gptz6Dyt5Yu4dT5pj9TPNEmxZVxQDkhjHkOmb9cB6Ya8uJQ7z4nnZ6nm+Dy6T/qlHC3VPVo7Wz/bX8ZtVneyeX7fa2S2zyW/0Z7cg8Qz8bRWP9c8TXqinFCd8HODPOeez3zh8TifWY3M8kwede1l+iI9ZNe0P6odGdekZdLNkmapXq7leclndC+rEfp+ioHqHenIc0S1KvPv2nOKz3mhuEhD7gfiiNYmjft+XWe+N/J1Ni+rsdmZRp7JfLVWa6g+0Jif1BTyGenPeScPEM9UI117tFeqQUteJl5oDPGV6ZXerbF+AjB46Kc=
+  </data>
+ </layer>
+ <layer name="Objects" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmEsuBUEUhmsH7IAdsAkMMHQvwdArWAGGGGCoEQy9ghVgb/6K28lx0yfpOrequ3L7/5Iv6XR1V9frJH/aOUIIIYQQQgghhBCiMQfnBy60PBZCcmMFrsI12G95LITkhq+PXbjnWB+kW8jsVKXPU74+egNT18cpPDN4nnhcpJvI7NQTyjzVZL66hrfwDhZD10XFvfL6JvG4SDeR2UnWh8xTTeYrXx+v8M39nX95XVTcK69ZH3HRcsU4/Z8JzU5V9l2z+crXR2GQ9REXv+eLcAkuu7z/z0zAScN7Mhdpcw19pq18dQEv4ZXSPu71YT0D1v79nq/DDbjpRssPqcc+BacN78lcpM019BlrfdRdIy1f3cMH+Ki0h9ZH6j2L/T3rGbD27/d8Hx7AQzdafkg99hk4a3hP5iJtrqHPWOuj7hpp+eodfsBPpT20PlLvWezvWc+Atf8teASP4bZwJ0LfueDnWM6rnOuJ+z/X0Gcs6+Opu0ZP8LnCL/gNf5T2l0TjiUWuZ4QQQgghhBBChvkFg5iSEQ==
+  </data>
+ </layer>
+ <layer name="Obstacles" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt2DsOg0AMBcCt8rkAhAtAcqvc/xQxXQqKjbCyLmak1z9ZXsnQGgAAAPBv19bec2SLjO4C1VziXUyR1fsAAABIFd9b+z8J4MAUmUeXgKLWyDa6BD+5Re6jS3ypeoNUmxN9zu7TI7IkdclQ9QapNif6nN2nZ+SV1CVD1Ruk2pzoU3WfAAAAKvsAutgFgw==
+  </data>
+ </layer>
+ <layer name="Decorations #Back" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0kEKgDAMBMC+o/6g/v9/ehFEKNi00csM7DHdBFoKAAAAAAAAAAAAAF+pZ7a/l+BXteT+g+f7tZPR/msm8/+2M3tgrnfjTKJ3vp2994wmY59VZvtaif+DyPutk9H+ayZr7xm9G2cSvfPt7L1nNBn7rPJ1HwAAQNQBz1MQYw==
+  </data>
+ </layer>
+ <layer name="Decorations #Middle" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1tENhTAIAEAncQR3dIS38ZugtZAa1N79kraAJLhtAAAAAAAAAAC81VmdwAfs1Qlwm191Ah9wVCfAslbYb/ZPjaf1PTPrkf3Wqvfq3VZ879w506z906sje3Y0HulTZA4yNY3mMnPvz5iTu//lWvVevduKH507n6hXR/bsaDzSp8gcZGqq+GZvmhMAAGBdf1aYDfk=
+  </data>
+ </layer>
+ <layer name="Decorations" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0UkKRCEMBcC/6uECPVygh/tfsLMUUXGhLUgVvF0gL+Q4AAAAAAAAAAAAAPZxipxXl5gova92a8/MJXId3q7dJd9b6rD7/1a7Re6rS0yU3le7tWfmEXkOb9fuku8tddj9f6u9Iu/VJSZK76vd2jPziXyHt2t3yfeWOuz+PwAAgH/6AfOYBWs=
+  </data>
+ </layer>
+ <objectgroup name="Terrainlayer" width="200" height="20">
+  <properties>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object x="0" y="960">
+   <polyline points="0,0 832,0 960,-64 1152,-64 1280,0 3136,0 3520,-192 3776,-192 3904,-128 4224,-128 4352,-64 4800,-64 4928,0 8000,0 8256,-128 8320,-128 8320,0 10496,0 11136,-320 11776,0 12672,0 12672,-704 12800,-704"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="KillingLayer" width="200" height="20">
+  <properties>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object x="12684" y="328">
+   <polyline points="0,0 -60,0 -82,24 -108,24 -108,8 -98,4 -134,4 -150,-12 -132,-30 -70,-28 -94,-40 -74,-58 -36,-36 -8,-30"/>
+  </object>
+  <object x="10652" y="900">
+   <polyline points="0,0 16,-60 -6,-76 -50,-72 -70,-52 -54,-4"/>
+  </object>
+  <object x="9612" y="972">
+   <polyline points="0,0 2,-28 30,-60 30,-90 10,-84 6,-130 -10,-144 -22,-132 -24,-102 -40,-110 -48,-98 -28,-56 -24,-10"/>
+  </object>
+  <object x="2540" y="970">
+   <polyline points="0,0 -22,-52 -6,-82 50,-80 68,-58 42,-4"/>
+  </object>
+  <object x="3570" y="778">
+   <polyline points="61,4 65,-54 37,-82 45,-104 63,-90 65,-138 91,-134 97,-102 91,-66 101,-84 121,-82 113,-38 93,-20 91,-4"/>
+  </object>
+  <object type="barrel" x="11194" y="563" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="11193" y="624" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="11139" y="592" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="bonfire" x="1074" y="895">
+   <polygon points="0,0 44,0 21,-60"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="NoKillingLayer" width="200" height="20">
+  <properties>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object x="2238" y="960">
+   <polyline points="0,0 2,-256 -446,-256 -446,0"/>
+  </object>
+  <object x="1660" y="962">
+   <polyline points="0,0 4,-32 -8,-38 -12,-72 -44,-76 -70,-74 -104,-58 -94,-30 -102,-2"/>
+  </object>
+  <object x="3040" y="957">
+   <polyline points="0,0 0,-27 -8,-55 24,-72 40,-67 77,-65 81,-32 91,-1"/>
+  </object>
+  <object x="4572" y="896">
+   <polyline points="0,0 4,-31 -3,-55 28,-75 47,-63 65,-65 81,-55 85,-39 95,-20 92,0"/>
+  </object>
+  <object x="5440" y="959">
+   <polyline points="0,0 0,-255 576,-255 576,-447 1152,-447 1152,-639 1408,-639 1408,1"/>
+  </object>
+  <object x="7712" y="956">
+   <polyline points="0,0 -4,-25 -1,-27 -1,-48 27,-67 45,-60 71,-56 81,-44 79,-31 92,-17 92,3"/>
+  </object>
+  <object x="8320" y="955">
+   <polyline points="0,0 0,-443 960,-443 960,5"/>
+  </object>
+  <object x="10012" y="960">
+   <polyline points="0,0 0,-27 -1,-51 32,-77 44,-67 73,-67 87,-52 84,-36 96,-15 93,-1"/>
+  </object>
+  <object x="11801" y="955">
+   <polyline points="0,0 8,-25 3,-47 32,-68 49,-60 72,-60 89,-47 88,-32 103,-9 100,4"/>
+  </object>
+  <object x="2307" y="643" width="440" height="56">
+   <properties>
+    <property name="isDynamic" value="true"/>
+    <property name="isJointed" value="true"/>
+    <property name="jointId" value="1;2"/>
+    <property name="jointX" value="-3;3"/>
+   </properties>
+  </object>
+  <object type="jointHandle" x="2697" y="403" width="34" height="33">
+   <properties>
+    <property name="jointId" value="2"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object type="jointHandle" x="2316" y="398" width="41" height="40">
+   <properties>
+    <property name="isGhost" value="true"/>
+    <property name="jointId" value="1"/>
+   </properties>
+   <ellipse/>
+  </object>
+ </objectgroup>
+</map>
