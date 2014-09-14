@@ -10,7 +10,7 @@
  </layer>
  <layer name="Ground" width="200" height="20">
   <data encoding="base64" compression="zlib">
-   eJztmFFOwzAQRH0F+A0BPhPzDf3laD1Kj8ZRWItGrEYzbioqVRbzJMuV7dgbe2c3binGGGOMMcYYY4wxxhhjjDHGGGNG4bmU41PUU5Stns+/559+Y/4th9DHR9SqRP/r/awz5ja0PNDi/ZYHtt9z+c0HU3E+uAWPsdcPUe5th9nPpTyQ8oH5Ay0OvVgbxlAivpz2xKF3a8gYyZv1YQYi/zeHd7N8P5tS/1birtHuHFcxqj6WKOu5rqls7Wvqx3oh7diH4/bMncfleoU2ZkNNz+e5amdc7qtkzqVwu6sYX8n6CzyzkufYemin2jdmA9rL9hXHqvPPe9rquHNcpZOR9ZHPFM9E+XZuZ/vP2nF+dc7MZ9l45TdKK+pdlZ7x3TF+VFjvkv3M15mOcC0ct0cPbC4cx/SF54rvg/17dTKqPlj8xliNelA+0vNrPF/mU8q/2FmxfKJ8CG1n2lI5TNnPxvVyo/Jf9e5MH2pdFidwXbVn+O6oJ6VDtKvpJO7hn6rE/fyrDAjzWbZnLIaq7wjmE+r7hPnI0lmXjcV5VB7BHML8gT2jcpbyx56GWRxhbeiXTJvMr1Wc6p2nyjksdzDbVZxEW74Bigx1vQ==
+   eJztmFFOwzAQRH0F+A0FPhPzDf3laByFo3EU1qIWq9GMm4pAFTFPslzZjr2xd3bjlmKMMcYYY4wxxhhjjDHGGGOMMWYv3Jfydhf1FKXXh9Pvw1e/Mf+WY+jjJWpVov/xetYZsw0tD7R43/NA/30o3/lgKs4HW3Abe30T5dp2mPWcywMpH5gf0OLQg7VhDCXiy/uaOPRsDRkjedpQH/0b2ZjfIv83h3ezfD+bUn8vcddod46L2FIff8kcZTnVNZXevqR+rGfSjn04bs3ceVyuF2hjNtT0fJ6rDsblvkrmnAu3u4rxlaw/wzMLeY6th3aqfWM2oL1sX3GsOv+8p62OO8dFOtmzPvKZ4pko387tbP9ZO86vzpn5LBuv/EZpRb2r0jO+O8aPCuuds5/5OtMRroXj1uiBzYXjmL7wXPF9sH+tTvaqDxa/MVajHpSPjPwaz5f5lPIvdlYsnygfQtuZtlQOU/azcaPcqPxXvTvTh1qXxQlcV+0ZvjvqSekQ7Wo6iXv4qypxP/8oO4T5LNszFkPVdwTzCfV9wnxkHqzLxuI8Ko9gDmH+wJ5ROUv540jDLI6wNvRLpk3m1ypOjc5T5RyWO5jtKk6iLZ8DxHX3
   </data>
  </layer>
  <layer name="Objects" width="200" height="20">
@@ -58,9 +58,27 @@
  </objectgroup>
  <objectgroup name="KillingLayer" width="200" height="20">
   <properties>
-   <property name="killing" value="true"/>
-   <property name="physicsEnabled" value="true"/>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
   </properties>
+  <object type="mushroom" x="1155" y="912">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="1860" y="911">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="3012" y="910">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="2880" y="911">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="3140" y="909">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="4163" y="911">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
  </objectgroup>
  <objectgroup name="NoKillingLayer" width="200" height="20">
   <properties>
