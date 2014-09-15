@@ -80,5 +80,13 @@
    <property name="PhysicsEnabled" value="true"/>
   </properties>
   <object x="3455" y="852" width="63" height="107"/>
+  <object x="4811" y="857" width="39" height="101"/>
+  <object x="5066" y="905" width="42" height="53"/>
+  <object x="3787" y="846" width="125" height="111"/>
+  <object x="3919" y="784" width="47" height="173"/>
+  <object x="3970" y="780" width="197" height="37"/>
+  <object x="4171" y="665" width="43" height="295"/>
+  <object x="4217" y="716" width="319" height="106"/>
+  <object x="3147" y="655" width="297" height="111"/>
  </objectgroup>
 </map>
