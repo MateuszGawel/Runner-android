@@ -47,6 +47,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: 
 	{
+		default: { titleFont: default-font, titleFontColor: white },
 		small: { titleFont: default-font, background: widgetBackground, titleFontColor: white },
 		medium: { titleFont: default-font, background: widgetBackground, titleFontColor: white },
 		big: { titleFont: default-font, background: widgetBackground, titleFontColor: white }
