@@ -70,20 +70,15 @@
   <object type="mushroom" x="3140" y="909">
    <polygon points="-3,27 126,26 62,47"/>
   </object>
-  <object type="catapult" x="1872" y="957" width="159" height="24"/>
+  <object type="catapult" x="1870" y="953">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
  </objectgroup>
  <objectgroup name="NoKillingLayer" width="200" height="20">
   <properties>
-   <property name="physicsEnabled" value="true"/>
-   <property name="terrain" value="true"/>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object x="3456" y="853">
-   <polygon points="0,0 63,1 61,107 1,107"/>
-  </object>
-  <object x="3789" y="952">
-   <polygon points="0,9 0,-90 23,-109 131,-107 131,-145 179,-171 383,-171 384,-287 423,-289 422,-231 718,-235 745,-208 742,-125 726,-211 426,-207 424,9"/>
-  </object>
-  <object x="4811" y="858" width="39" height="102"/>
-  <object x="5066" y="905" width="40" height="55"/>
+  <object x="3455" y="852" width="63" height="107"/>
  </objectgroup>
 </map>

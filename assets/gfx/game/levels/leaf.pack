@@ -1,0 +1,116 @@
+leaf.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaf0
+  rotate: false
+  xy: 2, 2
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf1
+  rotate: false
+  xy: 291, 2
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf10
+  rotate: false
+  xy: 580, 2
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf11
+  rotate: false
+  xy: 869, 2
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf12
+  rotate: false
+  xy: 2, 181
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf13
+  rotate: false
+  xy: 291, 181
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf14
+  rotate: false
+  xy: 580, 181
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf15
+  rotate: false
+  xy: 869, 181
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf2
+  rotate: false
+  xy: 2, 360
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf3
+  rotate: false
+  xy: 291, 360
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf4
+  rotate: false
+  xy: 580, 360
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf5
+  rotate: false
+  xy: 869, 360
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf6
+  rotate: false
+  xy: 2, 539
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf7
+  rotate: false
+  xy: 291, 539
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf8
+  rotate: false
+  xy: 580, 539
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
+leaf9
+  rotate: false
+  xy: 869, 539
+  size: 287, 177
+  orig: 287, 177
+  offset: 0, 0
+  index: -1
