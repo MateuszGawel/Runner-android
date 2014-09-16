@@ -30,7 +30,8 @@
 		campaignArrowRight: { down: campaignArrowRight, up: campaignArrowRight },
 		ok: { up: okButton, down: okButtonDown },
 		no: { up: noButton, down: noButtonDown },
-		yes: { up: yesButton, down: yesButtonDown }
+		yes: { up: yesButton, down: yesButtonDown },
+		fadeOut: { up: blackNonTransparent, down: blackNonTransparent }
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 

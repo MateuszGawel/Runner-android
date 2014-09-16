@@ -241,9 +241,16 @@ closeWidgetButton
   orig: 35, 35
   offset: 0, 0
   index: -1
-widgetBackground
+blackNonTransparent
   rotate: false
   xy: 855, 797
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+widgetBackground
+  rotate: false
+  xy: 907, 849
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
@@ -257,7 +264,7 @@ black
   index: -1
 whiteBackground
   rotate: false
-  xy: 907, 854
+  xy: 359, 183
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
