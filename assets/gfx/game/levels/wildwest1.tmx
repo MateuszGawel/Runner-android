@@ -131,5 +131,10 @@
   <object x="819" y="619">
    <polygon points="0,0 119,-2 121,48 32,81"/>
   </object>
+  <object type="finishingLine" x="12224" y="64" width="128" height="960">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
  </objectgroup>
 </map>
