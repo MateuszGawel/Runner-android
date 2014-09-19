@@ -55,6 +55,21 @@
   <object x="7232" y="576">
    <polyline points="0,0 0,128 576,128 576,0 0,0"/>
   </object>
+  <object x="3455" y="955">
+   <polygon points="0,0 1,-93 37,-109 63,-92 61,2"/>
+  </object>
+  <object x="4807" y="957">
+   <polygon points="3,2 3,-102 44,-102 44,-1"/>
+  </object>
+  <object x="5067" y="949">
+   <polygon points="0,9 -2,-44 38,-42 41,9"/>
+  </object>
+  <object x="3785" y="951">
+   <polyline points="0,0 0,-90 27,-108 129,-107 132,-148 184,-170 387,-169 387,-289 424,-288 424,-237 725,-237 746,-211 745,-128 727,-214 429,-214 430,7 0,3"/>
+  </object>
+  <object x="3146" y="756">
+   <polyline points="0,0 2,-91 26,-107 277,-102 299,-79 297,1 269,-87 28,-86 1,-2"/>
+  </object>
  </objectgroup>
  <objectgroup name="KillingLayer" width="200" height="20">
   <properties>
@@ -79,14 +94,5 @@
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object x="3455" y="852" width="63" height="107"/>
-  <object x="4811" y="857" width="39" height="101"/>
-  <object x="5066" y="905" width="42" height="53"/>
-  <object x="3787" y="846" width="125" height="111"/>
-  <object x="3919" y="784" width="47" height="173"/>
-  <object x="3970" y="780" width="197" height="37"/>
-  <object x="4171" y="665" width="43" height="295"/>
-  <object x="4217" y="716" width="319" height="106"/>
-  <object x="3147" y="655" width="297" height="111"/>
  </objectgroup>
 </map>
