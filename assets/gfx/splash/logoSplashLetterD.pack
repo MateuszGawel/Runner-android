@@ -1,0 +1,116 @@
+logoSplashLetterD.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d0
+  rotate: false
+  xy: 2, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 195, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d10
+  rotate: false
+  xy: 388, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d11
+  rotate: false
+  xy: 581, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d12
+  rotate: false
+  xy: 774, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d13
+  rotate: false
+  xy: 967, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d14
+  rotate: false
+  xy: 1160, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d15
+  rotate: false
+  xy: 1353, 2
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 2, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 195, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d4
+  rotate: false
+  xy: 388, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d5
+  rotate: false
+  xy: 581, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d6
+  rotate: false
+  xy: 774, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d7
+  rotate: false
+  xy: 967, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d8
+  rotate: false
+  xy: 1160, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
+d9
+  rotate: false
+  xy: 1353, 377
+  size: 191, 373
+  orig: 191, 373
+  offset: 0, 0
+  index: -1
