@@ -5,393 +5,71 @@ filter: Nearest,Nearest
 repeat: none
 loading0
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
+  xy: 1, 43
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading1
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
+  xy: 1, 22
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading2
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
+  xy: 223, 43
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading3
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
+  xy: 1, 1
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading4
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
+  xy: 223, 22
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading5
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
+  xy: 445, 43
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading6
   rotate: false
-  xy: 1, 35
-  size: 150, 15
-  orig: 150, 15
-  offset: 0, 0
-  index: -1
-loading10
-  rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading11
-  rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading12
-  rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading13
-  rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
+  xy: 223, 1
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading7
   rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
+  xy: 445, 22
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading8
   rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
+  xy: 667, 43
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
 loading9
   rotate: false
-  xy: 1, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading14
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading15
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading16
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading17
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading18
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading19
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading20
-  rotate: false
-  xy: 153, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading21
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading22
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading23
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading24
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading25
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading26
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading27
-  rotate: false
-  xy: 1, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading28
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading29
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading30
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading31
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading32
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading33
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading34
-  rotate: false
-  xy: 150, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading35
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading36
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading37
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading38
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading39
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading40
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading41
-  rotate: false
-  xy: 302, 35
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading42
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading43
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading44
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading45
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading46
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading47
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading48
-  rotate: false
-  xy: 150, 1
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading49
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading50
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading51
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading52
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading53
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading54
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
-  offset: 0, 0
-  index: -1
-loading55
-  rotate: false
-  xy: 299, 18
-  size: 147, 15
-  orig: 147, 15
+  xy: 445, 1
+  size: 220, 19
+  orig: 220, 19
   offset: 0, 0
   index: -1
