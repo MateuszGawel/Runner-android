@@ -1,0 +1,88 @@
+hedgehog.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hedgehog0
+  rotate: false
+  xy: 2, 2
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog1
+  rotate: false
+  xy: 113, 2
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog10
+  rotate: false
+  xy: 224, 2
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog11
+  rotate: false
+  xy: 2, 56
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog2
+  rotate: false
+  xy: 113, 56
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog3
+  rotate: false
+  xy: 224, 56
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog4
+  rotate: false
+  xy: 2, 110
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog5
+  rotate: false
+  xy: 113, 110
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog6
+  rotate: false
+  xy: 224, 110
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog7
+  rotate: false
+  xy: 2, 164
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog8
+  rotate: false
+  xy: 113, 164
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
+hedgehog9
+  rotate: false
+  xy: 224, 164
+  size: 109, 52
+  orig: 109, 52
+  offset: 0, 0
+  index: -1
