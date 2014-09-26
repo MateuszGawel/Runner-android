@@ -269,6 +269,13 @@ whiteBackground
   orig: 25, 25
   offset: 0, 0
   index: -1
+textFieldCursor
+  rotate: false
+  xy: 507, 816
+  size: 4, 40
+  orig: 4, 40
+  offset: 0, 0
+  index: -1
 slider
   rotate: false
   xy: 1, 3
