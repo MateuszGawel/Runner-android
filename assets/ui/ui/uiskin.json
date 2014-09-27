@@ -69,7 +69,7 @@
 
 	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 
 	{
-		default: { background: black, font: default-font, fontColor: white, cursor: textFieldCursor}
+		default: { background: black, font: default-font, fontColor: white, cursor: textFieldCursor, focusedBackground: whiteBackground}
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: 
