@@ -73,7 +73,7 @@
   <object x="630" y="924" width="13" height="37"/>
   <object x="1075" y="913" width="17" height="44"/>
  </objectgroup>
- <objectgroup name="KillingLayer" width="200" height="20">
+ <objectgroup name="ObstaclesLayer" width="200" height="20">
   <properties>
    <property name="ObstaclesLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
@@ -90,12 +90,11 @@
   <object type="catapult" x="1870" y="953">
    <polygon points="9,-2 -1,27 169,26 152,-2"/>
   </object>
-  <object x="1367" y="1278" height="2"/>
   <object type="hedgehog" x="936" y="955">
    <polygon points="0,0 90,0 62,-33 22,-33"/>
   </object>
  </objectgroup>
- <objectgroup name="NoKillingLayer" width="200" height="20">
+ <objectgroup name="ObjectsLayer" width="200" height="20">
   <properties>
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>

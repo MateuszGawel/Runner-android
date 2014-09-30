@@ -45,24 +45,39 @@
    <polyline points="0,0 832,0 960,-64 1152,-64 1280,0 3136,0 3520,-192 3776,-192 3904,-128 4224,-128 4352,-64 4800,-64 4928,0 8000,0 8256,-128 8320,-128 8320,0 10496,0 11136,-320 11776,0 12672,0 12672,-704 12800,-704"/>
   </object>
  </objectgroup>
- <objectgroup name="KillingLayer" width="200" height="20">
+ <objectgroup name="ObstaclesLayer" width="200" height="20">
   <properties>
    <property name="ObstaclesLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object x="12684" y="328">
+  <object type="killingTop" x="12684" y="328">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
    <polyline points="0,0 -60,0 -82,24 -108,24 -108,8 -98,4 -134,4 -150,-12 -132,-30 -70,-28 -94,-40 -74,-58 -36,-36 -8,-30"/>
   </object>
-  <object x="10652" y="900">
+  <object type="killingTop" x="10652" y="900">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
    <polyline points="0,0 16,-60 -6,-76 -50,-72 -70,-52 -54,-4"/>
   </object>
-  <object x="9612" y="972">
+  <object type="killingTop" x="9612" y="972">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
    <polyline points="0,0 2,-28 30,-60 30,-90 10,-84 6,-130 -10,-144 -22,-132 -24,-102 -40,-110 -48,-98 -28,-56 -24,-10"/>
   </object>
-  <object x="2540" y="970">
+  <object type="killingTop" x="2540" y="970">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
    <polyline points="0,0 -22,-52 -6,-82 50,-80 68,-58 42,-4"/>
   </object>
-  <object x="3570" y="778">
+  <object type="killingBottom" x="3570" y="778">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
    <polyline points="61,4 65,-54 37,-82 45,-104 63,-90 65,-138 91,-134 97,-102 91,-66 101,-84 121,-82 113,-38 93,-20 91,-4"/>
   </object>
   <object type="barrel" x="11194" y="563" width="60" height="59">
@@ -88,7 +103,7 @@
   </object>
   <object type="powerup" x="896" y="704" width="64" height="64"/>
  </objectgroup>
- <objectgroup name="NoKillingLayer" width="200" height="20">
+ <objectgroup name="ObjectsLayer" width="200" height="20">
   <properties>
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
