@@ -102,6 +102,13 @@
    <ellipse/>
   </object>
   <object type="powerup" x="896" y="704" width="64" height="64"/>
+  <object type="powerup" x="5280" y="672" width="64" height="64"/>
+  <object type="powerup" x="4768" y="672" width="64" height="64"/>
+  <object type="powerup" x="1440" y="672" width="64" height="64"/>
+  <object type="powerup" x="1952" y="608" width="64" height="64"/>
+  <object type="powerup" x="2528" y="544" width="64" height="64"/>
+  <object type="powerup" x="4192" y="544" width="64" height="64"/>
+  <object type="powerup" x="3488" y="480" width="64" height="64"/>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="200" height="20">
   <properties>
@@ -159,5 +166,6 @@
    </properties>
   </object>
   <object x="5440" y="645" width="576" height="320"/>
+  <object type="powerup" x="2976" y="864" width="64" height="64"/>
  </objectgroup>
 </map>

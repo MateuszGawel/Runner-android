@@ -1,16 +1,25 @@
 {
-com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
-banditJumpButton: { down: banditJumpButton, up: banditJumpButton },
-banditSlideButton: { down: banditSlideButton, up: banditSlideButton },
-banditSlowButton: { down: banditSlowButton, up: banditSlowButton },
-banditBombAbilityButton: { down: banditBombAbilityButton, up: banditBombAbilityButton },
-archerJumpButton: { down: archerJumpButton, up: archerJumpButton },
-archerSlideButton: { down: archerSlideButton, up: archerSlideButton },
-archerSlowButton: { down: archerSlowButton, up: archerSlowButton },
-archerArrowAbilityButton: { down: archerArrowAbilityButton, up: archerArrowAbilityButton },
-alienJumpButton: { down: alienJumpButton, up: alienJumpButton },
-alienSlideButton: { down: alienSlideButton, up: alienSlideButton },
-alienSlowButton: { down: alienSlowButton, up: alienSlowButton },
-alienLiftAbilityButton: { down: alienLiftAbilityButton, up: alienLiftAbilityButton }
-}
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
+	{
+		banditBlankButton: { down: banditBlankButton, up: banditBlankButton },
+		banditJumpButton: { down: banditJumpButton, up: banditJumpButton },
+		banditSlideButton: { down: banditSlideButton, up: banditSlideButton },
+		banditSuperJumpButton: { down: banditSuperJumpButton, up: banditSuperJumpButton },
+		banditSuperSpeedButton: { down: banditSuperSpeedButton, up: banditSuperSpeedButton },
+		banditBombAbilityButton: { down: banditBombAbilityButton, up: banditBombAbilityButton },
+		
+		archerBlankButton: { down: archerBlankButton, up: archerBlankButton },
+		archerJumpButton: { down: archerJumpButton, up: archerJumpButton },
+		archerSlideButton: { down: archerSlideButton, up: archerSlideButton },
+		archerSuperJumpButton: { down: archerSuperJumpButton, up: archerSuperJumpButton },
+		archerSuperSpeedButton: { down: archerSuperSpeedButton, up: archerSuperSpeedButton },
+		archerArrowAbilityButton: { down: archerArrowAbilityButton, up: archerArrowAbilityButton },
+		
+		alienBlankButton: { down: alienBlankButton, up: alienBlankButton },
+		alienJumpButton: { down: alienJumpButton, up: alienJumpButton },
+		alienSlideButton: { down: alienSlideButton, up: alienSlideButton },
+		alienSuperJumpButton: { down: alienSuperJumpButton, up: alienSuperJumpButton },
+		alienSuperSpeedButton: { down: alienSuperSpeedButton, up: alienSuperSpeedButton },
+		alienLiftAbilityButton: { down: alienLiftAbilityButton, up: alienLiftAbilityButton }
+	}
 }
