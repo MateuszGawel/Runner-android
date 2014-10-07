@@ -1,69 +1,69 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <worlds>
-    <world name="wildWest">
+    <world name="wildWest" label="Wild West">
         <campaign>
 		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
-			<level buttonLabel="1" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map1.0"></level>
-			<level buttonLabel="2" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map2.0"></level>
-			<level buttonLabel="3" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map3.0"></level>
-			<level buttonLabel="4" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map4.0"></level>
-			<level buttonLabel="5" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map5.0"></level>
-			<level buttonLabel="6" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map6.0"></level>
-			<level buttonLabel="7" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map7.0"></level>
-			<level buttonLabel="8" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map8.0"></level>
-			<level buttonLabel="9" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map9.0"></level>
-			<level buttonLabel="10" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map10.0"></level>
-			<level buttonLabel="11" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map11.0"></level>
-			<level buttonLabel="12" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map12.0"></level>
+			<level buttonLabel="1" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW1.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="2" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW2.0" requiredLevels="WW1.0" requiredStars="1"></level>
+			<level buttonLabel="3" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW3.0" requiredLevels="WW2.0" requiredStars="2"></level>
+			<level buttonLabel="4" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW4.0" requiredLevels="WW3.0" requiredStars="3"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW5.0" requiredLevels="WW4.0" requiredStars="4"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW6.0" requiredLevels="WW5.0" requiredStars="5"></level>
+			<level buttonLabel="7" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW7.0" requiredLevels="WW6.0" requiredStars="6"></level>
+			<level buttonLabel="8" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW8.0" requiredLevels="WW7.0" requiredStars="7"></level>
+			<level buttonLabel="9" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW9.0" requiredLevels="WW8.0" requiredStars="8"></level>
+			<level buttonLabel="10" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW10.0" requiredLevels="WW9.0" requiredStars="9"></level>
+			<level buttonLabel="11" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW11.0" requiredLevels="WW10.0" requiredStars="10"></level>
+			<level buttonLabel="12" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW12.0" requiredLevels="WW11.0" requiredStars="11"></level>
 		</campaign>
 		<multiplayer>
-		    <level buttonLabel="13" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map13.0"></level>
-			<level buttonLabel="14" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map14.0"></level>
-			<level buttonLabel="15" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="map15.0"></level>
+		    <level buttonLabel="13" mapPath="gfx/game/levels/wildwest1.tmx"></level>
+			<level buttonLabel="14" mapPath="gfx/game/levels/wildwest1.tmx"></level>
+			<level buttonLabel="15" mapPath="gfx/game/levels/wildwest1.tmx"></level>
 		</multiplayer>
 	</world>
-	<world name="forest">
+	<world name="forest" label = "Forest">
         <campaign>
 		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
-			<level buttonLabel="1" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map1.0"></level>
-			<level buttonLabel="2" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map2.0"></level>
-			<level buttonLabel="3" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map3.0"></level>
-			<level buttonLabel="4" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map4.0"></level>
-			<level buttonLabel="5" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map5.0"></level>
-			<level buttonLabel="6" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map6.0"></level>
-			<level buttonLabel="7" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map1.0"></level>
-			<level buttonLabel="8" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map2.0"></level>
-			<level buttonLabel="9" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map3.0"></level>
-			<level buttonLabel="10" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map4.0"></level>
-			<level buttonLabel="11" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map5.0"></level>
-			<level buttonLabel="12" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map6.0"></level>
+			<level buttonLabel="1" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO1.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="2" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO2.0" requiredLevels="FO1.0" requiredStars="1"></level>
+			<level buttonLabel="3" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO3.0" requiredLevels="FO2.0" requiredStars="2"></level>
+			<level buttonLabel="4" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO4.0" requiredLevels="FO3.0" requiredStars="3"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO5.0" requiredLevels="FO4.0" requiredStars="4"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO6.0" requiredLevels="FO5.0" requiredStars="5"></level>
+			<level buttonLabel="7" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO7.0" requiredLevels="FO6.0" requiredStars="6"></level>
+			<level buttonLabel="8" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO8.0" requiredLevels="FO7.0" requiredStars="7"></level>
+			<level buttonLabel="9" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO9.0" requiredLevels="FO8.0" requiredStars="8"></level>
+			<level buttonLabel="10" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO10.0" requiredLevels="FO9.0" requiredStars="9"></level>
+			<level buttonLabel="11" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO11.0" requiredLevels="FO10.0" requiredStars="10"></level>
+			<level buttonLabel="12" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO12.0" requiredLevels="FO11.0" requiredStars="11"></level>
 		</campaign>
 		<multiplayer>
-		    <level buttonLabel="13" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map13.0"></level>
-			<level buttonLabel="14" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map14.0"></level>
-			<level buttonLabel="15" mapPath="gfx/game/levels/forest1.tmx" unlockKey="map15.0"></level>
+		    <level buttonLabel="13" mapPath="gfx/game/levels/forest1.tmx"></level>
+			<level buttonLabel="14" mapPath="gfx/game/levels/forest1.tmx"></level>
+			<level buttonLabel="15" mapPath="gfx/game/levels/forest1.tmx"></level>
 		</multiplayer>
 	</world>
-	<world name="space">
+	<world name="space" label = "Space">
         <campaign>
 		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
-			<level buttonLabel="1" mapPath="gfx/game/levels/space1.tmx" unlockKey="map1.0"></level>
-			<level buttonLabel="2" mapPath="gfx/game/levels/space1.tmx" unlockKey="map2.0"></level>
-			<level buttonLabel="3" mapPath="gfx/game/levels/space1.tmx" unlockKey="map3.0"></level>
-			<level buttonLabel="4" mapPath="gfx/game/levels/space1.tmx" unlockKey="map4.0"></level>
-			<level buttonLabel="5" mapPath="gfx/game/levels/space1.tmx" unlockKey="map5.0"></level>
-			<level buttonLabel="6" mapPath="gfx/game/levels/space1.tmx" unlockKey="map6.0"></level>
-			<level buttonLabel="7" mapPath="gfx/game/levels/space1.tmx" unlockKey="map1.0"></level>
-			<level buttonLabel="8" mapPath="gfx/game/levels/space1.tmx" unlockKey="map2.0"></level>
-			<level buttonLabel="9" mapPath="gfx/game/levels/space1.tmx" unlockKey="map3.0"></level>
-			<level buttonLabel="10" mapPath="gfx/game/levels/space1.tmx" unlockKey="map4.0"></level>
-			<level buttonLabel="11" mapPath="gfx/game/levels/space1.tmx" unlockKey="map5.0"></level>
-			<level buttonLabel="12" mapPath="gfx/game/levels/space1.tmx" unlockKey="map6.0"></level>
+			<level buttonLabel="1" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP1.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="2" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP2.0" requiredLevels="SP1.0" requiredStars="1"></level>
+			<level buttonLabel="3" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP3.0" requiredLevels="SP2.0" requiredStars="2"></level>
+			<level buttonLabel="4" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP4.0" requiredLevels="SP3.0" requiredStars="3"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP5.0" requiredLevels="SP4.0" requiredStars="4"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP6.0" requiredLevels="SP5.0" requiredStars="5"></level>
+			<level buttonLabel="7" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP7.0" requiredLevels="SP6.0" requiredStars="6"></level>
+			<level buttonLabel="8" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP8.0" requiredLevels="SP7.0" requiredStars="7"></level>
+			<level buttonLabel="9" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP9.0" requiredLevels="SP8.0" requiredStars="8"></level>
+			<level buttonLabel="10" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP10.0" requiredLevels="SP9.0" requiredStars="9"></level>
+			<level buttonLabel="11" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP11.0" requiredLevels="SP10.0" requiredStars="10"></level>
+			<level buttonLabel="12" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP12.0" requiredLevels="SP11.0" requiredStars="11"></level>
 		</campaign>
 		<multiplayer>
-		    <level buttonLabel="13" mapPath="gfx/game/levels/space1.tmx" unlockKey="map13.0"></level>
-			<level buttonLabel="14" mapPath="gfx/game/levels/space1.tmx" unlockKey="map14.0"></level>
-			<level buttonLabel="15" mapPath="gfx/game/levels/space1.tmx" unlockKey="map15.0"></level>
+		    <level buttonLabel="13" mapPath="gfx/game/levels/space1.tmx"></level>
+			<level buttonLabel="14" mapPath="gfx/game/levels/space1.tmx"></level>
+			<level buttonLabel="15" mapPath="gfx/game/levels/space1.tmx"></level>
 		</multiplayer>
 	</world>
 </worlds>
