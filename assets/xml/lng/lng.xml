@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <languages>
 	
-	<language id = "pl" description = "polish" icoFilePath = "ui/lang/flags/pl.png" chosenIcoFilePath = "ui/lang/flags/pl_chosen.png" default = "false">
+	<language id = "pl" description = "polish" icoFilePath = "gfx/languageFlags/pl.png" chosenIcoFilePath = "gfx/languageFlags/pl_chosen.png" fullname = "polski" default = "false">
 	    <string key = "backButton">Powrót</string>
 	    <string key = "upgradeButton">Ulepszenia</string>
 	    <string key = "campaignButton">Kampania</string>
@@ -12,6 +12,7 @@
 	    <string key = "joinRandomRoomButton">Znajdź losowy</string>
 	    <string key = "createRoomMenuButton">Utwórz własny pokój</string>
 	    <string key = "joinRoomMenuButton">Znajdź pokój</string>
+	    <string key = "languageChange">Zmienic na</string>
 	    
 	    <string key = "upgradeLabel">Ekran Ulepszeń</string>
 	    <string key = "multiplayerLabel">Ekran Gry Sieciowej</string>
@@ -20,9 +21,19 @@
 	    <string key = "createRoomLabel">Ekran Tworzenia Pokoju</string>
 	    <string key = "joinRoomLabel">Ekran Wyszukiwania Pokoju</string>
 	    <string key = "loadingLabel">Wczytywanie</string>
+	    <string key = "languageChange">Znajdź pokój</string>
+	    
+	    <string key = "generalSettings">Ogólne</string>
+	    <string key = "resetGame">Reset</string>
+	    <string key = "newsFeed">Aktualności</string>
+	    <string key = "music">Muzyka</string>
+	    <string key = "sounds">Dźwięki</string>
+	    <string key = "vibrations">Wibracje</string>
+	    <string key = "language">Język</string>
+	    <string key = "share">Udostępnij</string>
 	</language>
 	
-	<language id = "en" description = "english" icoFilePath = "ui/lang/flags/uk.png" chosenIcoFilePath = "ui/lang/flags/uk_chosen.png" default = "true">
+	<language id = "en" description = "english" icoFilePath = "gfx/languageFlags/uk.png" chosenIcoFilePath = "gfx/languageFlags/uk_chosen.png" fullname = "english" default = "true">
 	    <string key = "backButton">Back</string>
 	    <string key = "upgradeButton">Upgrades</string>
 	    <string key = "campaignButton">Campaign</string>
@@ -33,6 +44,7 @@
 	    <string key = "joinRandomRoomButton">Join random</string>
 	    <string key = "createRoomMenuButton">Create your room</string>
 	    <string key = "joinRoomMenuButton">Find a room</string>
+	    <string key = "languageChange">Change to</string>
 	    
 	    <string key = "upgradeLabel">Upgrade Screen</string>
 	    <string key = "multiplayerLabel">Multiplayer Screen</string>
@@ -41,6 +53,20 @@
 	    <string key = "createRoomLabel">Creating Room Screen</string>
 	    <string key = "joinRoomLabel">Finding Room Screen</string>
 	    <string key = "loadingLabel">Loading</string>
+	    
+	    <string key = "generalSettings">General</string>
+	    <string key = "resetGame">Reset</string>
+	    <string key = "newsFeed">News</string>
+	    <string key = "music">Music</string>
+	    <string key = "sounds">Sounds</string>
+	    <string key = "vibrations">Vibrations</string>
+	    <string key = "language">Language</string>
+	    <string key = "share">Share</string>
 	</language>
+	
+	<language id = "ru" description = "english" icoFilePath = "gfx/languageFlags/ru.png" chosenIcoFilePath = "gfx/languageFlags/ru_chosen.png" fullname = "china" default = "false"></language>
+	<language id = "de" description = "english" icoFilePath = "gfx/languageFlags/de.png" chosenIcoFilePath = "gfx/languageFlags/de_chosen.png" fullname = "china" default = "false"></language>
+	<language id = "es" description = "english" icoFilePath = "gfx/languageFlags/es.png" chosenIcoFilePath = "gfx/languageFlags/es_chosen.png" fullname = "china" default = "false"></language>
+	<language id = "in" description = "english" icoFilePath = "gfx/languageFlags/in.png" chosenIcoFilePath = "gfx/languageFlags/in_chosen.png" fullname = "china" default = "false"></language>
 	
 </languages>

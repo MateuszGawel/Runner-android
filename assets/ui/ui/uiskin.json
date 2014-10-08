@@ -34,7 +34,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
 	{
-		loader: { down: knobHorizontal, up: knobHorizontal, font: default-font, fontColor: white },
+		loader: { down: knob, up: knob, font: default-font, fontColor: white },
 		default: { down: defaultButton, up: defaultButton, font: default-font, fontColor: white },
 		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: default-font, fontColor: white },
 		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: default-font, fontColor: white },
@@ -54,8 +54,8 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: 
 	{
-		default-horizontal: { background: slider, knob: knobHorizontal },
-		default-vertical: { background: slider, knob: knobVertical }
+		default-horizontal: { background: slider, knob: knob },
+		default-vertical: { background: slider, knob: knob }
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
@@ -76,11 +76,16 @@
 
 	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
 	{
-		default: { vScroll: whiteBackground, hScrollKnob: knobHorizontal, background: slider, hScroll: black, vScrollKnob: knobVertical }
+		default: { vScroll: whiteBackground, hScrollKnob: knob, background: slider, hScroll: black, vScrollKnob: knob }
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: 
 	{
 		default: { background: black, font: default-font, fontColor: white, listStyle: default, scrollStyle: default}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle:
+	{
+		default: { checkboxOff: checkBoxOff, checkboxOn: checkBoxOn, font: default-font, fontColor: white }
 	}
 }
