@@ -52,7 +52,7 @@
 		big: { titleFont: default-font, background: widgetBackground, titleFontColor: white }
 	},
 	
-	com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle: 
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
 	{
 		default-horizontal: { background: slider, knob: knob },
 		default-vertical: { background: slider, knob: knob }
