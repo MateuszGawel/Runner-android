@@ -15,7 +15,7 @@
  </layer>
  <layer name="Objects" width="200" height="20">
   <data encoding="base64" compression="zlib">
-   eJzt0zEKwCAMBVCPVNzaAxS8lUevY0EXQWoJ78EfEgj8JSkBAAAAAAAAABGcLdcrba5bC8GP3P1cZ+7LuioQjv8AAHY4Brv8eQsAAACI6QHLjgOh
+   eJzt0zEKgEAMBMB7kmenDzjwV/d0U4pWghAJM7DFFoFt0hoAAAAAAAAAUMEW2S+JPlMHwY+MZ59v7o/vpkA5/gMAyLBE+i1r6iIAAACo4wScegRl
   </data>
  </layer>
  <layer name="Obstacles" width="200" height="20">
