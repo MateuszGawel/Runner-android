@@ -15,7 +15,7 @@
  </layer>
  <layer name="Objects" width="200" height="20">
   <data encoding="base64" compression="zlib">
-   eJzt1stqwkAAheFsW30Aqwtb7M1LV632uqit2qov1UfvD4IMQUjQKTPU/4NDhkkmcxYTSFFIkiRJkiRJkpSvBmmmLiFlqk06qUtImeqTQeoSkqIYkhG5C+YeyRN5TtJIyscLeSVvwdyCfJHvJI2kfCzJiqxTF5ES879Jx6ZXFD9drufkgoTjXulZ/5tU5YScRn5nkzPaILHX1+k6Zd07112Z7ltI/86EczIm94wfgvnx5t5Wi5xF3rvDvu2K76Pco876v+iq4zTnfM3IB+PPYH62ubd1Q24j7z1g337F91HuUWf9IV0vyRW53nO9JEnK3y8fhBhQ
+   eJzt08EKgkAAhGGvlQ9QeqiorKxOZecsO1Qv1aM3EMkigVJbq/J/MLi4rjvI6nkAAAAAAAAAANRXT/FdlwBqKlBC1yWAmloqsesSAKxYKWtl47oIAKBRLspVubkuAgD4q4nn3Ye6jpSxYo4n7mqhoTpK1/I7fZ3RnmJ7fZWuqdYddH2X9NNCaJ29zkmibDXeGfeT51yurwws7x1q36Dk/yj2qLL+F13RXlNlZiQy5s46X5ly1Phk3M+ec7m5srDcK9a+y5L/o9ijyvpvur6+VVT2IAAAaKwHQgUVXg==
   </data>
  </layer>
  <layer name="Obstacles" width="200" height="20">
@@ -86,38 +86,17 @@
    </properties>
    <polyline points="0,0 35,-120 82,7"/>
   </object>
-  <object type="rock" x="6208" y="832">
-   <polygon points="0,0 192,0 131,105 60,107"/>
+  <object type="rockSmall" x="3126" y="902">
+   <polygon points="27,0 199,0 142,50 83,50"/>
   </object>
-  <object type="rock" x="6528" y="704">
-   <polygon points="0,0 192,0 128,64 64,64"/>
-  </object>
-  <object type="rock" x="6848" y="640">
-   <polygon points="0,0 192,0 137,99 56,100"/>
-  </object>
-  <object type="rock" x="913" y="949">
+  <object type="rockBig" x="3420" y="903">
    <properties>
     <property name="isGhost" value="false"/>
    </properties>
-   <polygon points="0,0 192,0 131,105 60,107"/>
+   <polygon points="11,0 177,0 125,98 59,98"/>
   </object>
-  <object type="rock" x="1112" y="950">
-   <properties>
-    <property name="isGhost" value="false"/>
-   </properties>
-   <polygon points="0,0 192,0 131,105 60,107"/>
-  </object>
-  <object type="rock" x="1313" y="950">
-   <properties>
-    <property name="isGhost" value="false"/>
-   </properties>
-   <polygon points="0,0 192,0 131,105 60,107"/>
-  </object>
-  <object type="rock" x="1508" y="950">
-   <properties>
-    <property name="isGhost" value="false"/>
-   </properties>
-   <polygon points="0,0 192,0 131,105 60,107"/>
+  <object type="rockSmall" x="939" y="514">
+   <polygon points="27,0 199,0 142,50 83,50"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="200" height="20">
