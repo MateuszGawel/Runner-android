@@ -31,6 +31,8 @@
 	    <string key = "vibrations">Wibracje</string>
 	    <string key = "language">Język</string>
 	    <string key = "share">Udostępnij</string>
+	    
+	    <string key = "touchToStart">Dotknij ekranu by zacząć</string>
 	</language>
 	
 	<language id = "en" description = "english" icoFilePath = "gfx/languageFlags/uk.png" chosenIcoFilePath = "gfx/languageFlags/uk_chosen.png" fullname = "english" default = "true">
@@ -62,6 +64,8 @@
 	    <string key = "vibrations">Vibrations</string>
 	    <string key = "language">Language</string>
 	    <string key = "share">Share</string>
+	    
+	    <string key = "touchToStart">Touch the screen to start</string>
 	</language>
 	
 	<language id = "ru" description = "english" icoFilePath = "gfx/languageFlags/ru.png" chosenIcoFilePath = "gfx/languageFlags/ru_chosen.png" fullname = "china" default = "false"></language>
