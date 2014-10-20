@@ -80,13 +80,13 @@
    </properties>
    <polyline points="61,4 65,-54 37,-82 45,-104 63,-90 65,-138 91,-134 97,-102 91,-66 101,-84 121,-82 113,-38 93,-20 91,-4"/>
   </object>
-  <object type="barrel" x="11194" y="563" width="60" height="59">
+  <object type="barrel" x="11198" y="561" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="11193" y="624" width="60" height="59">
+  <object type="barrel" x="11203" y="623" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="11139" y="592" width="60" height="59">
+  <object type="barrel" x="11146" y="592" width="60" height="59">
    <ellipse/>
   </object>
   <object type="bonfire" x="1074" y="895">
@@ -121,6 +121,51 @@
     <property name="coinsInRow" value="4"/>
     <property name="scale" value="true"/>
    </properties>
+   <ellipse/>
+  </object>
+  <object type="barrel" x="731" y="869" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="786" y="840" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="785" y="901" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="549" y="860" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="603" y="892" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="604" y="831" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="648" y="855" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="702" y="887" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="703" y="826" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="454" y="860" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="508" y="892" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="509" y="831" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="1185" y="862" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="1240" y="833" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object type="barrel" x="1239" y="894" width="60" height="59">
    <ellipse/>
   </object>
  </objectgroup>
