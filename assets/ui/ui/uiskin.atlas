@@ -5,260 +5,267 @@ filter: Nearest,Nearest
 repeat: none
 defaultButton
   rotate: false
-  xy: 1, 842
+  xy: 1, 848
   size: 513, 163
   orig: 513, 163
   offset: 0, 0
   index: -1
 westWildCampaignButtonDown
   rotate: false
-  xy: 1, 660
+  xy: 1, 666
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 westWildCampaignButtonUp
   rotate: false
-  xy: 1, 478
+  xy: 1, 484
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 westWildCampaignLockedButtonDown
   rotate: false
-  xy: 183, 660
+  xy: 183, 666
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 westWildCampaignLockedButtonUp
   rotate: false
-  xy: 1, 296
+  xy: 1, 302
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 forestCampaignButtonDown
   rotate: false
-  xy: 183, 478
+  xy: 183, 484
   size: 177, 180
   orig: 177, 180
   offset: 0, 0
   index: -1
 forestCampaignButtonUp
   rotate: false
-  xy: 1, 114
+  xy: 1, 120
   size: 177, 180
   orig: 177, 180
   offset: 0, 0
   index: -1
 forestCampaignLockedButtonDown
   rotate: false
-  xy: 183, 296
+  xy: 183, 302
   size: 177, 180
   orig: 177, 180
   offset: 0, 0
   index: -1
 forestCampaignLockedButtonUp
   rotate: false
-  xy: 180, 114
+  xy: 180, 120
   size: 177, 180
   orig: 177, 180
   offset: 0, 0
   index: -1
 spaceCampaignButtonDown
   rotate: false
-  xy: 516, 865
+  xy: 516, 871
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignButtonUp
   rotate: false
-  xy: 365, 700
+  xy: 365, 706
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignLockedButtonDown
   rotate: false
-  xy: 658, 865
+  xy: 658, 871
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignLockedButtonUp
   rotate: false
-  xy: 800, 865
+  xy: 800, 871
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 joinRandomRoomButton
   rotate: false
-  xy: 1, 9
+  xy: 1, 15
   size: 176, 103
   orig: 176, 103
   offset: 0, 0
   index: -1
-facebookButton
+slider
   rotate: false
-  xy: 179, 1
-  size: 111, 111
-  orig: 111, 111
+  xy: 179, 53
+  size: 150, 65
+  orig: 150, 65
   offset: 0, 0
   index: -1
 toggleWidgetButtonVertical
   rotate: false
-  xy: 942, 855
+  xy: 942, 861
   size: 50, 150
   orig: 50, 150
   offset: 0, 0
   index: -1
 toggleWidgetButtonHorizontal
   rotate: false
-  xy: 365, 648
+  xy: 179, 1
   size: 150, 50
   orig: 150, 50
   offset: 0, 0
   index: -1
+facebookButton
+  rotate: false
+  xy: 365, 593
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
 googlePlusButton
   rotate: false
-  xy: 362, 535
+  xy: 362, 480
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 settingsButton
   rotate: false
-  xy: 362, 422
+  xy: 362, 367
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 soundButtonOff
   rotate: false
-  xy: 362, 309
+  xy: 362, 254
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 soundButtonOn
   rotate: false
-  xy: 292, 1
+  xy: 359, 141
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
+knob
+  rotate: false
+  xy: 478, 594
+  size: 30, 110
+  orig: 30, 110
+  offset: 0, 0
+  index: -1
 backButton
   rotate: false
-  xy: 475, 550
+  xy: 516, 773
   size: 110, 96
   orig: 110, 96
   offset: 0, 0
   index: -1
 campaignArrowLeft
   rotate: false
-  xy: 475, 461
+  xy: 628, 782
   size: 107, 87
   orig: 107, 87
   offset: 0, 0
   index: -1
 campaignArrowRight
   rotate: false
-  xy: 475, 372
+  xy: 737, 782
   size: 107, 87
   orig: 107, 87
   offset: 0, 0
   index: -1
 noButton
   rotate: false
-  xy: 475, 286
+  xy: 846, 785
   size: 82, 84
   orig: 82, 84
   offset: 0, 0
   index: -1
 yesButton
   rotate: false
-  xy: 559, 286
+  xy: 930, 775
   size: 82, 84
   orig: 82, 84
   offset: 0, 0
   index: -1
 closeWidgetButton
   rotate: false
-  xy: 516, 799
+  xy: 507, 707
   size: 62, 64
   orig: 62, 64
   offset: 0, 0
   index: -1
 defaultBackground
   rotate: false
-  xy: 580, 813
+  xy: 571, 721
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+westWildLoader
+  rotate: false
+  xy: 510, 655
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 checkBoxOff
   rotate: false
-  xy: 632, 822
+  xy: 510, 612
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 checkBoxOn
   rotate: false
-  xy: 674, 822
+  xy: 331, 77
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 blackNonTransparent
   rotate: false
-  xy: 716, 833
+  xy: 331, 45
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 widgetBackground
   rotate: false
-  xy: 748, 833
+  xy: 331, 13
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 black
   rotate: false
-  xy: 994, 980
+  xy: 994, 986
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 whiteBackground
   rotate: false
-  xy: 780, 838
+  xy: 994, 959
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
-knob
-  rotate: false
-  xy: 994, 947
-  size: 16, 31
-  orig: 16, 31
-  offset: 0, 0
-  index: -1
 textFieldCursor
   rotate: false
-  xy: 507, 800
+  xy: 507, 806
   size: 4, 40
   orig: 4, 40
-  offset: 0, 0
-  index: -1
-slider
-  rotate: false
-  xy: 1, 1
-  size: 15, 6
-  orig: 15, 6
   offset: 0, 0
   index: -1

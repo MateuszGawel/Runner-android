@@ -29,7 +29,8 @@
 		campaignArrowRight: { down: campaignArrowRight, up: campaignArrowRight },
 		noButton: { up: noButton, down: noButton },
 		yesButton: { up: yesButton, down: yesButton },
-		fadeOut: { up: blackNonTransparent, down: blackNonTransparent }
+		fadeOut: { up: blackNonTransparent, down: blackNonTransparent },
+		westWildLoader: { up: westWildLoader, down: westWildLoader }
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
