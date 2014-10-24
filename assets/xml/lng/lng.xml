@@ -21,7 +21,9 @@
 	    <string key = "createRoomLabel">Ekran Tworzenia Pokoju</string>
 	    <string key = "joinRoomLabel">Ekran Wyszukiwania Pokoju</string>
 	    <string key = "loadingLabel">Wczytywanie</string>
-	    <string key = "languageChange">Znajdź pokój</string>
+	    <string key = "languageChange">Czy chcesz zmienić na</string>
+	    
+	    <string key = "areYouSureToRemovePlayer">Czy na pewno chcesz usunąć obecny profil? Jego odzyskanie nie będzie możliwe!</string>
 	    
 	    <string key = "generalSettings">Ogólne</string>
 	    <string key = "resetGame">Reset</string>
@@ -31,6 +33,16 @@
 	    <string key = "vibrations">Wibracje</string>
 	    <string key = "language">Język</string>
 	    <string key = "share">Udostępnij</string>
+	    
+	    <string key = "removePlayer">Usuń profil</string>
+	    
+	    <string key = "youreNotLoggedIn">Nie jesteś zalogowany!</string>
+	    <string key = "giveYourAccountInformations">Zaloguj się poniżej</string>
+	    <string key = "accountWillBeCreatedIfItIsNot">Jeśli konto nie istnieje to zostanie utworzone</string>
+	    <string key = "name">Login</string>
+	    <string key = "password">Hasło</string>
+	    <string key = "country">Kraj</string>
+	    <string key = "login">Zaloguj się</string>
 	    
 	    <string key = "tapToStart">Dotknij ekranu by zacząć</string>
 	</language>
@@ -46,7 +58,7 @@
 	    <string key = "joinRandomRoomButton">Join random</string>
 	    <string key = "createRoomMenuButton">Create your room</string>
 	    <string key = "joinRoomMenuButton">Find a room</string>
-	    <string key = "languageChange">Change to</string>
+	    <string key = "languageChange">Are you sure to change to</string>
 	    
 	    <string key = "upgradeLabel">Upgrade Screen</string>
 	    <string key = "multiplayerLabel">Multiplayer Screen</string>
@@ -56,6 +68,8 @@
 	    <string key = "joinRoomLabel">Finding Room Screen</string>
 	    <string key = "loadingLabel">Loading</string>
 	    
+	    <string key = "areYouSureToRemovePlayer">Are you sure to remove existing profile</string>
+	    
 	    <string key = "generalSettings">General</string>
 	    <string key = "resetGame">Reset</string>
 	    <string key = "newsFeed">News</string>
@@ -64,6 +78,16 @@
 	    <string key = "vibrations">Vibrations</string>
 	    <string key = "language">Language</string>
 	    <string key = "share">Share</string>
+	    
+	    <string key = "removePlayer">Remove profile</string>
+	    
+	    <string key = "youreNotLoggedIn">You are not logged in!</string>
+	    <string key = "giveYourAccountInformations">Please log in below</string>
+	    <string key = "accountWillBeCreatedIfItIsNot">The account will be created if it is not already</string>
+	    <string key = "name">Name</string>
+	    <string key = "password">Password</string>
+	    <string key = "country">Your country</string>
+	    <string key = "login">Log in</string>
 	    
 	    <string key = "tapToStart">Tap the screen to start</string>
 	</language>
