@@ -36,6 +36,10 @@
 	    
 	    <string key = "removePlayer">Usuń profil</string>
 	    
+	    <string key = "worldRank">Świat</string>
+	    <string key = "ligueRank">Liga</string>
+	    <string key = "achievments">Osiągnięcia</string>
+	    
 	    <string key = "youreNotLoggedIn">Nie jesteś zalogowany!</string>
 	    <string key = "giveYourAccountInformations">Zaloguj się poniżej</string>
 	    <string key = "accountWillBeCreatedIfItIsNot">Jeśli konto nie istnieje to zostanie utworzone</string>
@@ -80,6 +84,10 @@
 	    <string key = "share">Share</string>
 	    
 	    <string key = "removePlayer">Remove profile</string>
+	    
+	    <string key = "worldRank">World</string>
+	    <string key = "ligueRank">Ligue</string>
+	    <string key = "achievments">Achievments</string>
 	    
 	    <string key = "youreNotLoggedIn">You are not logged in!</string>
 	    <string key = "giveYourAccountInformations">Please log in below</string>
