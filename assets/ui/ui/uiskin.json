@@ -30,7 +30,19 @@
 		noButton: { up: noButton, down: noButton },
 		yesButton: { up: yesButton, down: yesButton },
 		fadeOut: { up: blackNonTransparent, down: blackNonTransparent },
-		westWildLoader: { up: westWildLoader, down: westWildLoader }
+		westWildLoader: { up: westWildLoader, down: westWildLoader },
+		forrestLoader: { up: forrestLoader, down: forrestLoader },
+		spaceLoader: { up: spaceLoader, down: spaceLoader },
+		profileTab: { up: profileTab, down: profileTab },
+		generalTab: { up: generalTab, down: generalTab },
+		newsFeedTab: { up: newsFeedTab, down: newsFeedTab },
+		achievementsTab: { up: achievementsTab, down: achievementsTab },
+		contactsTab: { up: contactsTab, down: contactsTab },
+		contestTab: { up: contestTab, down: contestTab },
+		findFriendsTab: { up: findFriendsTab, down: findFriendsTab },
+		ligueTab: { up: ligueTab, down: ligueTab },
+		shopTab: { up: shopTab, down: shopTab },
+		worldTab: { up: worldTab, down: worldTab }
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
@@ -55,7 +67,7 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
 	{
-		default-horizontal: { background: slider, knob: knob },
+		default-horizontal: { background: slider, disabledBackground: sliderDisabled, knob: knob, disabledKnob: transparent },
 		default-vertical: { background: slider, knob: knob }
 	},
 
@@ -77,7 +89,7 @@
 
 	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
 	{
-		default: { vScroll: whiteBackground, hScrollKnob: knob, background: slider, hScroll: black, vScrollKnob: knob }
+		default: { vScroll: scrollVBackground, vScrollKnob: scrollVKnob, background: transparent, hScroll: scrollHBackground, hScrollKnob: scrollHKnob }
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: 
