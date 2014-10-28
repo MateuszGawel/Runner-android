@@ -189,6 +189,5 @@
    </properties>
   </object>
   <object x="5440" y="645" width="576" height="320"/>
-  <object type="powerup" x="2944" y="832" width="64" height="64"/>
  </objectgroup>
 </map>
