@@ -10,74 +10,25 @@ defaultButton
   orig: 513, 163
   offset: 0, 0
   index: -1
-westWildCampaignButtonDown
-  rotate: false
-  xy: 1, 678
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-westWildCampaignButtonUp
-  rotate: false
-  xy: 1, 496
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-westWildCampaignLockedButtonDown
-  rotate: false
-  xy: 183, 678
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-westWildCampaignLockedButtonUp
-  rotate: false
-  xy: 1, 314
-  size: 180, 180
-  orig: 180, 180
-  offset: 0, 0
-  index: -1
-forestCampaignButtonDown
-  rotate: false
-  xy: 183, 496
-  size: 177, 180
-  orig: 177, 180
-  offset: 0, 0
-  index: -1
-forestCampaignButtonUp
-  rotate: false
-  xy: 1, 132
-  size: 177, 180
-  orig: 177, 180
-  offset: 0, 0
-  index: -1
-forestCampaignLockedButtonDown
-  rotate: false
-  xy: 183, 314
-  size: 177, 180
-  orig: 177, 180
-  offset: 0, 0
-  index: -1
-forestCampaignLockedButtonUp
-  rotate: false
-  xy: 180, 132
-  size: 177, 180
-  orig: 177, 180
-  offset: 0, 0
-  index: -1
 slider
   rotate: false
-  xy: 516, 973
+  xy: 1, 808
   size: 300, 50
   orig: 300, 50
   offset: 0, 0
   index: -1
 sliderDisabled
   rotate: false
-  xy: 1, 80
+  xy: 516, 973
   size: 300, 50
   orig: 300, 50
+  offset: 0, 0
+  index: -1
+inviteFriendsButton
+  rotate: false
+  xy: 1, 643
+  size: 163, 163
+  orig: 163, 163
   offset: 0, 0
   index: -1
 contactsTab
@@ -89,42 +40,98 @@ contactsTab
   index: -1
 achievementsTab
   rotate: false
-  xy: 1, 28
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
-contestTab
-  rotate: false
   xy: 516, 867
   size: 250, 50
   orig: 250, 50
   offset: 0, 0
   index: -1
-spaceCampaignButtonDown
+forestCampaignButtonDown
   rotate: false
-  xy: 365, 718
+  xy: 1, 501
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
+forestCampaignButtonUp
+  rotate: false
+  xy: 1, 359
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+forestCampaignLockedButtonDown
+  rotate: false
+  xy: 1, 217
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+forestCampaignLockedButtonUp
+  rotate: false
+  xy: 1, 75
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+spaceCampaignButtonDown
+  rotate: false
+  xy: 166, 666
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+contestTab
+  rotate: false
+  xy: 303, 808
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
 findFriendsTab
   rotate: false
-  xy: 516, 815
+  xy: 308, 756
   size: 250, 50
   orig: 250, 50
   offset: 0, 0
   index: -1
 generalTab
   rotate: false
-  xy: 507, 763
+  xy: 308, 704
   size: 250, 50
   orig: 250, 50
   offset: 0, 0
   index: -1
 ligueTab
   rotate: false
-  xy: 507, 711
+  xy: 308, 652
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+newsFeedTab
+  rotate: false
+  xy: 555, 815
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+profileTab
+  rotate: false
+  xy: 560, 763
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+shopTab
+  rotate: false
+  xy: 560, 711
+  size: 250, 50
+  orig: 250, 50
+  offset: 0, 0
+  index: -1
+worldTab
+  rotate: false
+  xy: 560, 659
   size: 250, 50
   orig: 250, 50
   offset: 0, 0
@@ -136,179 +143,165 @@ joinRandomRoomButton
   orig: 176, 103
   offset: 0, 0
   index: -1
-newsFeedTab
+toggleWidgetButtonHorizontal
   rotate: false
-  xy: 768, 868
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
-profileTab
-  rotate: false
-  xy: 768, 816
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
-shopTab
-  rotate: false
-  xy: 768, 764
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
-worldTab
-  rotate: false
-  xy: 759, 712
-  size: 250, 50
-  orig: 250, 50
+  xy: 1, 23
+  size: 150, 50
+  orig: 150, 50
   offset: 0, 0
   index: -1
 spaceCampaignButtonUp
   rotate: false
-  xy: 365, 576
+  xy: 166, 524
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignLockedButtonDown
   rotate: false
-  xy: 362, 434
+  xy: 308, 510
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignLockedButtonUp
   rotate: false
-  xy: 507, 569
+  xy: 143, 382
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+westWildCampaignButtonDown
+  rotate: false
+  xy: 143, 240
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+westWildCampaignButtonUp
+  rotate: false
+  xy: 143, 98
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+westWildCampaignLockedButtonDown
+  rotate: false
+  xy: 285, 368
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+westWildCampaignLockedButtonUp
+  rotate: false
+  xy: 285, 226
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 facebookButton
   rotate: false
-  xy: 362, 321
+  xy: 285, 113
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 googlePlusButton
   rotate: false
-  xy: 649, 598
+  xy: 450, 539
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 settingsButton
   rotate: false
-  xy: 762, 599
+  xy: 563, 546
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 soundButtonOff
   rotate: false
-  xy: 875, 599
-  size: 111, 111
-  orig: 111, 111
-  offset: 0, 0
-  index: -1
-soundButtonOn
-  rotate: false
-  xy: 504, 456
+  xy: 676, 546
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 toggleWidgetButtonVertical
   rotate: false
-  xy: 359, 162
+  xy: 427, 358
   size: 50, 150
   orig: 50, 150
   offset: 0, 0
   index: -1
+soundButtonOn
+  rotate: false
+  xy: 479, 426
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
 backButton
   rotate: false
-  xy: 411, 223
+  xy: 592, 448
   size: 110, 96
   orig: 110, 96
   offset: 0, 0
   index: -1
 campaignArrowLeft
   rotate: false
-  xy: 411, 134
+  xy: 479, 337
   size: 107, 87
   orig: 107, 87
   offset: 0, 0
   index: -1
-toggleWidgetButtonHorizontal
-  rotate: false
-  xy: 762, 547
-  size: 150, 50
-  orig: 150, 50
-  offset: 0, 0
-  index: -1
 campaignArrowRight
   rotate: false
-  xy: 649, 509
+  xy: 704, 457
   size: 107, 87
   orig: 107, 87
   offset: 0, 0
   index: -1
 noButton
   rotate: false
-  xy: 914, 513
+  xy: 153, 12
   size: 82, 84
   orig: 82, 84
   offset: 0, 0
   index: -1
 yesButton
   rotate: false
-  xy: 758, 461
+  xy: 237, 12
   size: 82, 84
   orig: 82, 84
   offset: 0, 0
   index: -1
-closeWidgetButton
-  rotate: false
-  xy: 842, 481
-  size: 62, 64
-  orig: 62, 64
-  offset: 0, 0
-  index: -1
 forrestLoader
   rotate: false
-  xy: 359, 110
+  xy: 427, 306
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+closeWidgetButton
+  rotate: false
+  xy: 427, 240
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
 spaceLoader
   rotate: false
-  xy: 303, 80
+  xy: 321, 61
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 westWildLoader
   rotate: false
-  xy: 253, 28
+  xy: 321, 9
   size: 50, 50
   orig: 50, 50
-  offset: 0, 0
-  index: -1
-blackNonTransparent
-  rotate: false
-  xy: 617, 537
-  size: 30, 30
-  orig: 30, 30
-  offset: 0, 0
-  index: -1
-transparent
-  rotate: false
-  xy: 617, 505
-  size: 30, 30
-  orig: 30, 30
   offset: 0, 0
   index: -1
 checkBoxOff
@@ -320,23 +313,9 @@ checkBoxOff
   index: -1
 checkBoxOn
   rotate: false
-  xy: 305, 37
+  xy: 768, 887
   size: 40, 41
   orig: 40, 41
-  offset: 0, 0
-  index: -1
-black
-  rotate: false
-  xy: 1, 1
-  size: 25, 25
-  orig: 25, 25
-  offset: 0, 0
-  index: -1
-whiteBackground
-  rotate: false
-  xy: 28, 1
-  size: 25, 25
-  orig: 25, 25
   offset: 0, 0
   index: -1
 knob
@@ -346,45 +325,73 @@ knob
   orig: 10, 60
   offset: 0, 0
   index: -1
-widgetBackground
+blackNonTransparent
   rotate: false
-  xy: 617, 473
+  xy: 398, 194
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
+transparent
+  rotate: false
+  xy: 398, 162
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+widgetBackground
+  rotate: false
+  xy: 398, 130
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+black
+  rotate: false
+  xy: 450, 512
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+scrollVBackground
+  rotate: false
+  xy: 143, 76
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+whiteBackground
+  rotate: false
+  xy: 479, 310
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+textFieldCursor
+  rotate: false
+  xy: 143, 601
+  size: 4, 40
+  orig: 4, 40
+  offset: 0, 0
+  index: -1
+scrollVKnob
+  rotate: false
+  xy: 1, 1
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
 scrollHBackground
   rotate: false
-  xy: 768, 920
+  xy: 285, 514
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 scrollHKnob
   rotate: false
-  xy: 790, 920
+  xy: 592, 438
   size: 20, 8
   orig: 20, 8
-  offset: 0, 0
-  index: -1
-textFieldCursor
-  rotate: false
-  xy: 507, 818
-  size: 4, 40
-  orig: 4, 40
-  offset: 0, 0
-  index: -1
-scrollVBackground
-  rotate: false
-  xy: 475, 412
-  size: 8, 20
-  orig: 8, 20
-  offset: 0, 0
-  index: -1
-scrollVKnob
-  rotate: false
-  xy: 504, 434
-  size: 8, 20
-  orig: 8, 20
   offset: 0, 0
   index: -1

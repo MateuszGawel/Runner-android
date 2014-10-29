@@ -42,7 +42,8 @@
 		findFriendsTab: { up: findFriendsTab, down: findFriendsTab },
 		ligueTab: { up: ligueTab, down: ligueTab },
 		shopTab: { up: shopTab, down: shopTab },
-		worldTab: { up: worldTab, down: worldTab }
+		worldTab: { up: worldTab, down: worldTab },
+		inviteFriends: { up: inviteFriendsButton, down: inviteFriendsButton}
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
