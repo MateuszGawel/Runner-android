@@ -4,7 +4,7 @@
         <campaign>
 		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
 			<level buttonLabel="1" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW1.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="2" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW2.0" requiredLevels="WW1.0" requiredStars="1"></level>
+			<level buttonLabel="2" mapPath="gfx/game/levels/wildwest2.tmx" unlockKey="WW2.0" requiredLevels="" requiredStars="0"></level>
 			<level buttonLabel="3" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW3.0" requiredLevels="WW2.0" requiredStars="2"></level>
 			<level buttonLabel="4" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW4.0" requiredLevels="WW3.0" requiredStars="3"></level>
 			<level buttonLabel="5" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW5.0" requiredLevels="WW4.0" requiredStars="4"></level>
