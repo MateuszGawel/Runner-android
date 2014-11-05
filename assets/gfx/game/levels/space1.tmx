@@ -50,6 +50,10 @@
   <object x="1792" y="384" width="192" height="128"/>
   <object x="3456" y="576" width="384" height="128"/>
   <object x="5504" y="896" width="512" height="128"/>
+  <object name="player1" type="player1" x="832" y="960" width="64" height="128"/>
+  <object name="player4" type="player4" x="640" y="960" width="64" height="128"/>
+  <object name="player3" type="player3" x="704" y="960" width="64" height="128"/>
+  <object name="player2" type="player2" x="768" y="960" width="64" height="128"/>
  </objectgroup>
  <objectgroup name="ObstacleLayer" width="200" height="20">
   <properties>
