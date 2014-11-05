@@ -43,7 +43,9 @@
 		ligueTab: { up: ligueTab, down: ligueTab },
 		shopTab: { up: shopTab, down: shopTab },
 		worldTab: { up: worldTab, down: worldTab },
-		inviteFriends: { up: inviteFriendsButton, down: inviteFriendsButton}
+		tempTab: { up: tempTab, down: tempTab },
+		inviteFriends: { up: inviteFriendsButton, down: inviteFriendsButton},
+		invite: { up: invite, down: invite}
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
