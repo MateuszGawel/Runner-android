@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" width="500" height="40" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64">
-  <image source="wildWestTiled.png" width="1024" height="1025"/>
+  <image source="wildWestTiled.png" width="1024" height="1024"/>
  </tileset>
  <layer name="Decorations #Back" width="500" height="40">
   <data encoding="base64" compression="zlib">
@@ -228,66 +228,6 @@
     <property name="isGhost" value="true"/>
    </properties>
    <polyline points="0,0 9,64 40,104 53,64 78,61 76,0"/>
-  </object>
-  <object name="powerup" type="powerup" x="2432" y="1408" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="1728" y="1216" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="960" y="1152" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="6016" y="832" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="8768" y="832" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="8896" y="1664" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="12224" y="1344" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="16448" y="640" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="17472" y="1600" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="21056" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="26560" y="512" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
-  <object name="powerup" type="powerup" x="28608" y="1280" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="0" height="0">

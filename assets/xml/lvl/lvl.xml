@@ -7,14 +7,14 @@
 			<level buttonLabel="2" mapPath="gfx/game/levels/wildwest2.tmx" unlockKey="WW2.0" requiredLevels="" requiredStars="0"></level>
 			<level buttonLabel="3" mapPath="gfx/game/levels/wildwest3.tmx" unlockKey="WW3.0" requiredLevels="" requiredStars="0"></level>
 			<level buttonLabel="4" mapPath="gfx/game/levels/wildwest4.tmx" unlockKey="WW4.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="5" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW5.0" requiredLevels="WW4.0" requiredStars="4"></level>
-			<level buttonLabel="6" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW6.0" requiredLevels="WW5.0" requiredStars="5"></level>
-			<level buttonLabel="7" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW7.0" requiredLevels="WW6.0" requiredStars="6"></level>
-			<level buttonLabel="8" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW8.0" requiredLevels="WW7.0" requiredStars="7"></level>
-			<level buttonLabel="9" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW9.0" requiredLevels="WW8.0" requiredStars="8"></level>
-			<level buttonLabel="10" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW10.0" requiredLevels="WW9.0" requiredStars="9"></level>
-			<level buttonLabel="11" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW11.0" requiredLevels="WW10.0" requiredStars="10"></level>
-			<level buttonLabel="12" mapPath="gfx/game/levels/wildwest1.tmx" unlockKey="WW12.0" requiredLevels="WW11.0" requiredStars="11"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/wildwest5.tmx" unlockKey="WW5.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/wildwest6.tmx" unlockKey="WW6.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="7" mapPath="gfx/game/levels/wildwest7.tmx" unlockKey="WW7.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="8" mapPath="gfx/game/levels/wildwest8.tmx" unlockKey="WW8.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="9" mapPath="gfx/game/levels/wildwest9.tmx" unlockKey="WW9.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="10" mapPath="gfx/game/levels/wildwest10.tmx" unlockKey="WW10.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="11" mapPath="gfx/game/levels/wildwest11.tmx" unlockKey="WW11.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="12" mapPath="gfx/game/levels/wildwest12.tmx" unlockKey="WW12.0" requiredLevels="" requiredStars="0"></level>
 		</campaign>
 		<multiplayer>
 		    <level buttonLabel="13" mapPath="gfx/game/levels/wildwest1.tmx"></level>
@@ -26,7 +26,7 @@
         <campaign>
 		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
 			<level buttonLabel="1" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO1.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="2" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO2.0" requiredLevels="FO1.0" requiredStars="1"></level>
+			<level buttonLabel="2" mapPath="gfx/game/levels/forest2.tmx" unlockKey="FO2.0" requiredLevels="" requiredStars="0"></level>
 			<level buttonLabel="3" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO3.0" requiredLevels="FO2.0" requiredStars="2"></level>
 			<level buttonLabel="4" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO4.0" requiredLevels="FO3.0" requiredStars="3"></level>
 			<level buttonLabel="5" mapPath="gfx/game/levels/forest1.tmx" unlockKey="FO5.0" requiredLevels="FO4.0" requiredStars="4"></level>

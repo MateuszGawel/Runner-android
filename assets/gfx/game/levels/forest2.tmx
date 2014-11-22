@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="500" height="40" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="forestTiled" tilewidth="64" tileheight="64">
+  <image source="forestTiled.png" width="833" height="512"/>
+ </tileset>
+ <layer name="Decorations #Back" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1UENACAMALF9MYAB1ODfEBrIIMuSVsH9LgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgF92dQAAkObnANCfnwNAf34OAAAA90Z1AACQNqsDAIC0VR0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI8ckdABZw==
+  </data>
+ </layer>
+ <layer name="ObstacleBack" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+  </data>
+ </layer>
+ <layer name="Decorations #Middle" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+  </data>
+ </layer>
+ <layer name="Ground" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2kFOwzAQBdBcAbalYpvmJhyACwAH6dFxRCNGw5QuajWEvidZsdo4zu57RhkGAAAAAAAAAAAAAAAAAPibXtZ+AQC4Y71yWJ4DwHrkOQBsnzwHgO2T5wCwfXIYAAAAAAAAAAAAAIC1PLTxuPZLAABXex5um+ttn2Pb73ij7QDgrvyW668X1i4Z/dbm7218FM9a7mn7HMcubwwAzJ7a2J/GPN8NX7m+zOdrzOh9GLswnzN6atdDG2O4Poc9lhw/nAYA0Mecr9PwncHViPdM6f48n4pnjuG3+EwAoI+cxTnDc06Pxf9jsf6Q1uZzgDwHgH7OZXTsm+c8zrV6lfWxLh+Hn5kvzwGgn5jDsX8ef8u99ZzRY1qTzwT5DBDPDQDA9WLNXPXEc87nurvqrVe1etXHV6MDQB+5b15l8qXv5WJNns8GuR6v9gMArlN9356/bcs1fFWvn+vLV+cEPXcA2I6qX5/zXZ4DAAAAAAAAAAAAAAAAAAAAAAAAAAD/xSdb4jRY
+  </data>
+ </layer>
+ <layer name="Objects#Back" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzqERACAMBMG3aYAK6L/GeCSIIHZnzl8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/KKmBwCAZ2t6AAC4to8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACApAHE+QCw
+  </data>
+ </layer>
+ <layer name="Objects" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1bsJgDAUhtE7RxawcgAfteAC7j+KKRRSSRA0BM6BjxRp/u5GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0NeXGq7l4l9zacBcAUG97+Nt/WwEAfMU9B4D+uecA0LeUO1qPAACqpaLb0GgLAPDOUAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEnABKBCc=
+  </data>
+ </layer>
+ <layer name="Decorations #Front" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt2L0JgFAMRtGMoQNoJfb+1M7l6AZXeGBUzoHbf10gEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP81Z1vEuWZLVr0HAGhzuOcAAADwmClb4/6zx168BQAAAAAA3qLL+uoRAECTIRurRwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDHXMX6BHw=
+  </data>
+ </layer>
+ <layer name="Obstacle#Middle" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1TENACAQBEGcoAcD+JeCiC8uR2YUbLdrAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPznpAMAgDE/B4B+fg4A/fwcAPr5OQD083MA6HfTAQDA2E4HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA2AO7GgIs
+  </data>
+ </layer>
+ <layer name="Obstacles" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzrEJgEAQRcGtwSr00CtAm7N0DzTYTNDgFGbgsT/cCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgO+prS1iX89iac1t9/0KAAAAAAAAAAAA7pW0h25fAABvlBQA8E9jarouAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8MwBrHkEOg==
+  </data>
+ </layer>
+ <objectgroup name="Terrainlayer" width="0" height="0">
+  <properties>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object name="player4" type="player4" x="832" y="1216" width="64" height="128"/>
+  <object name="player3" type="player3" x="896" y="1216" width="64" height="128"/>
+  <object name="player2" type="player2" x="960" y="1216" width="64" height="128"/>
+  <object name="player1" type="player1" x="1024" y="1216" width="64" height="128"/>
+  <object x="0" y="1152">
+   <polyline points="0,0 384,192 1152,192 1280,128 1472,128"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="ObstaclesLayer" width="0" height="0">
+  <properties>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+ </objectgroup>
+ <objectgroup name="ObjectsLayer" width="0" height="0">
+  <properties>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object name="finishingLine" type="finishingLine" x="31152" y="-80" width="64" height="1408">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
