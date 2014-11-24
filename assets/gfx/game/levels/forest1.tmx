@@ -98,6 +98,31 @@
    <polygon points="0,0 90,0 62,-33 22,-33"/>
   </object>
   <object type="swamp" x="640" y="960" width="384" height="64"/>
+  <object name="powerup" type="powerup" x="1024" y="832" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+  <object name="powerup" type="powerup" x="1472" y="704" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+  <object name="powerup" type="powerup" x="1792" y="832" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+  <object name="powerup" type="powerup" x="2560" y="512" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+  <object name="powerup" type="powerup" x="3328" y="512" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="200" height="20">
   <properties>
