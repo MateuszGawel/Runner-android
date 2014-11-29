@@ -99,6 +99,30 @@
     <property name="isGhost" value="true"/>
    </properties>
   </object>
+  <object name="barrel" type="barrel" x="1088" y="1280" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="1152" y="1280" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="1120" y="1227" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="bush" type="bush" x="1088" y="1152" width="70" height="70">
+   <ellipse/>
+  </object>
+  <object name="bush" type="bush" x="3072" y="1011" width="70" height="70">
+   <ellipse/>
+  </object>
+  <object name="bush" type="bush" x="5203" y="1037" width="70" height="70">
+   <ellipse/>
+  </object>
+  <object name="bush" type="bush" x="7933" y="1028" width="70" height="70">
+   <ellipse/>
+  </object>
+  <object name="bush" type="bush" x="10372" y="953" width="70" height="70">
+   <ellipse/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="0" height="0">
   <properties>
