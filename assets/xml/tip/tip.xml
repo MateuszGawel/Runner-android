@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameWorldTypes>
+	<gameWorldType type="WILDWEST">
+	    <tip>[1] Grzybica odbytu to zasłużona kara za korzystanie z publicznych toalet</tip>
+	    <tip>[1] Nie wolno za często być rasistą i antysemitą</tip>
+	    <tip>[1] Reklamy kłamią - od Snickerów grubnie dupa</tip>
+	    <tip>[1] Alkohol nie zabija - to tylko legenda miejska</tip>
+	    <tip>[1] Politycy to porządni ludzie o silnym kręgosłupie moralnym</tip>
+	    <tip>[1] Na japońskiej wyspie Hujotsu istnieje kult gry Run Alien</tip>
+	    <tip>[1] Parówki składają się w 100% z mięsa</tip>
+	    <tip>[1] Łyżeczki to tak naprawdę nasiona łopaty</tip>
+	    <tip>[1] 5zł to około 500gr</tip>
+	    <tip>[1] Jeśli jesteś w stodole nie zapomnij zgasić świecy przed wsadzeniem jej w dupe</tip>
+	    <tip>[1] Syfilis nie istnieje - panienki za 10zł to bezpieczna oszczędność</tip>
+	</gameWorldType>
+	
+	<gameWorldType type="FOREST">
+	    <tip>[2] Grzybica odbytu to zasłużona kara za korzystanie z publicznych toalet</tip>
+	    <tip>[2] Nie wolno za często być rasistą i antysemitą</tip>
+	    <tip>[2] Reklamy kłamią - od Snickerów grubnie dupa</tip>
+	    <tip>[2] Alkohol nie zabija - to tylko legenda miejska</tip>
+	    <tip>[2] Politycy to porządni ludzie o silnym kręgosłupie moralnym</tip>
+	    <tip>[2] Na japońskiej wyspie Hujotsu istnieje kult gry Run Alien</tip>
+	    <tip>[2] Parówki składają się w 100% z mięsa</tip>
+	    <tip>[2] Łyżeczki to tak naprawdę nasiona łopaty</tip>
+	    <tip>[2] 5zł to około 500gr</tip>
+	    <tip>[2] Jeśli jesteś w stodole nie zapomnij zgasić świecy przed wsadzeniem jej w dupe</tip>
+	    <tip>[2] Syfilis nie istnieje - panienki za 10zł to bezpieczna oszczędność</tip>
+	</gameWorldType>
+	
+	<gameWorldType type="SPACE">
+	    <tip>[3] Grzybica odbytu to zasłużona kara za korzystanie z publicznych toalet</tip>
+	    <tip>[3] Nie wolno za często być rasistą i antysemitą</tip>
+	    <tip>[3] Reklamy kłamią - od Snickerów grubnie dupa</tip>
+	    <tip>[3] Alkohol nie zabija - to tylko legenda miejska</tip>
+	    <tip>[3] Politycy to porządni ludzie o silnym kręgosłupie moralnym</tip>
+	    <tip>[3] Na japońskiej wyspie Hujotsu istnieje kult gry Run Alien</tip>
+	    <tip>[3] Parówki składają się w 100% z mięsa</tip>
+	    <tip>[3] Łyżeczki to tak naprawdę nasiona łopaty</tip>
+	    <tip>[3] 5zł to około 500gr</tip>
+	    <tip>[3] Jeśli jesteś w stodole nie zapomnij zgasić świecy przed wsadzeniem jej w dupe</tip>
+	    <tip>[3] Syfilis nie istnieje - panienki za 10zł to bezpieczna oszczędność</tip>
+	</gameWorldType>
+</gameWorldTypes>
