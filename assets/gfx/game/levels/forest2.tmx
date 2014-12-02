@@ -1,81 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="500" height="40" tilewidth="64" tileheight="64">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="500" height="70" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="forestTiled" tilewidth="64" tileheight="64">
-  <image source="forestTiled.png" width="833" height="512"/>
+  <image source="forestTiled.png" width="833" height="576"/>
  </tileset>
- <layer name="Decorations #Back" width="500" height="40">
+ <layer name="Decorations #Back" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt1UENACAMALF9MYAB1ODfEBrIIMuSVsH9LgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgF92dQAAkObnANCfnwNAf34OAAAA90Z1AACQNqsDAIC0VR0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI8ckdABZw==
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
   </data>
  </layer>
- <layer name="ObstacleBack" width="500" height="40">
+ <layer name="Obstacle#Back" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
   </data>
  </layer>
- <layer name="Decorations #Middle" width="500" height="40">
+ <layer name="Ground" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+   eJzt3WFugjAABlDuIeMCXsCfJtvuxdEHUUI1Qx2L0m97L2nAQk1jDF8KBZoGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYNY1Tf82LNuhjMvdnfWybih9e24/re9Oy3G//rt9p+3X319u/2277tk/GgBUZj/k4NZ9AADWG8fmB3kOANGMzQEgm7E5AGST5Zd2RZnm2QFAzWQ5AGST5QBQr/ehfJzLZ1HfXd3LLcsBIIuxOADkmp73JssBIJMxOQBkk+UAkE2WA0A2WQ4A2WQ5AORxPzkAZDMWB4B6LT3brSTLASCbLAeAPK6RA0A2Y3EAyCbLASDTmOHOqwNAFtfGASCb8+kAkE2WA0A2WQ4A9br1XLdpnttYZDkAZBlz3Dw3AMgkxwF4tfI88b33gHCbHAeAXHIcgL/gv4/x93IcAOLJcwDI5Tw7AOSS4wCQS44DwGOu3zlWrrenbdM7Rfvic1l/0abcb6n+0XZyHHi2pePfvWNZu7LdK46dFbRL6+9Fu27NH6kC5pYBwGy/dQdWkucAMBty8bh1H9aQ5wAwk+cAkO/QLM+rePX6T9qYcwYAAAAAAAAAAAAAAAAAAAAAAEC6L+RyiPs=
   </data>
  </layer>
- <layer name="Ground" width="500" height="40">
+ <layer name="Objects#Back" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt2kFOwzAQBdBcAbalYpvmJhyACwAH6dFxRCNGw5QuajWEvidZsdo4zu57RhkGAAAAAAAAAAAAAAAAAPibXtZ+AQC4Y71yWJ4DwHrkOQBsnzwHgO2T5wCwfXIYAAAAAAAAAAAAAIC1PLTxuPZLAABXex5um+ttn2Pb73ij7QDgrvyW668X1i4Z/dbm7218FM9a7mn7HMcubwwAzJ7a2J/GPN8NX7m+zOdrzOh9GLswnzN6atdDG2O4Poc9lhw/nAYA0Mecr9PwncHViPdM6f48n4pnjuG3+EwAoI+cxTnDc06Pxf9jsf6Q1uZzgDwHgH7OZXTsm+c8zrV6lfWxLh+Hn5kvzwGgn5jDsX8ef8u99ZzRY1qTzwT5DBDPDQDA9WLNXPXEc87nurvqrVe1etXHV6MDQB+5b15l8qXv5WJNns8GuR6v9gMArlN9356/bcs1fFWvn+vLV+cEPXcA2I6qX5/zXZ4DAAAAAAAAAAAAAAAAAAAAAAAAAAD/xSdb4jRY
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
   </data>
  </layer>
- <layer name="Objects#Back" width="500" height="40">
+ <layer name="Objects#Middle" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJztzqERACAMBMG3aYAK6L/GeCSIIHZnzl8CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/KKmBwCAZ2t6AAC4to8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACApAHE+QCw
+   eJztzrEJACAQA8CfS3vBrRxdC8tHrAThDtKEFIkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMj1lRoxTpuyAwD8qSVdf/4CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADuTLpAAgg=
   </data>
  </layer>
- <layer name="Objects" width="500" height="40">
+ <layer name="Objects" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt1bsJgDAUhtE7RxawcgAfteAC7j+KKRRSSRA0BM6BjxRp/u5GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC0NeXGq7l4l9zacBcAUG97+Nt/WwEAfMU9B4D+uecA0LeUO1qPAACqpaLb0GgLAPDOUAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEnABKBCc=
+   eJzt2EsKwjAUBdC3IHXuZyx1Ay5AXUiXbgrJpINSLEkNnAOXQEngzW6TCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABqGPYeAADY7LH3AADAZvocAPqnzwGgf/ocAPp3yusl5zhbp5wjxsjfrim35lMCAEvW3M/vuc+L6R8g9fpYer90/2G2DwBo45f3dm/0APBfno3OAAB1vFLeKZ/KZwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgHW+6ccLdg==
   </data>
  </layer>
- <layer name="Decorations #Front" width="500" height="40">
+ <layer name="Decorations #Middle" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt2L0JgFAMRtGMoQNoJfb+1M7l6AZXeGBUzoHbf10gEQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP81Z1vEuWZLVr0HAGhzuOcAAADwmClb4/6zx168BQAAAAAA3qLL+uoRAECTIRurRwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDHXMX6BHw=
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
   </data>
  </layer>
- <layer name="Obstacle#Middle" width="500" height="40">
+ <layer name="Decorations#Front" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt1TENACAQBEGcoAcD+JeCiC8uR2YUbLdrAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPznpAMAgDE/B4B+fg4A/fwcAPr5OQD083MA6HfTAQDA2E4HAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA2AO7GgIs
+   eJzt1zEOgCAQRFHuAPbA/Q/p1MRGGzS+l/xky2m3FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAArtTU0rF7CADwWE8jzc07AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAuK+mlo7lBgC+o6eR5nIDAP/ixweA7+vFjw8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvMsJDlEDHA==
   </data>
  </layer>
- <layer name="Obstacles" width="500" height="40">
+ <layer name="Obstacle#Middle" width="500" height="70">
   <data encoding="base64" compression="zlib">
-   eJztzrEJgEAQRcGtwSr00CtAm7N0DzTYTNDgFGbgsT/cCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgO+prS1iX89iac1t9/0KAAAAAAAAAAAA7pW0h25fAABvlBQA8E9jarouAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8MwBrHkEOg==
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
   </data>
  </layer>
- <objectgroup name="Terrainlayer" width="0" height="0">
+ <layer name="Obstacles" width="500" height="70">
+  <data encoding="base64" compression="zlib">
+   eJzt2kEJADAMBMHoqIH6d9h34QQkZAbWxVYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABOcEAAwyw0BAAAAAAB7pRegewDAL70A3QMAAAAAAAAAAAAAAAAAAAAAAIDpHgF4DLM=
+  </data>
+ </layer>
+ <objectgroup name="Terrainlayer">
   <properties>
    <property name="GroundLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="player4" type="player4" x="832" y="1216" width="64" height="128"/>
-  <object name="player3" type="player3" x="896" y="1216" width="64" height="128"/>
-  <object name="player2" type="player2" x="960" y="1216" width="64" height="128"/>
-  <object name="player1" type="player1" x="1024" y="1216" width="64" height="128"/>
-  <object x="0" y="1152">
-   <polyline points="0,0 384,192 1152,192 1280,128 1472,128"/>
+  <object name="player1" type="player1" x="1152" y="3456" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="3456" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="3456" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="3456" width="64" height="128"/>
+  <object x="0" y="3584">
+   <polyline points="0,0 6784,0"/>
+  </object>
+  <object x="6784" y="3584">
+   <polyline points="0,0 1792,0 1792,256 4672,256 4672,-64 11072,-64"/>
+  </object>
+  <object x="14400.5" y="2879.67">
+   <polyline points="0,0 0,64 256,64 256,0 0,0"/>
+  </object>
+  <object x="15554.4" y="2237.61">
+   <polyline points="0,0 0,64 256,64 256,0 0,0"/>
+  </object>
+  <object x="16637.2" y="1603.67">
+   <polyline points="0,0 0,64 256,64 256,0 0,0"/>
+  </object>
+  <object x="17664" y="1088">
+   <polyline points="0,0 3392,0"/>
   </object>
  </objectgroup>
- <objectgroup name="ObstaclesLayer" width="0" height="0">
+ <objectgroup name="ObstaclesLayer">
   <properties>
    <property name="ObstaclesLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
+  <object type="mushroom" x="3524.67" y="3542">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="8447.33" y="3544.67">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="catapult" x="9165.33" y="3061.33">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="catapult" x="10252.7" y="3193">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="catapult" x="9356" y="3060">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="catapult" x="10442.7" y="3190.67">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="mushroom" x="16770.1" y="1564">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="14404.4" y="2842">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="15686.6" y="2200.73">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="14532.7" y="2841">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="13761.2" y="3472.33">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="16641.8" y="1565">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="15558.3" y="2201.73">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object x="16701" y="1214">
+   <polyline points="899,2 899,-126 960,-128"/>
+  </object>
+  <object type="catapult" x="20879" y="1081">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
  </objectgroup>
- <objectgroup name="ObjectsLayer" width="0" height="0">
+ <objectgroup name="ObjectsLayer">
   <properties>
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="finishingLine" type="finishingLine" x="31152" y="-80" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="31104" y="2432" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
   </object>
  </objectgroup>
+ <layer name="Dziupla" width="500" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
 </map>

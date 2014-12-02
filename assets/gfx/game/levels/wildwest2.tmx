@@ -94,21 +94,21 @@
     <property name="isGhost" value="true"/>
    </properties>
   </object>
-  <object name="powerup" type="powerup" x="1344" y="1216" width="64" height="64">
+  <object name="powerup" type="powerup" x="1344" y="1024" width="64" height="64">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
   </object>
-  <object name="barrel" type="barrel" x="1088" y="1280" width="60" height="59">
+  <object name="barrel" type="barrel" x="505" y="1286" width="60" height="59">
    <ellipse/>
   </object>
-  <object name="barrel" type="barrel" x="1152" y="1280" width="60" height="59">
+  <object name="barrel" type="barrel" x="569" y="1286" width="60" height="59">
    <ellipse/>
   </object>
-  <object name="barrel" type="barrel" x="1120" y="1227" width="60" height="59">
+  <object name="barrel" type="barrel" x="537" y="1233" width="60" height="59">
    <ellipse/>
   </object>
-  <object name="bush" type="bush" x="1088" y="1152" width="70" height="70">
+  <object name="bush" type="bush" x="512" y="1152" width="70" height="70">
    <ellipse/>
   </object>
   <object name="bush" type="bush" x="3072" y="1011" width="70" height="70">
@@ -121,6 +121,162 @@
    <ellipse/>
   </object>
   <object name="bush" type="bush" x="10372" y="953" width="70" height="70">
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1664" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1792" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1920" y="1152" width="128" height="128">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="2304" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="2240" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="2240" y="1152" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="2176" y="1152" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="960" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3520" y="1024" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3648" y="1024" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3456" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="1024" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3520" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3648" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3712" y="1088" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="1152" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="1216" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="1280" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="3584" y="1344" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1152" y="1152" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1152" y="1280" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1216" y="1216" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1216" y="1152" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1152" y="1216" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <ellipse/>
+  </object>
+  <object name="coins" type="coins" x="1216" y="1280" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
    <ellipse/>
   </object>
  </objectgroup>
