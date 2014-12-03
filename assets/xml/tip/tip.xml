@@ -12,6 +12,10 @@
 	    <tip>[1] 5zł to około 500gr</tip>
 	    <tip>[1] Jeśli jesteś w stodole nie zapomnij zgasić świecy przed wsadzeniem jej w dupe</tip>
 	    <tip>[1] Syfilis nie istnieje - panienki za 10zł to bezpieczna oszczędność</tip>
+	    <tip>[1] Najlepszą nagrodą za ciężką pracę jest satysfakcja</tip>
+	    <tip>[1] Jeśli powiesz rodzicom, że jesteś gejem to będą uważali, że jesteś gejem</tip>
+	    <tip>[1] Banan ma zabawny kształt i kolor</tip>
+	    <tip>[1] Andrzej bez wąsa to conajwyżej Tomek</tip>
 	</gameWorldType>
 	
 	<gameWorldType type="FOREST">
@@ -26,6 +30,10 @@
 	    <tip>[2] 5zł to około 500gr</tip>
 	    <tip>[2] Jeśli jesteś w stodole nie zapomnij zgasić świecy przed wsadzeniem jej w dupe</tip>
 	    <tip>[2] Syfilis nie istnieje - panienki za 10zł to bezpieczna oszczędność</tip>
+	    <tip>[2] Najlepszą nagrodą za ciężką pracę jest satysfakcja</tip>
+	    <tip>[2] Jeśli powiesz rodzicom, że jesteś gejem to będą uważali, że jesteś gejem</tip>
+	    <tip>[2] Banan ma zabawny kształt i kolor</tip>
+	    <tip>[2] Andrzej bez wąsa to conajwyżej Tomek</tip>
 	</gameWorldType>
 	
 	<gameWorldType type="SPACE">
@@ -40,5 +48,9 @@
 	    <tip>[3] 5zł to około 500gr</tip>
 	    <tip>[3] Jeśli jesteś w stodole nie zapomnij zgasić świecy przed wsadzeniem jej w dupe</tip>
 	    <tip>[3] Syfilis nie istnieje - panienki za 10zł to bezpieczna oszczędność</tip>
+	    <tip>[3] Najlepszą nagrodą za ciężką pracę jest satysfakcja</tip>
+	    <tip>[3] Jeśli powiesz rodzicom, że jesteś gejem to będą uważali, że jesteś gejem</tip>
+	    <tip>[3] Banan ma zabawny kształt i kolor</tip>
+	    <tip>[3] Andrzej bez wąsa to conajwyżej Tomek</tip>
 	</gameWorldType>
 </gameWorldTypes>

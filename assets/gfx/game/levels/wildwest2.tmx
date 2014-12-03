@@ -74,11 +74,6 @@
     <property name="isGhost" value="true"/>
    </properties>
   </object>
-  <object name="powerup" type="powerup" x="2176" y="960" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-  </object>
   <object name="powerup" type="powerup" x="3136" y="960" width="64" height="64">
    <properties>
     <property name="isGhost" value="true"/>
@@ -123,161 +118,26 @@
   <object name="bush" type="bush" x="10372" y="953" width="70" height="70">
    <ellipse/>
   </object>
-  <object name="coins" type="coins" x="1664" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="1600" y="832">
+   <polyline points="0,0 0,256 64,256 64,192 128,192 128,256 192,256 192,0 128,0 128,128 64,128 64,0 0,0"/>
   </object>
-  <object name="coins" type="coins" x="1792" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="1856" y="832">
+   <polyline points="0,0 0,256 64,256 128,192 192,256 256,256 256,0 192,0 192,192 128,128 64,192 64,0 0,0"/>
   </object>
-  <object name="coins" type="coins" x="1920" y="1152" width="128" height="128">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="2176" y="832">
+   <polyline points="0,0 0,256 64,256 128,192 128,64 64,0 0,0"/>
   </object>
-  <object name="coins" type="coins" x="2304" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="2368" y="832">
+   <polyline points="0,0 0,256 64,256 64,128 128,128 128,0 0,0"/>
   </object>
-  <object name="coins" type="coins" x="2240" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="3456" y="896">
+   <polyline points="0,0 0,64 128,64 128,256 64,320 0,320 0,384 64,384 128,384 192,320 192,0 0,0"/>
   </object>
-  <object name="coins" type="coins" x="2240" y="1152" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="3712" y="896">
+   <polyline points="0,0 0,384 64,384 64,192 192,192 192,0 0,0"/>
   </object>
-  <object name="coins" type="coins" x="2176" y="1152" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="960" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3520" y="1024" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3648" y="1024" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3456" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="1024" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3520" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3648" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3712" y="1088" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="1152" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="1216" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="1280" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="3584" y="1344" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="1152" y="1152" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="1152" y="1280" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="1216" y="1216" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="1216" y="1152" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="1152" y="1216" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
-  </object>
-  <object name="coins" type="coins" x="1216" y="1280" width="64" height="64">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <ellipse/>
+  <object type="coins" x="2816" y="832">
+   <polyline points="0,0 0,64 192,64 192,128 321,29 192,-64 192,0 0,0"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="0" height="0">
