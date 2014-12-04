@@ -256,4 +256,4 @@ additive: true
 behind: false
 premultipliedAlpha: false
 - Image Path -
-C:\Users\Comarch\Desktop\GRA\Runner\android\assets\gfx\game\particles\particle-space.png
+particle-space.png

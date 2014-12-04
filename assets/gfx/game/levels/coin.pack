@@ -1,12 +1,74 @@
-
 coin.png
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Linear,Linear
 repeat: none
 coin0
   rotate: false
-  xy: 0, 0
-  size: 22, 22
-  orig: 22, 22
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin9
+  rotate: false
+  xy: 34, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 66, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 98, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 130, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 162, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 194, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 226, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin7
+  rotate: false
+  xy: 258, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin8
+  rotate: false
+  xy: 290, 2
+  size: 30, 30
+  orig: 30, 30
   offset: 0, 0
   index: -1

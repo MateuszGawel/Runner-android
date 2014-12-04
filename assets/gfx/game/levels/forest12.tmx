@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="200" height="20" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="forestTiled" tilewidth="64" tileheight="64">
+  <image source="forestTiled.png" width="833" height="576"/>
+ </tileset>
+ <layer name="Background" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmU1Sg0AQRnvhBXQbiC4H9hrXnixH8WgexZmYLjtfupGxJIPU96q6+OuBhswLDIgQsm3eRI4veVobz7ldi3oJ+Q9kR95b10DIWqEfhMTQD0Ji6AchMfSDkBj6QUgM/SDkkgeR432OPs+/8vsHISfUi8ccKS+XGFoXNROtfd+6ELI5rBejfHmhbqS2pf2Irb187z+0LohsDvXChvqx1vsHvSC3QB1IzrTE2K40F+tFqZNekCW4q4g1gF4Ud+kGWYoaP7pz9CY6CFy3c3J72GZzbf7O2Ye+M5jjxv787k3328G8PY6NXuI6sX0nl7V65xFtx7Z2f3i8Xq6vDdaK19pr47W16/E3xjqjaxSdF9aCNWD/maoL871czf8ravzQ5ywbg3yPU+xYJQX5Cean2iRzjAGOVaZ5vPE0dW55+8cvLwshJ2r80P7pjd/RF9w25c0gly4kuX434HlFP8iS1LihfkR91xvfe/cGb9m6McJ6zLfO0Q9yK+b44T3z2P/z6LkJ+zzuB53De1GUQz/ImvgEjoVPHw==
+  </data>
+ </layer>
+ <layer name="Ground" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztmFFOwzAQRH0F+A0FPhPzDf3laByFo3EU1qIWq9GMm4pAFTFPslzZjr2xd3bjlmKMMcYYY4wxxhhjjDHGGGOMMWYv3Jfydhf1FKXXh9Pvw1e/Mf+WY+jjJWpVov/xetYZsw0tD7R43/NA/30o3/lgKs4HW3Abe30T5dp2mPWcywMpH5gf0OLQg7VhDCXiy/uaOPRsDRkjedpQH/0b2ZjfIv83h3ezfD+bUn8vcddod46L2FIff8kcZTnVNZXevqR+rGfSjn04bs3ceVyuF2hjNtT0fJ6rDsblvkrmnAu3u4rxlaw/wzMLeY6th3aqfWM2oL1sX3GsOv+8p62OO8dFOtmzPvKZ4pko387tbP9ZO86vzpn5LBuv/EZpRb2r0jO+O8aPCuuds5/5OtMRroXj1uiBzYXjmL7wXPF9sH+tTvaqDxa/MVajHpSPjPwaz5f5lPIvdlYsnygfQtuZtlQOU/azcaPcqPxXvTvTh1qXxQlcV+0ZvjvqSekQ7Wo6iXv4qypxP/8oO4T5LNszFkPVdwTzCfV9wnxkHqzLxuI8Ko9gDmH+wJ5ROUv540jDLI6wNvRLpk3m1ypOjc5T5RyWO5jtKk6iLZ8DxHX3
+  </data>
+ </layer>
+ <layer name="Objects" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt0jEKgDAQBMA8Se30AYK/ytO9UrQxIMQcM7DFFgdbXCkAAAAAAAAAQAZrZLskeu06CH5kf/bacn98NwVeGennRtoKAOQxReZblq6LAAAAII8TpMsErg==
+  </data>
+ </layer>
+ <layer name="Obstacles" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt1TsKwlAQQFH3oCJYqQi2auenFl2AFnZ+wA24f5wiRQg8EpEYJefAhbyQhGmGdDoAAAAA0D6HpgeAH2Y/IM1+QJr9gDT7AWn2A/7XKlpHm2jb8Cy0z7npAUrsctdV/3X7OgahlR6J+4OoG/Wifnb+lmFW0ani+8Xnjp+NQ4s9E/en0SgaR5PsXKd5tIiW0Swr7xrdonvJd/LPXd54DwAAAKp4AVVCC7Q=
+  </data>
+ </layer>
+ <layer name="Decorations #Back" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzt07ENwkAMBVC3LJAF0tOTpEYwAAyQZBBGYVSMCGVScifynmSd7nyFC/8IAAAAAAAAAICIS+kBoGLHrD7i0eX5rVPeiw4FhQy5++88ZAaea3/O8sEfO2z0rsvuywB71Wz07ksubr8ZBarTrrzPmY0pa/ycAAAAUIUXu/0Ltw==
+  </data>
+ </layer>
+ <layer name="Decorations #Middle" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzqENACAQBMGrCE/w1EXpfAtgQMwk6zcBAAAAAAAAAAAA4FavRtWS9XgFvjNfDwAAAABwbAPUqAFp
+  </data>
+ </layer>
+ <layer name="Decorations" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgJD+r+4ICgAAAAAAAAAAAAAAAAAAAGo+gAAB
+  </data>
+ </layer>
+ <objectgroup name="Terrainlayer" width="200" height="20">
+  <properties>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object x="0" y="957">
+   <polyline points="0,0 2112,3 2752,-317 2816,-317 2816,-189 2688,-189 2688,-125 2560,-125 2560,-61 2496,-61 2496,3 2432,3 2432,67 2368,67 2368,259 2368,323 0,323 0,3"/>
+  </object>
+  <object x="2816" y="960">
+   <polyline points="0,0 9088,0 9472,192 9920,192 9920,-64 9280,-64 9280,-192 9344,-192 9856,-448 9920,-448 9920,-896 9024,-896 9024,-960 9984,-960 9984,192 9984,320 0,320 0,0"/>
+  </object>
+  <object x="6336" y="704">
+   <polyline points="0,0 0,128 704,128 704,0 0,0"/>
+  </object>
+  <object x="7232" y="576">
+   <polyline points="0,0 0,128 576,128 576,0 0,0"/>
+  </object>
+  <object x="3455" y="955">
+   <polygon points="0,0 1,-93 37,-109 63,-92 61,2"/>
+  </object>
+  <object x="4807" y="957">
+   <polygon points="3,2 3,-102 44,-102 44,-1"/>
+  </object>
+  <object x="5067" y="949">
+   <polygon points="0,9 -2,-44 38,-42 41,9"/>
+  </object>
+  <object x="3785" y="951">
+   <polyline points="0,0 0,-90 27,-108 129,-107 132,-148 184,-170 387,-169 387,-289 424,-288 424,-237 725,-237 746,-211 745,-128 727,-214 429,-214 430,7 0,3"/>
+  </object>
+  <object x="3146" y="756">
+   <polyline points="0,0 2,-91 26,-107 277,-102 299,-79 297,1 269,-87 28,-86 1,-2"/>
+  </object>
+  <object x="8395" y="926" width="13" height="37"/>
+  <object x="8840" y="915" width="17" height="44"/>
+  <object name="player1" type="player1" x="576" y="832" width="64" height="128"/>
+  <object name="player4" type="player4" x="384" y="832" width="64" height="128"/>
+  <object name="player3" type="player3" x="448" y="832" width="64" height="128"/>
+  <object name="player2" type="player2" x="512" y="832" width="64" height="128"/>
+ </objectgroup>
+ <objectgroup name="ObstaclesLayer" width="200" height="20">
+  <properties>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object type="mushroom" x="3012" y="910">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="2880" y="911">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="mushroom" x="3140" y="909">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="catapult" x="1870" y="953">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="hedgehog" x="8701" y="957">
+   <polygon points="0,0 90,0 62,-33 22,-33"/>
+  </object>
+  <object type="swamp" x="640" y="960" width="384" height="64"/>
+  <object name="powerup" type="powerup" x="2560" y="512" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+  <object name="powerup" type="powerup" x="3328" y="512" width="64" height="64">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="ObjectsLayer" width="200" height="20">
+  <properties>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+ </objectgroup>
+ <objectgroup name="PlayerLayer" width="200" height="20"/>
+ <layer name="FrontLayer" width="200" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztzgENADAIAzB8YgAD938Zg6RV0CoAAAAAAAAAAACAGzodgMUmHYDFXjoAAAAAh3xdSgE5
+  </data>
+ </layer>
+</map>
