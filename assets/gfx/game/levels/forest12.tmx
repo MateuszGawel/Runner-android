@@ -97,7 +97,7 @@
   <object type="hedgehog" x="8701" y="957">
    <polygon points="0,0 90,0 62,-33 22,-33"/>
   </object>
-  <object type="swamp" x="640" y="960" width="384" height="64"/>
+  <object type="swamp" x="640" y="1024" width="384" height="64"/>
   <object name="powerup" type="powerup" x="2560" y="512" width="64" height="64">
    <properties>
     <property name="isGhost" value="true"/>
@@ -108,6 +108,9 @@
     <property name="isGhost" value="true"/>
    </properties>
   </object>
+  <object name="hedgehogStopper" type="hedgehogStopper" x="704" y="896" width="14" height="61"/>
+  <object name="hedgehogStopper" type="hedgehogStopper" x="1024" y="896" width="15" height="63"/>
+  <object name="hedgehog" type="hedgehog" x="766" y="928" width="85" height="30"/>
  </objectgroup>
  <objectgroup name="ObjectsLayer" width="200" height="20">
   <properties>

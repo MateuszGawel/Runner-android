@@ -9,65 +9,107 @@ coin0
   orig: 30, 30
   offset: 0, 0
   index: -1
-coin9
+coin1
   rotate: false
   xy: 34, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-coin1
+coin10
   rotate: false
   xy: 66, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-coin2
+coin11
   rotate: false
   xy: 98, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-coin3
+coin12
   rotate: false
   xy: 130, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-coin4
+coin13
   rotate: false
   xy: 162, 2
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
+coin14
+  rotate: false
+  xy: 2, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin15
+  rotate: false
+  xy: 34, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 66, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 98, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 130, 34
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
 coin5
   rotate: false
-  xy: 194, 2
+  xy: 162, 34
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 coin6
   rotate: false
-  xy: 226, 2
+  xy: 2, 66
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 coin7
   rotate: false
-  xy: 258, 2
+  xy: 34, 66
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 coin8
   rotate: false
-  xy: 290, 2
+  xy: 66, 66
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+coin9
+  rotate: false
+  xy: 98, 66
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
