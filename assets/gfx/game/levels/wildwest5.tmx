@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="700" height="40" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64">
-  <image source="wildWestTiled.png" width="1024" height="1024"/>
+  <image source="wildWestTiled.png" width="1024" height="1025"/>
  </tileset>
  <layer name="Decorations #Back" width="700" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt1kFKQ0EQRdE/MPtw/6tyKQoODfKJdr+q6nPgzgIJdEHedQEAAAAAAAAAAAAAAAAA0NXbkwAA4FXP9uWOzXn3e+1fAIBeUlvy7ud2bU17FwBgj7/sLumVAAB2Sm8fndXjuj4uAGCJr//Z9/R/fbWuAr9BZ2XvAsA69q6Uz94FgHXsXSmfvQsA69i7Uj579xyPmwHwf+xdqW705+0BqCq9czQnzuJmAOgivZE0J87hVgDgp/QW0/qYzZ0AwO/SW0zrYyb3AQD3pLeY1scc7gIA/ld6p8mG4Zs7AYA10ttNdszp3AcArJXebrJnTuUuAGCP9HaTXXMa9wAAe6W3m+ybE7gFAKgrve1k43TmBgCgvvS2k63TjXcHgF7S2042TyfeHAB6SW872T5deG8AmCu9/06Lerw1AMyW3n/StACAWtLbQJoSAFBTeiNI3QMAektvCalqAMAM6U0hVQsAmCW9LaQqAQCQkd6B0wMAgK7sWgAAAAAAAE7yCTw2UPU=
+   eJzt1sFpA0EQRNE92Hk4DucfiEOxwVchRrusarr7PaibQIJp0D8OAADYw3f6BwAAwI30LgAAneldAAA607sAAHSmd6GPjwcDgOn0Lpz3qC/f0Zyr36t/AUDvUkuqJVc/967W1LsAsE7vcsWV7jI7MwB4ld7linT72Kx9HsfPAQAv0rtr/v5nv9L/9bvt2OA32KzpXQDO0Ltr9K5ZfnoXgDP07hq9a5af3gXgDL27Ru+a5ad35/hcHMAKvbtG75rtO+rz9sCd9C5XpDvH+oxZ3AzwTnqXK9KNZH3GHG4FeDe9SwXpFrP7R2/uBEjSu1SQbjG7f/TkPoAd6F0qSLeY3T/6cBfAbvQu1aU7zTQM/9wJsCu9S3XpdjMdM537AHand6ku3W6mZ6ZyF0AVepfq0u1mumYa9wBUo3epLt1upm8mcAtAZXqX7tJtZxqnMjcAdKB36S7ddqZ1qvHuQDd6l+7SbWeapxJvDnSkd+ks3Xamfarw3kBnepfp0v03bezHWwPd6V2mS/efWbcB7EbvMl26Dcy6DGBXepfp0o1gVn0Au9O78Fy6Jcx2HUAVeheeSzeF2W4DqEbvwnPptjDbZQBV6V2gunQHdh9AdXoXYC5dC0ygdwEA6EzvAgDQ2R29+wuDZloF
   </data>
  </layer>
  <layer name="ObstacleBack" width="700" height="40">
@@ -53,10 +53,10 @@
    <property name="GroundLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="player3" type="player3" x="896" y="768" width="64" height="128"/>
-  <object name="player4" type="player4" x="832" y="768" width="64" height="128"/>
-  <object name="player1" type="player1" x="1024" y="768" width="64" height="128"/>
-  <object name="player2" type="player2" x="960" y="768" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="768" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="768" width="64" height="128"/>
+  <object name="player1" type="player1" x="1152" y="768" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="768" width="64" height="128"/>
   <object x="0" y="896">
    <polyline points="0,0 9536,0 12224,1344 23552,1344 26368,-64 27584,-64 27584,1024 39424,1024 40064,704 40512,704 41408,256 44800,256 44800,1664 0,1664 0,0"/>
   </object>
@@ -267,7 +267,7 @@
   <object x="2691.5" y="899.5">
    <polyline points="0,0 22.5,-10.5 40,-10 60.5,-1"/>
   </object>
-  <object name="finishingLine" type="finishingLine" x="43648" y="256" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="43456" y="256" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>

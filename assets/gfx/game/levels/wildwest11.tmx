@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="700" height="70" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64">
-  <image source="wildWestTiled.png" width="1024" height="1024"/>
+  <image source="wildWestTiled.png" width="1024" height="1025"/>
  </tileset>
  <layer name="Decorations #Back" width="700" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt1sEJxDAMBMB95TpIOsi1mdITY+SHwf8EZkBoJVSAEgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASH7JtfVqeczVs9jV/ZwBAOBNjud/3Xu1PObqWezqfs4AAPAm/+d/PXu1PObqWezqfs4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwHfcTGwTOQ==
+   eJzt1jGKwzAUQEFVmxskN9jcYU+XoyfGyIXBZVjzPANCX0KFyjcGAACcw99/fwAAAL5I7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9y1ndxnj9rGuZt/Pcx8HdfL+fAYBr0ruc1ePTr/d1LfN2nvs4uJvv9zMAcE16l7N6fvr1d13LvJ3nPg7u5vv9DABck94FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo+0bvvgFPRSMV
   </data>
  </layer>
  <layer name="ObstacleBack" width="700" height="70">
@@ -110,10 +110,10 @@
   <object x="6144" y="2944">
    <polyline points="0,0 0,128 512,128 512,0 0,0"/>
   </object>
-  <object name="player3" type="player3" x="960" y="2688" width="64" height="128"/>
-  <object name="player2" type="player2" x="1024" y="2688" width="64" height="128"/>
-  <object name="player4" type="player4" x="896" y="2688" width="64" height="128"/>
-  <object name="player1" type="player1" x="1088" y="2688" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="2688" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="2688" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="2688" width="64" height="128"/>
+  <object name="player1" type="player1" x="1152" y="2688" width="64" height="128"/>
  </objectgroup>
  <objectgroup name="ObstaclesLayer">
   <properties>
@@ -609,25 +609,22 @@
    </properties>
    <polyline points="0,0 8.5,-56.5 40,-67 73.5,-57.5 83.5,1"/>
   </object>
-  <object type="bush" x="26560" y="1920" width="70" height="70">
+  <object name="barrel" type="barrel" x="35650.3" y="1732.41" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="35584" y="1728" width="60" height="59">
+  <object name="barrel" type="barrel" x="35714.3" y="1732.41" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="35648" y="1728" width="60" height="59">
+  <object name="barrel" type="barrel" x="35682.3" y="1679.41" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="35614" y="1668.5" width="60" height="59">
+  <object name="barrel" type="barrel" x="41217.7" y="1988.08" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="35520" y="1728" width="60" height="59">
+  <object name="barrel" type="barrel" x="41281.7" y="1988.08" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="barrel" x="35551.3" y="1671.83" width="60" height="59">
-   <ellipse/>
-  </object>
-  <object type="barrel" x="35580.7" y="1614.5" width="60" height="59">
+  <object name="barrel" type="barrel" x="41249.7" y="1935.08" width="60" height="59">
    <ellipse/>
   </object>
  </objectgroup>
@@ -636,7 +633,7 @@
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="finishingLine" type="finishingLine" x="44096" y="1984" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="43456" y="1984" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>

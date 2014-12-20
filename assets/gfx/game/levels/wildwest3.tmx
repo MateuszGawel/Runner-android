@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="700" height="40" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64">
-  <image source="wildWestTiled.png" width="1024" height="1024"/>
+  <image source="wildWestTiled.png" width="1024" height="1025"/>
  </tileset>
  <layer name="Decorations #Back" width="700" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt2EsKgDAUA8Au9P5XFm/QPm3jZwYCrkQkxWBrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALDO3hnG9L5X75ZRegUANZssD1ToFwBck96AfwlUrerY1Xv2Pt957Z81AAnpPfj1QFW6u3f13bkB4CnS38mvBirSvXVWAACYKb097VwAAGZKb1BbFwCA2dJb1NYFAGCm9B61cwEAAAAAAAAAgDc6AEhrDFI=
+   eJzt2EEKwkAQAEEP+in//zDxBzFGZ+mtgoGcQgizpMntBgAAa3hOPwAAAPyQ3gUAoEzvAgBQpncBACjTuwAAlOldAADK9C4AAGV6FwCAMr0LAECZ3gUAoEzvAgBQpncBACjTuwAAlOldAADK9C4AAGV6FwCAMr0LAECZ3gUAoEzvAgBQpncBACjTuwAAlOldAADK9C4AAGV6FwCAMr0LAECZ3gUAoEzvAgBQpnepexwcPnP0vXq3fMpeAVfTu+zibv4+cIb9Aq6md9nNdAPuMnDWv3bs23sefb73tX/WMEvvsqvpHqwPnDW9u1ftu3MD69C77G76O1kdOGN6b50VaNK7AKxiuj11LjTpXQBWMd2gWhea9C4AK5luUa0LPXoXgJVM96jOhR69CwBAmd4FAKBM7wIAUPaL3n0Bj5sVYg==
   </data>
  </layer>
  <layer name="ObstacleBack" width="700" height="40">
@@ -62,10 +62,10 @@
   <object x="22848" y="0">
    <polyline points="0,0 0,576 128,576 128,704 256,704 256,768 384,768 384,832 576,832 576,768 704,768 704,704 832,704 832,640 960,640 960,576 1088,576 1088,512 1216,512 1216,448 3008,448 3008,384 3264,384 3264,448 3392,448 3392,2048 4096,2048 4096,2112 6016,2112 6016,2048 6144,2048 6144,1984 6272,1984 6272,1792 6400,1792 6400,1728 6784,1728 6784,1600 6912,1600 6912,1344 7040,1344 7040,1088 7232,1088 7232,0 0,0"/>
   </object>
-  <object name="player3" type="player3" x="1088" y="1664" width="64" height="128"/>
-  <object name="player4" type="player4" x="1024" y="1664" width="64" height="128"/>
-  <object name="player1" type="player1" x="1216" y="1664" width="64" height="128"/>
-  <object name="player2" type="player2" x="1152" y="1664" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="1664" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="1664" width="64" height="128"/>
+  <object name="player1" type="player1" x="1152" y="1664" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="1664" width="64" height="128"/>
  </objectgroup>
  <objectgroup name="ObstaclesLayer">
   <properties>
@@ -117,6 +117,18 @@
   <object type="bonfire" x="30697.3" y="1919.33">
    <polygon points="0,0 44,0 21,-60"/>
   </object>
+  <object name="barrel" type="barrel" x="3776.32" y="1733.25" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="3743.72" y="1679.08" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="3713.02" y="1733.91" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="32962.3" y="1540.58" width="60" height="59">
+   <ellipse/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
@@ -165,7 +177,7 @@
   <object x="39488" y="1600">
    <polyline points="0,0 0,-320 704,-320 704,-512 1536,-512 1536,-768 2432,-768 2432,0"/>
   </object>
-  <object name="finishingLine" type="finishingLine" x="43712" y="384" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="43456" y="384" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>

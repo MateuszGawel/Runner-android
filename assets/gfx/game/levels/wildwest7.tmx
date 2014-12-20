@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="500" height="40" tilewidth="64" tileheight="64">
  <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64">
-  <image source="wildWestTiled.png" width="1024" height="1024"/>
+  <image source="wildWestTiled.png" width="1024" height="1025"/>
  </tileset>
  <layer name="Decorations #Back" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt10EKgzAQBdAs9B49ao/So/UojZCVhCoaM7F9DwYVXAQS548pAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAL9iTukx5etUnqdVAQD3sM7wWqbn3H+HLA4AqMrZ/Fyq3O/O87m8XysAIMZWju8pYNu3Wbj3nHx0LWZ3GJscb+9sv8z16r5oLtVidh6hgPH5rts72jOXPG8wE/jnGkh0DstxgPOie7E+HS96n50PgLai+7NeHSN6r50NgGvo0/8lOp+dEYBr6dP04lwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAd/ABb1YM2g==
+   eJzt19GJwkAUhtE8xD6sw+q2lC3NUjaByBKRVcwk13/2HBhU8GEg4/3GYQAAjnSp3gAAsJmeA0A+PQeAfHoOAPn0HADy6TkA5NNzAMin5wCQT88BIJ+eA0A+PQeAfHoOAPn0HADy6TkA5NNzAMin5wCQT88BIJ+eA0C+Hnt+GobzOL2Oy+fxbgFAb3rs+ey+4Y+aPnX/WrI5AGisl55Pbf6a1/L+5Z6flu8/WgCQopee3zzr+CsLeO6vu/DR9+R39+LuTk966/lMx9vbOi+n9X34ptlVi7vzJyzoRY89v/G7bu/dmTn3vMGdwH+uD1LdYR2HtZ57zn6qZ7E5Xa/6OTsfsKbnbFU9n83qGtXP2tmANT2nFXP6f6nuszMCa3pOa+Y0R3Eu4JeeA0A+PQeAfHoOAPn0HADy6TkA5NNzAMin5wCQT88BIJ+eA0A+PQeAfHoOAPn26PkPVy4V6g==
   </data>
  </layer>
  <layer name="ObstacleBack" width="500" height="40">
@@ -30,7 +30,7 @@
  </layer>
  <layer name="Objects" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt2sFNw0AQBdB0AB2EDkKJI6ACoJXQQcAUEDDdMFYSyfLNVuKJ4T3py+vDSHNZ7a40qxUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDfdpO5rW4CAAo9ZB4PiS5Nrj+LexprnbmrbgLOoH83zW/kfxS2AyzIc+blkOjS5vqnuKexNpn76ibgDPp30/zG2nl+UcP3TLd+Ku4J5vSRaY4Z7IWwF2C6/t00v7Fxnl/U8D3TrV+Le4I5fWfaYwZ7IeyFeZ3eF82IuHsBwHU5vS/aEXH3Aq6dOWcAWD5zzgCwfOac62wzbxNrsy625n4AoNwu8z6xNuti5zwHgHL7zNfE2qyLvfMcYFZmzgBg+cycAcDymTkDAAAAAAAAAAAAAAAAAAAAAAAAAAAA4L/7Bc5uS6w=
+   eJzt2sFNw0AQBdB0AB2EDkKJI6ACoJXQQcAUEDDdMFYSyfLNjuKJ4T3py+vDSHNZ7a40qxUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMDfdpO5rW4CAAo9ZB4PiS5Nrj+LexprnbmrbgLO1L+X5jfyPwrbARbmOfNySHRpc/1T3NNYm8x9dRNwpv69NL+xdp5f3PA9062finuCOX1kmmMGeyHsBZimfy/Nb2yc5xc3fM9069finmBO35n2mMFeCHthXqf3RTMi7l4AcF1O74t2RNy9gGtnzhkAls+cMwAsnznnOtvM28TarIut2R8AKLfLvE+szbrYOc8BoNw+8zWxNuti7zwHmJWZMwBYPjNnALB8Zs4AAAAAAAAAAAAAAAAAAAAAAAAAAAAA+O9+AeBWS6w=
   </data>
  </layer>
  <layer name="Decorations #Front" width="500" height="40">
@@ -53,10 +53,10 @@
    <property name="GroundLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="player4" type="player4" x="640" y="1216" width="64" height="128"/>
-  <object name="player3" type="player3" x="704" y="1216" width="64" height="128"/>
-  <object name="player2" type="player2" x="768" y="1216" width="64" height="128"/>
-  <object name="player1" type="player1" x="832" y="1216" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="1216" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="1216" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="1216" width="64" height="128"/>
+  <object name="player1" type="player1" x="1152" y="1216" width="64" height="128"/>
   <object x="0" y="1344">
    <polyline points="0,0 1856,0 2240,192 2816,192 3456,-128 4288,-128 4672,-128 5056,-128 5440,-320 5952,-320 5952,-64 6208,-64 6208,-320 6656,-320 8192,448 9856,448 10496,128 12096,128 12096,384 12416,384 12416,128 12864,128 13248,-64 13440,-64 13696,-192 13824,-192 14080,-64 14208,-64 14208,-256 16064,-256 16064,384 18624,384 19520,-64 20160,-64 20160,128 20352,128 20352,-64 20608,-64 20608,320 20864,320 20864,-64 21248,-64 21248,0 21440,0 21440,-64 23104,-64 23104,256 23808,256 23808,-64 25664,-64 25920,64 26112,64 26240,0 26624,0 27520,-448 27776,-448 27776,320 28544,320 28544,192 28992,192 28992,64 29440,64 29440,-64 29824,-64 29824,-192 32000,-192"/>
   </object>
@@ -245,10 +245,10 @@
   <object x="18899.8" y="1090.5">
    <polyline points="0,0 7,-51 41,-72 80,-61 111,-71 151,-56 171,1"/>
   </object>
-  <object name="stone" x="30420.5" y="1154">
+  <object name="stone" x="30356.5" y="1152.67">
    <polyline points="0,0 9,-51 41,-70 86,-57 101,0"/>
   </object>
-  <object name="stone" x="30596" y="1155.5">
+  <object name="stone" x="30532" y="1154.17">
    <polyline points="0,0 9,-51 66,-71 95,-52 101,0"/>
   </object>
   <object x="5964" y="1280">
@@ -260,7 +260,7 @@
   <object x="15808" y="1024" width="384" height="64"/>
   <object x="16640" y="1152" width="512" height="64"/>
   <object x="22976" y="1216" width="1024" height="64"/>
-  <object name="finishingLine" type="finishingLine" x="31296" y="0" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="30656" y="0" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
