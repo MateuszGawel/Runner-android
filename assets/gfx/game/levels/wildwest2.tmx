@@ -153,6 +153,48 @@
    </properties>
    <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
+  <object name="coins" type="coins" x="2624" y="1472">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 -64,0 -64,-64 64,-128 128,-192 192,-256 320,-128 448,-64 448,0 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="3648" y="1536">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 0,-256 128,-256 128,0"/>
+  </object>
+  <object name="coins" type="coins" x="1472" y="1344">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 -64,64 0,128 64,64 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="1792" y="1536">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 64,-128 64,0 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="3645.33" y="1453.33">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 -41.3333,-36 -100,-36 -148,20 -152,80 2.66667,80 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="3645.33" y="1280">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 29.3333,-50.6667 69.3333,-72 110.667,-52 134.667,0 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="3925.33" y="1457.33">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 -41.3333,-36 -100,-36 -148,20 -152,80 2.66667,80 0,0"/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
