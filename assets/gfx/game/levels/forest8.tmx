@@ -5,7 +5,7 @@
  </tileset>
  <layer name="Decorations #Back" width="700" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt1jEKgDAMQNEMeg+P7tE8ih3FQVBMSOE9yFhK2uVHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADQyXKZr+fengUAgCdrxHbvzZln7HP8+0I1Kv5h3LGXLQQA0ITe7UHvAgDk0Ls96F0AgBx6twe9CwCQQ+/2oHcBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJjFCckUDx0=
+   eJzt1rsNAjEUAEEHINqgdEqjFC4EMhB3NqsZ6YWWf8mOAQAAa7jMPgAAAOxI7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwANp6f5dt2na+Ef6F0AmOc8xvW9N/95tvvcf/tCxzjiH7Y9boddiBd6FwDm0btr0LttehcA5tG7a9C7bXoXAObRu2vQu216FwDm0btr0LttehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABlehcAgDK9CwBAmd4FAKBM7wIAUKZ3AQAo07sAAJTpXQAAyvQuAABle/TuA9apEQc=
   </data>
  </layer>
  <layer name="Obstacle#Back" width="700" height="70">
@@ -45,7 +45,7 @@
  </layer>
  <layer name="Decorations#Front" width="700" height="70">
   <data encoding="base64" compression="zlib">
-   eJzt3UtugzAUBdDsoa2SYVslK0gXkE46S9fE0vsEshRZRMjmJ8o50hUY8EcGM/XhAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA3v2sPQAAAP69a+Tr4UidmLvm2qWdx1QurZ+fAwAwzi3y/XCkTsxdc+vSzmMql9bPzwEAGOce+X04Uifmrrl3aecxlUvr5+cAAFtzjJyycrqWZ4+OhTn11Bs7dyX9rm2tcdb00fetT/n8s/ENjTHd38L7BoAtOEcuWTldy7NH58JceuqNnbuSfte21jhr+uj71qd8/tn4hsaY7m/hfQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALBvpfsZ2n8O6gytl7nX1hRtL7He5/y3vEReI28TtlnKnroAyyvdz9D+c1BnaL3MvbamaHuJ9T7nv+U98hH5nLDNUvbUBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4A9W0DSI
+   eJzt3UFugzAQAMD8oa2SY1olL0gfkF5yS9/E02uBLCGLCNkxEMqMtAIDhtWCue5uBwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADA1t2WTgAAgH/vEuK7t6VMqF1z6aKtYxznzk/3AQB4zjXET29LmVC75tpFW8c4zp2f7gMA8Jx7iN/eljKhds29i7aOcZw7P90HAFibfYhDMo7H0tiifWYcBub1a/cW4j3ER+UcXuX9LJVnyTOGvvWa1z/KbyzHeH4N7xsA1uAU4pyM47E0tuiUGeeBef3aHUN8hviqnMOrvJ+l8ix5xtC3XvP6R/mN5RjPr+F9AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsG25/Qz1n4MyY+tl6rVV495zrPcp/y0l/VZr01MXYH65/Qz1n4MyY+tl6rVV495zrPcp/y3HXX6/1dr01AUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAPlDU1Jw==
   </data>
  </layer>
  <layer name="Obstacles" width="700" height="70">
@@ -58,10 +58,10 @@
    <property name="GroundLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="player2" type="player2" x="1280" y="3456" width="64" height="128"/>
-  <object name="player1" type="player1" x="1344" y="3456" width="64" height="128"/>
-  <object name="player3" type="player3" x="1216" y="3456" width="64" height="128"/>
-  <object name="player4" type="player4" x="1152" y="3456" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="3456" width="64" height="128"/>
+  <object name="player1" type="player1" x="1152" y="3456" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="3456" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="3456" width="64" height="128"/>
   <object x="0" y="3584">
    <polyline points="0,0 22720,0 22720,-64 22848,-64 22848,-128 23104,-128 23104,-64 23232,-64 23232,0 26752,0 28160,-704 44800,-704 44800,896 0,896 0,0"/>
   </object>
@@ -78,10 +78,10 @@
    <property name="PhysicsEnabled" value="true"/>
   </properties>
   <object type="swamp" x="24960" y="3584" width="576" height="64"/>
-  <object type="mushroom" x="35072" y="2834">
+  <object type="mushroom" x="34942.7" y="2834">
    <polygon points="126,27 -3,26 61,47"/>
   </object>
-  <object type="mushroom" x="35200" y="2836">
+  <object type="mushroom" x="35070.7" y="2836">
    <polygon points="126,27 -3,26 61,47"/>
   </object>
   <object name="killingBottom" type="killingBottom" x="4862.67" y="3593.33">
@@ -786,7 +786,10 @@
    </properties>
    <polyline points="0,0 0,59 30,66 41,105 69,61 76,0"/>
   </object>
-  <object type="catapult" x="22414.7" y="3572">
+  <object type="catapult" x="22412.5" y="3577">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="catapult" x="34192" y="2869">
    <polygon points="9,-2 -1,27 169,26 152,-2"/>
   </object>
  </objectgroup>
@@ -795,7 +798,7 @@
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="finishingLine" type="finishingLine" x="43840" y="1664" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="43456" y="1664" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
@@ -828,7 +831,7 @@
    <polyline points="0,0 0,-128 2.66667,-150.667 66.6667,-160 452,-166.667 485.333,-149.333 502.667,-137.333 478.667,-177.333 446.667,-185.333 21.3333,-184 0,-178.667 0,-192 0,-704 -64,-704 -64,-576 -128,-576 -128,-320 -128,0 0,0"/>
   </object>
  </objectgroup>
- <layer name="Dziupla" width="700" height="70" visible="0">
+ <layer name="FrontLayer" width="700" height="70">
   <data encoding="base64" compression="zlib">
    eJzt3bENwCAQA8DfLxNE9CgLZH8aWkr45HUnubY3cAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA91yIAAAAAX3TPAABARX0GAAAAAAAAAAAAAAAAAAAAAAAAAAAAAID/a9kDAABgo+dAhw9TAACyvAc6fJgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAngGkSgU4
   </data>

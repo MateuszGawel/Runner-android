@@ -5,7 +5,7 @@
  </tileset>
  <layer name="Decorations #Back" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+   eJzt1cEJACAQwLD7uf/GDiEqhWSC/joDALy0fgcAAMf8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+vwcAPr8HAD6/BwA+m78fAM+eAEZ
   </data>
  </layer>
  <layer name="Obstacle#Back" width="500" height="40">
@@ -40,7 +40,7 @@
  </layer>
  <layer name="Decorations#Front" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJztzrEJACAMAMHsoPbq/kMaV7AJyB18/xEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwC9a1rNRPQIAPJvZynbxBwAAAAAAAAAAAAAAAAAAAAAAAAAAAABcB7rpAKA=
+   eJzt2tFOgzAUBmDiC3ihRi/V6AsJ98Kb8Oiy2JqOwVZYIZn5vuTPygLtKYElS05VAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8X88hLzMpvc6lXLtm6bm3qBEASvsI+ZxJ6XUu5do1S8+9RY0AAAAAAAAAwK/c/sBzvXh1yFdInaRJvr8bpZkYD+f1IfH4JPGarc31aDajxL3XE+O6yutfTM+J47paPs/aPZXoQc2de+q6+KwM6eM4fPZNRl1L9nULfaR79OxuVVfJ2g5zJc/C0e9K+v6V6jHecj97r7emhlt4N5iX2x94rhevDfkOaZN0yff3o3QT4+G8PiQenyRes7W5Hs1ulLY63vf4HuT0L6bnxHFbLZ9n7Z5K9KDmzj11XVv93c8+jsNn32XUtWRft9BHukfP7lZ1laztMFfyLBz9rqTvX6ke4y33s/d6a2q4hXcDYImc/y4PQx6HPO1bGgCQKee/y+uQtyHvu1YGAAAAAAAAAAAAAAAAAAAAAAAAAAAAANN+AKlaUJc=
   </data>
  </layer>
  <layer name="Obstacle#Middle" width="500" height="40">
@@ -314,7 +314,7 @@
    <property name="ObjectsLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="finishingLine" type="finishingLine" x="31104" y="512" width="64" height="1408">
+  <object name="finishingLine" type="finishingLine" x="30656" y="512" width="64" height="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
@@ -341,7 +341,7 @@
    <polyline points="0,0 8.66667,-182.667 46.6667,-182.667 50.6667,-4.66667"/>
   </object>
  </objectgroup>
- <layer name="Dziupla" width="500" height="40">
+ <layer name="FrontLayer" width="500" height="40">
   <data encoding="base64" compression="zlib">
    eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
   </data>
