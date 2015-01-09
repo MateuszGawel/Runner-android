@@ -6,22 +6,22 @@ lowMin: 3000.0
 lowMax: 3000.0
 - Count - 
 min: 0
-max: 8
+max: 4
 - Emission - 
-lowMin: 3.0
-lowMax: 3.0
-highMin: 3.0
-highMax: 3.0
+lowMin: 2.0
+lowMax: 2.0
+highMin: 2.0
+highMax: 2.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
 timelineCount: 1
 timeline0: 0.0
 - Life - 
-lowMin: 0.0
-lowMax: 0.0
-highMin: 3000.0
-highMax: 3000.0
+lowMin: 1000.0
+lowMax: 1000.0
+highMin: 2000.0
+highMax: 2000.0
 relative: false
 scalingCount: 3
 scaling0: 1.0
@@ -114,7 +114,7 @@ timeline0: 0.0
 timeline1: 0.46575344
 - Tint - 
 colorsCount: 3
-colors0: 0.6431373
+colors0: 0.6392157
 colors1: 0.0
 colors2: 1.0
 timelineCount: 1
@@ -141,4 +141,4 @@ additive: true
 behind: false
 premultipliedAlpha: false
 - Image Path -
-C:\Users\Beryl\Documents\GitHub\Runner\android\assets\gfx\game\particles\particle.png
+particle.png

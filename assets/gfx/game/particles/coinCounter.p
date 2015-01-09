@@ -145,4 +145,4 @@ additive: true
 behind: false
 premultipliedAlpha: false
 - Image Path -
-C:\Users\Comarch\Desktop\GRA\Runner\android\assets\gfx\game\particles\particle-solid.png
+particle-solid.png

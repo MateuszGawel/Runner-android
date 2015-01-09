@@ -195,6 +195,9 @@
    </properties>
    <polyline points="0,0 -41.3333,-36 -100,-36 -148,20 -152,80 2.66667,80 0,0"/>
   </object>
+  <object name="coins" x="1280" y="1280">
+   <polyline points="0,0 0,64 64,64 64,0 0,0"/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>

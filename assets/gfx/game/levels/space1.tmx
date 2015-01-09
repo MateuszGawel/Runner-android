@@ -155,10 +155,25 @@
    </properties>
    <polyline points="0,0 -23.3333,82 -71.3333,81.3333 -86.6667,-5.33333"/>
   </object>
-  <object name="gravityField" type="gravityField" x="3648" y="1472" width="2304" height="640">
+  <object name="gravityField" type="gravityField" x="3648" y="1408" width="2304" height="768">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
+  </object>
+  <object name="coins" type="coins" x="4224" y="1920">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 0,64 256,64 256,192 451.03,30.6667 256,-128 256,0 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="6272" y="1536">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 -128,128 256,448 384,320 0,0"/>
+  </object>
+  <object name="coins" type="coins" x="7232" y="1984">
+   <polyline points="0,0 0,64 1472,64 1472,0 0,0"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
