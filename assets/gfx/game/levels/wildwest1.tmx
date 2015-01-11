@@ -111,6 +111,12 @@
   <object x="25857" y="1597.5">
    <polyline points="98.6666,3.33333 94.9999,-49.6667 66.6666,-64 13.3332,-54 5.33333,4.66667"/>
   </object>
+  <object name="coins" type="coins" x="1344" y="1436">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polygon points="0,0 0,56 1666,52 1660,10"/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
