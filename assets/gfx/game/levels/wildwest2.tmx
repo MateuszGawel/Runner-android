@@ -129,65 +129,53 @@
    </properties>
    <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
-  <object name="coins" type="coins" x="3008" y="1472">
+  <object name="coins" type="coins" x="10732.6" y="1362.91">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 0,-128 256,-128 256,0"/>
   </object>
-  <object name="coins" type="coins" x="5387.88" y="1242.42">
+  <object name="coins" type="coins" x="10988.6" y="1234.91">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 0,-64 192,64 0,192"/>
   </object>
-  <object name="coins" type="coins" x="8069.7" y="1236.36">
+  <object name="coins" type="coins" x="5696.73" y="1499.27">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 -64,-64 0,-128 64,-64"/>
   </object>
-  <object name="coins" type="coins" x="10751.5" y="1209.09">
+  <object name="coins" type="coins" x="4864" y="1472">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 704,0 704,-64 0,-64"/>
   </object>
-  <object name="coins" type="coins" x="13427.3" y="1045.45">
+  <object name="coins" type="coins" x="6528" y="1408">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 -128,-128 0,-256 128,-128"/>
   </object>
-  <object name="coins" type="coins" x="16348.5" y="1012.12">
+  <object name="coins" type="coins" x="9152" y="1472">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 -256,0 -256,-256 0,-256"/>
   </object>
-  <object name="coins" type="coins" x="19106.1" y="1378.79">
+  <object name="coins" type="coins" x="1472" y="1216">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 0,128 128,256 256,256 384,128 384,0 256,-128 128,-128"/>
   </object>
-  <object name="coins" type="coins" x="21924.2" y="1151.52">
+  <object name="coins" type="coins" x="3456" y="1216">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
-  </object>
-  <object name="coins" type="coins" x="24548.5" y="993.939">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
-  </object>
-  <object name="coins" type="coins" x="26972.7" y="1375.76">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polygon points="0,0 1920,0 1920,-384 0,-384"/>
+   <polygon points="0,0 0,128 128,256 256,256 384,128 384,0 256,-128 128,-128"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
