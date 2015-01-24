@@ -1,0 +1,151 @@
+gameGuiAtlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alienJumpButton
+  rotate: false
+  xy: 2, 2
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+alienLiftButton
+  rotate: false
+  xy: 131, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienProgressBarHead
+  rotate: false
+  xy: 259, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+alienSlideButton
+  rotate: false
+  xy: 311, 2
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+archerArrowButton
+  rotate: false
+  xy: 2, 130
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+archerJumpButton
+  rotate: false
+  xy: 131, 130
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+archerProgressBarHead
+  rotate: false
+  xy: 259, 130
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+archerSlideButton
+  rotate: false
+  xy: 311, 130
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+banditBombButton
+  rotate: false
+  xy: 2, 263
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+banditJumpButton
+  rotate: false
+  xy: 132, 263
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+banditProgressBarHead
+  rotate: false
+  xy: 260, 263
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+banditSlideButton
+  rotate: false
+  xy: 312, 263
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+forestProgressBarBegin
+  rotate: false
+  xy: 440, 263
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+forestProgressBarEnd
+  rotate: false
+  xy: 2, 393
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+forestProgressBarMiddle
+  rotate: false
+  xy: 44, 393
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+planetProgressBarBegin
+  rotate: false
+  xy: 146, 393
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+planetProgressBarEnd
+  rotate: false
+  xy: 188, 393
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+planetProgressBarMiddle
+  rotate: false
+  xy: 230, 393
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+wildwestProgressBarBegin
+  rotate: false
+  xy: 332, 393
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+wildwestProgressBarEnd
+  rotate: false
+  xy: 374, 393
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+wildwestProgressBarMiddle
+  rotate: false
+  xy: 2, 415
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
