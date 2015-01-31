@@ -1,0 +1,361 @@
+wildWestAtlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_wildWestTiled
+  rotate: false
+  xy: 0, 0
+  size: 1024, 1088
+  orig: 1024, 1088
+  offset: 0, 0
+  index: -1
+barellSmall
+  rotate: false
+  xy: 0, 1088
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+bonfire0
+  rotate: false
+  xy: 66, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire1
+  rotate: false
+  xy: 141, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire10
+  rotate: false
+  xy: 216, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire11
+  rotate: false
+  xy: 291, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire12
+  rotate: false
+  xy: 366, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire13
+  rotate: false
+  xy: 441, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire14
+  rotate: false
+  xy: 516, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire15
+  rotate: false
+  xy: 591, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire16
+  rotate: false
+  xy: 666, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire17
+  rotate: false
+  xy: 741, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire18
+  rotate: false
+  xy: 816, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire19
+  rotate: false
+  xy: 891, 1088
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire2
+  rotate: false
+  xy: 0, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire20
+  rotate: false
+  xy: 75, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire21
+  rotate: false
+  xy: 150, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire22
+  rotate: false
+  xy: 225, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire23
+  rotate: false
+  xy: 300, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire24
+  rotate: false
+  xy: 375, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire25
+  rotate: false
+  xy: 450, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire26
+  rotate: false
+  xy: 525, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire27
+  rotate: false
+  xy: 600, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire28
+  rotate: false
+  xy: 675, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire29
+  rotate: false
+  xy: 750, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire3
+  rotate: false
+  xy: 825, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire30
+  rotate: false
+  xy: 900, 1199
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire31
+  rotate: false
+  xy: 0, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire32
+  rotate: false
+  xy: 75, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire4
+  rotate: false
+  xy: 150, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire5
+  rotate: false
+  xy: 225, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire6
+  rotate: false
+  xy: 300, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire7
+  rotate: false
+  xy: 375, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire8
+  rotate: false
+  xy: 450, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+bonfire9
+  rotate: false
+  xy: 525, 1310
+  size: 75, 111
+  orig: 75, 111
+  offset: 0, 0
+  index: -1
+coin0
+  rotate: false
+  xy: 600, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin1
+  rotate: false
+  xy: 626, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin10
+  rotate: false
+  xy: 652, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin11
+  rotate: false
+  xy: 678, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin12
+  rotate: false
+  xy: 704, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin13
+  rotate: false
+  xy: 730, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin14
+  rotate: false
+  xy: 756, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin15
+  rotate: false
+  xy: 782, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin2
+  rotate: false
+  xy: 808, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin3
+  rotate: false
+  xy: 834, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin4
+  rotate: false
+  xy: 860, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin5
+  rotate: false
+  xy: 886, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin6
+  rotate: false
+  xy: 912, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin7
+  rotate: false
+  xy: 938, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin8
+  rotate: false
+  xy: 964, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+coin9
+  rotate: false
+  xy: 990, 1310
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

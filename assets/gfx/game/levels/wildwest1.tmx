@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="490" height="40" tilewidth="64" tileheight="64">
- <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64">
-  <image source="wildWestTiled.png" width="1024" height="1025"/>
+<tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64" margin="2" spacing="4">
+  <image source="wildWestAtlas.png" width="1088" height="1084"/>
  </tileset>
+
  <layer name="Decorations #Back" width="490" height="40">
   <data encoding="base64" compression="zlib">
    eJzt1bEJgAAQBMEPtCmrtVQLEDPFRWfg8+eSnQEA7rC9/QAAcEmnAaBLpwGgS6cBoEunAaBLpwGgS6cBoEunAaBLpwGgS6cBoEunAaBLpwGgS6cBoEunAaBLpwGgS6cBoEunAaBLpwGgS6cBoKvS6eUDt87sd+8CwL/ptE4D0KXTOg1Al07rNABdOq3TAHRVOg0AnOk0AHTpNAB06TQAdOk0AHTpNAB06TQAdOk0AHTpNAB06TQAdOk0AHTpNAB06TQAdOk0AHTpNAB0PdHpAwTUEB4=
@@ -110,12 +111,6 @@
   </object>
   <object x="25857" y="1597.5">
    <polyline points="98.6666,3.33333 94.9999,-49.6667 66.6666,-64 13.3332,-54 5.33333,4.66667"/>
-  </object>
-  <object name="coins" type="coins" x="1344" y="1436">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polygon points="0,0 0,56 1666,52 1660,10"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
