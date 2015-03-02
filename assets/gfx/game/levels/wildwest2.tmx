@@ -131,6 +131,9 @@
   <object type="bonfire" x="1344" y="1536">
    <polygon points="0,0 44,0 21,-60"/>
   </object>
+  <object name="coins" type="coins" x="1536" y="1280">
+   <polygon points="0,0 0,192 704,192 704,0"/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
