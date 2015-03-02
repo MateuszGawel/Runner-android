@@ -44,6 +44,12 @@
   <object type="bonfire" x="8203" y="1536">
    <polygon points="0,0 44,0 21,-60"/>
   </object>
+  <object name="killingBottom" type="killingBottom" x="5024.5" y="1538">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
+  </object>
   <object name="killingBottom" type="killingBottom" x="11233.3" y="1732">
    <properties>
     <property name="isGhost" value="true"/>
@@ -101,14 +107,29 @@
   <object type="bonfire" x="25100" y="1217.33">
    <polygon points="0,0 44,0 21,-60"/>
   </object>
+  <object name="barrel" type="barrel" x="14146" y="1668.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="14082" y="1668.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="14114" y="1615.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="killingBottom" type="killingBottom" x="2783.52" y="1534.79">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+   <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
+  </object>
   <object name="killingBottom" type="killingBottom" x="29409.1" y="1730.3">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
    <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
-  <object name="barrel" type="barrel" x="3744.48" y="1464.27" width="60" height="59">
-   <ellipse/>
+  <object type="bonfire" x="1344" y="1536">
+   <polygon points="0,0 44,0 21,-60"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
