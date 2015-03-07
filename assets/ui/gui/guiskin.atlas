@@ -1,131 +1,137 @@
-
 guiskin.png
 format: RGBA8888
-filter: Nearest,Nearest
+filter: Linear,Linear
 repeat: none
-archerArrowAbilityButton
-  rotate: false
-  xy: 1, 260
-  size: 127, 131
-  orig: 127, 131
-  offset: 0, 0
-  index: -1
-banditBombAbilityButton
-  rotate: false
-  xy: 130, 263
-  size: 128, 128
-  orig: 128, 128
-  offset: 0, 0
-  index: -1
-archerBlankButton
-  rotate: false
-  xy: 1, 130
-  size: 126, 128
-  orig: 126, 128
-  offset: 0, 0
-  index: -1
-alienJumpButton
-  rotate: false
-  xy: 260, 265
-  size: 127, 126
-  orig: 127, 126
-  offset: 0, 0
-  index: -1
-archerJumpButton
-  rotate: false
-  xy: 1, 1
-  size: 126, 127
-  orig: 126, 127
-  offset: 0, 0
-  index: -1
 alienBlankButton
   rotate: false
-  xy: 389, 265
+  xy: 131, 663
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
+alienJumpButton
+  rotate: false
+  xy: 3, 794
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
 alienLiftAbilityButton
   rotate: false
-  xy: 517, 265
+  xy: 134, 793
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
 alienSlideButton
   rotate: false
-  xy: 645, 265
+  xy: 133, 270
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
 alienSuperJumpButton
   rotate: false
-  xy: 773, 265
+  xy: 135, 135
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
 alienSuperSpeedButton
   rotate: false
-  xy: 130, 135
+  xy: 264, 3
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
+archerArrowAbilityButton
+  rotate: false
+  xy: 3, 3
+  size: 127, 131
+  orig: 127, 131
+  offset: 0, 0
+  index: -1
+archerBlankButton
+  rotate: false
+  xy: 134, 3
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+archerJumpButton
+  rotate: false
+  xy: 3, 270
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
 archerSlideButton
   rotate: false
-  xy: 129, 6
+  xy: 3, 401
   size: 126, 127
   orig: 126, 127
   offset: 0, 0
   index: -1
 archerSuperJumpButton
   rotate: false
-  xy: 260, 136
+  xy: 3, 532
   size: 126, 127
   orig: 126, 127
   offset: 0, 0
   index: -1
+archerSuperSpeedButton
+  rotate: false
+  xy: 3, 663
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
 banditBlankButton
   rotate: false
-  xy: 388, 137
+  xy: 133, 400
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
+banditBombAbilityButton
+  rotate: false
+  xy: 3, 138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
 banditJumpButton
   rotate: false
-  xy: 516, 137
+  xy: 133, 530
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
 banditSlideButton
   rotate: false
-  xy: 644, 137
+  xy: 261, 660
   size: 126, 126
   orig: 126, 126
   offset: 0, 0
   index: -1
 banditSuperJumpButton
   rotate: false
-  xy: 772, 137
+  xy: 264, 790
   size: 126, 126
   orig: 126, 126
-  offset: 0, 0
-  index: -1
-archerSuperSpeedButton
-  rotate: false
-  xy: 257, 6
-  size: 124, 127
-  orig: 124, 127
   offset: 0, 0
   index: -1
 banditSuperSpeedButton
   rotate: false
-  xy: 383, 8
+  xy: 263, 265
   size: 126, 126
   orig: 126, 126
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 3, 924
+  size: 32, 32
+  orig: 32, 32
   offset: 0, 0
   index: -1
