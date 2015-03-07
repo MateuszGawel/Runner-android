@@ -53,10 +53,10 @@
    <property name="GroundLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="player3" type="player3" x="1024" y="1408" width="64" height="128"/>
-  <object name="player4" type="player4" x="960" y="1408" width="64" height="128"/>
-  <object name="player1" type="player1" x="1152" y="1408" width="64" height="128"/>
-  <object name="player2" type="player2" x="1088" y="1408" width="64" height="128"/>
+  <object name="player3" type="player3" x="1025" y="1403" width="64" height="128"/>
+  <object name="player4" type="player4" x="961" y="1403" width="64" height="128"/>
+  <object name="player1" type="player1" x="1153" y="1403" width="64" height="128"/>
+  <object name="player2" type="player2" x="1089" y="1403" width="64" height="128"/>
   <object x="3648" y="0">
    <polyline points="1152,0 1152,448 1024,448 1024,768 896,768 896,832 768,832 768,1024 640,1024 640,1088 512,1088 512,1152 384,1152 384,1344 -3264,1344 -3264,1536 13312,1536 13696,1344 17728,1344 18240,1600 19008,1600 19008,1920 19648,1920 19648,1600 27712,1600 27712,2560 -3648,2560 -3648,0 1152,0"/>
   </object>

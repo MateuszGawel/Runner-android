@@ -35,6 +35,9 @@
   <object x="0" y="1536">
    <polyline points="0,0 9216,0 9216,-256 10176,-256 10176,192 22848,192 23872,-320 26112,-320 27136,192 32000,192 32000,1024 0,1024 0,0"/>
   </object>
+  <object type="bonfire" x="3904" y="1536">
+   <polygon points="0,0 44,0 21,-60"/>
+  </object>
  </objectgroup>
  <objectgroup name="ObstaclesLayer">
   <properties>
@@ -128,11 +131,20 @@
    </properties>
    <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
-  <object type="bonfire" x="1344" y="1536">
-   <polygon points="0,0 44,0 21,-60"/>
+  <object name="coins" type="coins" x="1350" y="1316">
+   <polygon points="0,128 -1,170 34,171 35,129"/>
   </object>
-  <object name="coins" type="coins" x="1536" y="1280">
+  <object name="coins" type="coins" x="2560" y="1280">
    <polygon points="0,0 0,192 704,192 704,0"/>
+  </object>
+  <object name="coins" type="coins" x="1651" y="1318">
+   <polygon points="0,128 -1,170 34,171 35,129"/>
+  </object>
+  <object name="coins" type="coins" x="2036" y="1320">
+   <polygon points="0,128 -1,170 34,171 35,129"/>
+  </object>
+  <object name="coins" type="coins" x="2111" y="1320">
+   <polygon points="0,128 -1,170 34,171 35,129"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
