@@ -2,11 +2,11 @@ Untitled
 - Delay -
 active: false
 - Duration - 
-lowMin: 50.0
-lowMax: 50.0
+lowMin: 100.0
+lowMax: 100.0
 - Count - 
-min: 2
-max: 2
+min: 15
+max: 15
 - Emission - 
 lowMin: 50.0
 lowMax: 50.0
@@ -44,8 +44,8 @@ side: bottom
 - Spawn Width - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 0.0
-highMax: 0.0
+highMin: 20.0
+highMax: 20.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -54,8 +54,8 @@ timeline0: 0.0
 - Spawn Height - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 0.0
-highMax: 0.0
+highMin: 20.0
+highMax: 20.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -83,11 +83,11 @@ highMin: -200.0
 highMax: 200.0
 relative: true
 scalingCount: 2
-scaling0: 0.627451
-scaling1: 0.13725491
+scaling0: 0.39215687
+scaling1: 0.039215688
 timelineCount: 2
 timeline0: 0.0
-timeline1: 0.07534247
+timeline1: 0.06849315
 - Angle - 
 active: true
 lowMin: 0.0
@@ -139,10 +139,10 @@ timeline0: 0.0
 timeline1: 1.0
 - Options - 
 attached: false
-continuous: false
+continuous: true
 aligned: false
 additive: true
 behind: false
 premultipliedAlpha: false
 - Image Path -
-particle-solid.png
+particle.png
