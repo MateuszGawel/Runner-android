@@ -5,8 +5,8 @@ active: false
 lowMin: 50.0
 lowMax: 50.0
 - Count - 
-min: 2
-max: 2
+min: 5
+max: 8
 - Emission - 
 lowMin: 1.0
 lowMax: 1.0
@@ -62,21 +62,21 @@ timeline0: 0.0
 - Scale - 
 lowMin: 0.0
 lowMax: 0.0
-highMin: 8.0
-highMax: 8.0
+highMin: 20.0
+highMax: 20.0
 relative: false
 scalingCount: 2
 scaling0: 0.7647059
-scaling1: 0.49019608
+scaling1: 0.09803922
 timelineCount: 2
 timeline0: 0.0
 timeline1: 1.0
 - Velocity - 
 active: true
-lowMin: -200.0
-lowMax: -50.0
-highMin: -200.0
-highMax: -50.0
+lowMin: -250.0
+lowMax: 150.0
+highMin: -250.0
+highMax: 150.0
 relative: true
 scalingCount: 2
 scaling0: 0.7058824
@@ -126,8 +126,8 @@ timeline1: 1.0
 attached: false
 continuous: false
 aligned: false
-additive: true
+additive: false
 behind: false
 premultipliedAlpha: false
 - Image Path -
-C:\Users\Beryl\Documents\GitHub\Runner\android\assets\gfx\game\particles\particle-coin.png
+particle.png

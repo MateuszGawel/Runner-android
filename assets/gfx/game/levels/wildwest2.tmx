@@ -128,8 +128,11 @@
    </properties>
    <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
-  <object name="coins" type="coins" x="1916" y="1469.33">
+  <object name="coins" type="coins" x="2368" y="1472">
    <polygon points="0,0 1.33333,-188 196,-189.333 324,-92 196,2.66667"/>
+  </object>
+  <object name="coins" type="coins" x="1728" y="1472">
+   <polygon points="0,0 0,-64 64,-64 64,0"/>
   </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
