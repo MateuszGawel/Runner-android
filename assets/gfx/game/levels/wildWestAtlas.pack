@@ -2,395 +2,395 @@ wildWestAtlas.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-_wildWestTiled
+_wildWestAtlas
   rotate: false
-  xy: 2, 2
-  size: 1016, 1062
-  orig: 1020, 1084
-  offset: 0, 22
+  xy: 0, 0
+  size: 1024, 1068
+  orig: 1028, 1104
+  offset: 0, 36
   index: -1
 barellSmall
   rotate: false
-  xy: 68, 1969
-  size: 62, 61
-  orig: 62, 61
+  xy: 0, 1068
+  size: 66, 65
+  orig: 66, 65
   offset: 0, 0
   index: -1
 bonfire0
   rotate: false
-  xy: 221, 1601
-  size: 71, 82
-  orig: 71, 107
+  xy: 66, 1068
+  size: 75, 86
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire1
   rotate: false
-  xy: 75, 1659
-  size: 71, 95
-  orig: 71, 107
+  xy: 141, 1068
+  size: 75, 99
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire10
   rotate: false
-  xy: 2, 1771
-  size: 71, 97
-  orig: 71, 107
+  xy: 216, 1068
+  size: 75, 101
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire11
   rotate: false
-  xy: 75, 1267
-  size: 71, 96
-  orig: 71, 107
+  xy: 291, 1068
+  size: 75, 100
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire12
   rotate: false
-  xy: 75, 1853
-  size: 71, 94
-  orig: 71, 107
+  xy: 366, 1068
+  size: 75, 98
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire13
   rotate: false
-  xy: 203, 1066
-  size: 71, 93
-  orig: 71, 107
+  xy: 441, 1068
+  size: 75, 97
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire14
   rotate: false
-  xy: 148, 1457
-  size: 71, 91
-  orig: 71, 107
+  xy: 516, 1068
+  size: 75, 95
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire15
   rotate: false
-  xy: 148, 1643
-  size: 71, 90
-  orig: 71, 107
+  xy: 591, 1068
+  size: 75, 94
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire16
   rotate: false
-  xy: 148, 1735
-  size: 71, 89
-  orig: 71, 107
+  xy: 666, 1068
+  size: 75, 93
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire17
   rotate: false
-  xy: 205, 1941
-  size: 71, 87
-  orig: 71, 107
+  xy: 741, 1068
+  size: 75, 91
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire18
   rotate: false
-  xy: 276, 1066
-  size: 71, 86
-  orig: 71, 107
+  xy: 816, 1068
+  size: 75, 90
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire19
   rotate: false
-  xy: 221, 1345
-  size: 71, 84
-  orig: 71, 107
+  xy: 891, 1068
+  size: 75, 88
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire2
   rotate: false
-  xy: 75, 1756
-  size: 71, 95
-  orig: 71, 107
+  xy: 0, 1169
+  size: 75, 99
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire20
   rotate: false
-  xy: 221, 1431
-  size: 71, 83
-  orig: 71, 107
+  xy: 75, 1169
+  size: 75, 87
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire21
   rotate: false
-  xy: 221, 1685
-  size: 71, 82
-  orig: 71, 107
+  xy: 150, 1169
+  size: 75, 86
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire22
   rotate: false
-  xy: 221, 1516
-  size: 71, 83
-  orig: 71, 107
+  xy: 225, 1169
+  size: 75, 87
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire23
   rotate: false
-  xy: 276, 1154
-  size: 71, 85
-  orig: 71, 107
+  xy: 300, 1169
+  size: 75, 89
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire24
   rotate: false
-  xy: 221, 1256
-  size: 71, 87
-  orig: 71, 107
+  xy: 375, 1169
+  size: 75, 91
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire25
   rotate: false
-  xy: 148, 1826
-  size: 71, 89
-  orig: 71, 107
+  xy: 450, 1169
+  size: 75, 93
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire26
   rotate: false
-  xy: 148, 1550
-  size: 71, 91
-  orig: 71, 107
+  xy: 525, 1169
+  size: 75, 95
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire27
   rotate: false
-  xy: 132, 1949
-  size: 71, 94
-  orig: 71, 107
+  xy: 600, 1169
+  size: 75, 98
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire28
   rotate: false
-  xy: 75, 1365
-  size: 71, 96
-  orig: 71, 107
+  xy: 675, 1169
+  size: 75, 100
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire29
   rotate: false
-  xy: 75, 1463
-  size: 71, 96
-  orig: 71, 107
+  xy: 750, 1169
+  size: 75, 100
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire3
   rotate: false
-  xy: 75, 1561
-  size: 71, 96
-  orig: 71, 107
+  xy: 825, 1169
+  size: 75, 100
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire30
   rotate: false
-  xy: 148, 1267
-  size: 71, 94
-  orig: 71, 107
+  xy: 900, 1169
+  size: 75, 98
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire31
   rotate: false
-  xy: 148, 1363
-  size: 71, 92
-  orig: 71, 107
+  xy: 0, 1269
+  size: 75, 96
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire32
   rotate: false
-  xy: 203, 1161
-  size: 71, 93
-  orig: 71, 107
+  xy: 75, 1269
+  size: 75, 97
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire4
   rotate: false
-  xy: 2, 1870
-  size: 71, 97
-  orig: 71, 107
+  xy: 150, 1269
+  size: 75, 101
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire5
   rotate: false
-  xy: 2, 1571
-  size: 71, 98
-  orig: 71, 107
+  xy: 225, 1269
+  size: 75, 102
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire6
   rotate: false
-  xy: 2, 1671
-  size: 71, 98
-  orig: 71, 107
+  xy: 300, 1269
+  size: 75, 102
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire7
   rotate: false
-  xy: 2, 1369
-  size: 71, 99
-  orig: 71, 107
+  xy: 375, 1269
+  size: 75, 103
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire8
   rotate: false
-  xy: 2, 1267
-  size: 71, 100
-  orig: 71, 107
+  xy: 450, 1269
+  size: 75, 104
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire9
   rotate: false
-  xy: 2, 1470
-  size: 71, 99
-  orig: 71, 107
+  xy: 525, 1269
+  size: 75, 103
+  orig: 75, 111
   offset: 0, 0
   index: -1
 coin0
   rotate: false
-  xy: 148, 1917
-  size: 22, 22
-  orig: 22, 22
+  xy: 600, 1269
+  size: 26, 26
+  orig: 26, 26
   offset: 0, 0
   index: -1
 coin1
   rotate: false
-  xy: 172, 1917
-  size: 22, 22
-  orig: 22, 22
+  xy: 626, 1269
+  size: 26, 26
+  orig: 26, 26
   offset: 0, 0
   index: -1
 coin10
   rotate: false
-  xy: 245, 1802
-  size: 11, 22
-  orig: 22, 22
+  xy: 652, 1269
+  size: 15, 26
+  orig: 26, 26
   offset: 4, 0
   index: -1
 coin11
   rotate: false
-  xy: 221, 1874
-  size: 17, 22
-  orig: 22, 22
+  xy: 667, 1269
+  size: 21, 26
+  orig: 26, 26
   offset: 2, 0
   index: -1
 coin12
   rotate: false
-  xy: 240, 1874
-  size: 17, 22
-  orig: 22, 22
+  xy: 688, 1269
+  size: 21, 26
+  orig: 26, 26
   offset: 1, 0
   index: -1
 coin13
   rotate: false
-  xy: 221, 1826
-  size: 20, 22
-  orig: 22, 22
+  xy: 709, 1269
+  size: 24, 26
+  orig: 26, 26
   offset: 0, 0
   index: -1
 coin14
   rotate: false
-  xy: 196, 1917
-  size: 22, 22
-  orig: 22, 22
+  xy: 733, 1269
+  size: 26, 26
+  orig: 26, 26
   offset: 0, 0
   index: -1
 coin15
   rotate: false
-  xy: 220, 1917
-  size: 22, 22
-  orig: 22, 22
+  xy: 759, 1269
+  size: 26, 26
+  orig: 26, 26
   offset: 0, 0
   index: -1
 coin2
   rotate: false
-  xy: 221, 1802
-  size: 22, 22
-  orig: 22, 22
+  xy: 785, 1269
+  size: 26, 26
+  orig: 26, 26
   offset: 0, 0
   index: -1
 coin3
   rotate: false
-  xy: 221, 1850
-  size: 20, 22
-  orig: 22, 22
+  xy: 811, 1269
+  size: 24, 26
+  orig: 26, 26
   offset: 2, 0
   index: -1
 coin4
   rotate: false
-  xy: 244, 1898
-  size: 17, 22
-  orig: 22, 22
+  xy: 835, 1269
+  size: 21, 26
+  orig: 26, 26
   offset: 4, 0
   index: -1
 coin5
   rotate: false
-  xy: 243, 1826
-  size: 17, 22
-  orig: 22, 22
+  xy: 856, 1269
+  size: 21, 26
+  orig: 26, 26
   offset: 3, 0
   index: -1
 coin6
   rotate: false
-  xy: 243, 1850
-  size: 11, 22
-  orig: 22, 22
+  xy: 877, 1269
+  size: 15, 26
+  orig: 26, 26
   offset: 7, 0
   index: -1
 coin7
   rotate: false
-  xy: 256, 1850
-  size: 10, 22
-  orig: 22, 22
+  xy: 892, 1269
+  size: 14, 26
+  orig: 26, 26
   offset: 7, 0
   index: -1
 coin8
   rotate: false
-  xy: 255, 1769
-  size: 6, 22
-  orig: 22, 22
+  xy: 906, 1269
+  size: 10, 26
+  orig: 26, 26
   offset: 8, 0
   index: -1
 coin9
   rotate: false
-  xy: 259, 1874
-  size: 10, 22
-  orig: 22, 22
+  xy: 916, 1269
+  size: 14, 26
+  orig: 26, 26
   offset: 5, 0
   index: -1
 liftField
   rotate: false
-  xy: 2, 1066
-  size: 199, 199
-  orig: 200, 200
+  xy: 0, 1373
+  size: 203, 203
+  orig: 204, 204
   offset: 0, 1
   index: -1
 particle-coin
   rotate: false
-  xy: 2, 2035
-  size: 8, 8
-  orig: 8, 8
+  xy: 203, 1373
+  size: 12, 12
+  orig: 12, 12
   offset: 0, 0
   index: -1
 particle-forest
   rotate: false
-  xy: 12, 2035
-  size: 32, 5
-  orig: 32, 5
+  xy: 215, 1373
+  size: 36, 9
+  orig: 36, 9
   offset: 0, 0
   index: -1
 particle-space
   rotate: false
-  xy: 2, 1969
-  size: 64, 64
-  orig: 64, 64
+  xy: 251, 1373
+  size: 68, 68
+  orig: 68, 68
   offset: 0, 0
   index: -1
 particle
   rotate: false
-  xy: 221, 1769
-  size: 32, 31
-  orig: 32, 32
+  xy: 319, 1373
+  size: 36, 35
+  orig: 36, 36
   offset: 0, 0
   index: -1
