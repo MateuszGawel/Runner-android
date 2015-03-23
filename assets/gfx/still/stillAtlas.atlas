@@ -1,0 +1,32 @@
+stillAtlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+black
+  rotate: false
+  xy: 1, 158
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+loadingBase
+  rotate: false
+  xy: 1, 208
+  size: 12, 12
+  orig: 20, 20
+  offset: 4, 4
+  index: -1
+loadingCover
+  rotate: false
+  xy: 1, 190
+  size: 16, 16
+  orig: 20, 20
+  offset: 2, 2
+  index: -1
+medium
+  rotate: false
+  xy: 1, 1
+  size: 510, 155
+  orig: 512, 256
+  offset: 0, 101
+  index: -1

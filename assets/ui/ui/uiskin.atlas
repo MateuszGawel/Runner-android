@@ -2,415 +2,527 @@ uiskin.png
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
-achievementsTab
-  rotate: false
-  xy: 257, 170
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
 backButton
   rotate: false
-  xy: 262, 709
+  xy: 1670, 1159
   size: 110, 96
   orig: 110, 96
   offset: 0, 0
   index: -1
+big
+  rotate: false
+  xy: 1284, 324
+  size: 506, 364
+  orig: 512, 512
+  offset: 0, 148
+  index: -1
 black
   rotate: false
-  xy: 991, 217
+  xy: 1935, 272
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 blackNonTransparent
   rotate: false
-  xy: 991, 115
+  xy: 1903, 272
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 campaignArrowLeft
   rotate: false
-  xy: 118, 789
+  xy: 1925, 1131
   size: 107, 87
   orig: 107, 87
   offset: 0, 0
   index: -1
 campaignArrowRight
   rotate: false
-  xy: 118, 880
+  xy: 1925, 1220
   size: 107, 87
   orig: 107, 87
   offset: 0, 0
   index: -1
 categoryTab
   rotate: false
-  xy: 377, 386
+  xy: 1925, 956
   size: 120, 60
   orig: 120, 60
   offset: 0, 0
   index: -1
+chainsDecoration
+  rotate: false
+  xy: 779, 804
+  size: 142, 76
+  orig: 142, 76
+  offset: 0, 0
+  index: -1
 checkBoxOff
   rotate: false
-  xy: 774, 111
+  xy: 1536, 794
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 checkBoxOn
   rotate: false
-  xy: 774, 156
+  xy: 2006, 887
   size: 40, 41
   orig: 40, 41
   offset: 0, 0
   index: -1
 closeWidgetButton
   rotate: false
-  xy: 943, 475
+  xy: 2, 1177
   size: 62, 64
   orig: 62, 64
   offset: 0, 0
   index: -1
 contactsTab
   rotate: false
-  xy: 3, 170
-  size: 250, 52
-  orig: 250, 52
+  xy: 1796, 306
+  size: 250, 89
+  orig: 250, 90
   offset: 0, 0
   index: -1
-contestTab
+de
   rotate: false
-  xy: 511, 215
-  size: 250, 50
-  orig: 250, 50
+  xy: 1977, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+de_chosen
+  rotate: false
+  xy: 1977, 68
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 defaultButton
   rotate: false
-  xy: 3, 3
+  xy: 1284, 2
   size: 513, 163
   orig: 513, 163
   offset: 0, 0
   index: -1
+es
+  rotate: false
+  xy: 1940, 887
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+es_chosen
+  rotate: false
+  xy: 1207, 804
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 facebookButton
   rotate: false
-  xy: 377, 450
+  xy: 1415, 885
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 findFriendsTab
   rotate: false
-  xy: 257, 224
-  size: 250, 50
-  orig: 250, 50
+  xy: 1790, 796
+  size: 250, 89
+  orig: 250, 90
   offset: 0, 0
   index: -1
 forestCampaignButtonDown
   rotate: false
-  xy: 819, 331
+  xy: 923, 804
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 forestCampaignButtonUp
   rotate: false
-  xy: 511, 377
+  xy: 779, 882
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 forestCampaignLockedButtonDown
   rotate: false
-  xy: 655, 423
+  xy: 1065, 804
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 forestCampaignLockedButtonUp
   rotate: false
-  xy: 799, 475
+  xy: 1273, 885
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 forrestLoader
   rotate: false
-  xy: 765, 369
+  xy: 1990, 1309
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-generalTab
-  rotate: false
-  xy: 3, 226
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
 googlePlusButton
   rotate: false
-  xy: 147, 674
+  xy: 1415, 998
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
+in
+  rotate: false
+  xy: 1207, 870
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+in_chosen
+  rotate: false
+  xy: 1207, 936
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
 invite
   rotate: false
-  xy: 655, 377
+  xy: 1796, 272
   size: 105, 32
   orig: 105, 32
   offset: 0, 0
   index: -1
 inviteFriendsButton
   rotate: false
-  xy: 824, 110
+  xy: 1799, 107
   size: 163, 163
   orig: 163, 163
   offset: 0, 0
   index: -1
+item
+  rotate: false
+  xy: 1586, 690
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
 joinRandomRoomButton
   rotate: false
-  xy: 824, 3
+  xy: 1799, 2
   size: 176, 103
   orig: 176, 103
   offset: 0, 0
   index: -1
 knob
   rotate: false
-  xy: 1004, 3
+  xy: 2034, 1131
   size: 10, 60
   orig: 10, 60
   offset: 0, 0
   index: -1
-ligueTab
+logoMenu
   rotate: false
-  xy: 511, 269
-  size: 250, 50
-  orig: 250, 50
+  xy: 2, 804
+  size: 775, 202
+  orig: 775, 202
   offset: 0, 0
+  index: -1
+mainMenuScreenBackground
+  rotate: false
+  xy: 2, 2
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 1284, 167
+  size: 510, 155
+  orig: 512, 256
+  offset: 0, 101
+  index: -1
+newIcon
+  rotate: false
+  xy: 2006, 930
+  size: 32, 24
+  orig: 32, 32
+  offset: 0, 4
   index: -1
 newsFeedTab
   rotate: false
-  xy: 257, 278
-  size: 250, 50
-  orig: 250, 50
+  xy: 1284, 794
+  size: 250, 89
+  orig: 250, 90
   offset: 0, 0
+  index: -1
+newsfeed
+  rotate: false
+  xy: 1792, 543
+  size: 251, 251
+  orig: 300, 300
+  offset: 24, 25
   index: -1
 noButton
   rotate: false
-  xy: 147, 334
+  xy: 1964, 134
   size: 82, 84
   orig: 82, 84
   offset: 0, 0
   index: -1
-profileTab
+pl
   rotate: false
-  xy: 511, 323
-  size: 250, 50
-  orig: 250, 50
+  xy: 1924, 1309
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+pl_chosen
+  rotate: false
+  xy: 1205, 1002
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ru
+  rotate: false
+  xy: 1205, 1068
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+ru_chosen
+  rotate: false
+  xy: 1413, 1111
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 scrollHBackground
   rotate: false
-  xy: 991, 275
+  xy: 1506, 1143
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 scrollHKnob
   rotate: false
-  xy: 774, 201
+  xy: 1506, 1153
   size: 20, 8
   orig: 20, 8
   offset: 0, 0
   index: -1
 scrollVBackground
   rotate: false
-  xy: 1004, 67
+  xy: 1964, 107
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 scrollVKnob
   rotate: false
-  xy: 1004, 91
+  xy: 1273, 804
   size: 8, 20
   orig: 8, 20
   offset: 0, 0
   index: -1
 settingsButton
   rotate: false
-  xy: 3, 766
+  xy: 1670, 933
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
-shopTab
+settingsTab
   rotate: false
-  xy: 3, 280
-  size: 250, 50
-  orig: 250, 50
+  xy: 1536, 842
+  size: 250, 89
+  orig: 250, 90
   offset: 0, 0
   index: -1
 slider
   rotate: false
-  xy: 520, 3
+  xy: 1284, 690
   size: 300, 50
   orig: 300, 50
   offset: 0, 0
   index: -1
 sliderDisabled
   rotate: false
-  xy: 520, 57
+  xy: 1284, 742
   size: 300, 50
   orig: 300, 50
   offset: 0, 0
   index: -1
+small
+  rotate: false
+  xy: 1792, 397
+  size: 254, 144
+  orig: 256, 256
+  offset: 0, 112
+  index: -1
 soundButtonOff
   rotate: false
-  xy: 3, 881
+  xy: 1670, 1046
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 soundButtonOn
   rotate: false
-  xy: 435, 665
+  xy: 1925, 1018
   size: 111, 111
   orig: 111, 111
   offset: 0, 0
   index: -1
 spaceCampaignButtonDown
   rotate: false
-  xy: 3, 334
+  xy: 1528, 933
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignButtonUp
   rotate: false
-  xy: 233, 386
+  xy: 1783, 939
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignLockedButtonDown
   rotate: false
-  xy: 3, 478
+  xy: 1528, 1075
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceCampaignLockedButtonUp
   rotate: false
-  xy: 492, 521
+  xy: 1783, 1081
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 spaceLoader
   rotate: false
-  xy: 963, 331
+  xy: 1990, 1361
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-tempTab
+starSmallEmpty
   rotate: false
-  xy: 520, 111
-  size: 250, 100
-  orig: 250, 100
+  xy: 2, 1088
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+starSmallFull
+  rotate: false
+  xy: 2, 1024
+  size: 49, 47
+  orig: 49, 47
   offset: 0, 0
   index: -1
 textFieldCursor
   rotate: false
-  xy: 1016, 67
+  xy: 2042, 796
   size: 4, 40
   orig: 4, 40
   offset: 0, 0
   index: -1
 toggleWidgetButtonHorizontal
   rotate: false
-  xy: 819, 277
+  xy: 1788, 887
   size: 150, 50
   orig: 150, 50
   offset: 0, 0
   index: -1
 toggleWidgetButtonVertical
   rotate: false
-  xy: 765, 215
+  xy: 1738, 690
   size: 50, 150
   orig: 50, 150
   offset: 0, 0
   index: -1
 transparent
   rotate: false
-  xy: 991, 149
-  size: 30, 30
+  xy: 2043, 2
+  size: 1, 1
   orig: 30, 30
+  offset: 0, 29
+  index: -1
+uk
+  rotate: false
+  xy: 2, 1413
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+uk_chosen
+  rotate: false
+  xy: 2, 1257
+  size: 64, 64
+  orig: 64, 64
   offset: 0, 0
   index: -1
 westWildCampaignButtonDown
   rotate: false
-  xy: 636, 567
+  xy: 1782, 1223
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 westWildCampaignButtonUp
   rotate: false
-  xy: 147, 530
+  xy: 921, 946
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 westWildCampaignLockedButtonDown
   rotate: false
-  xy: 3, 622
+  xy: 1063, 946
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 westWildCampaignLockedButtonUp
   rotate: false
-  xy: 291, 565
+  xy: 1271, 1027
   size: 140, 140
   orig: 140, 140
   offset: 0, 0
   index: -1
 westWildLoader
   rotate: false
-  xy: 963, 385
+  xy: 66, 1177
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 whiteBackground
   rotate: false
-  xy: 991, 246
+  xy: 1479, 1143
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 widgetBackground
   rotate: false
-  xy: 991, 183
+  xy: 1479, 1111
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
-worldTab
-  rotate: false
-  xy: 257, 332
-  size: 250, 50
-  orig: 250, 50
-  offset: 0, 0
-  index: -1
 yesButton
   rotate: false
-  xy: 147, 422
+  xy: 1964, 220
   size: 82, 84
   orig: 82, 84
   offset: 0, 0

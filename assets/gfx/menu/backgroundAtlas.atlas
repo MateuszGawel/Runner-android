@@ -1,0 +1,32 @@
+backgroundAtlas.jpg
+format: RGB888
+filter: Linear,Linear
+repeat: none
+loadingForest
+  rotate: false
+  xy: 2, 804
+  size: 1020, 545
+  orig: 1020, 545
+  offset: 0, 0
+  index: -1
+loadingSpace
+  rotate: false
+  xy: 1024, 804
+  size: 1020, 545
+  orig: 1020, 545
+  offset: 0, 0
+  index: -1
+loadingWildWest
+  rotate: false
+  xy: 2, 1351
+  size: 1020, 545
+  orig: 1020, 545
+  offset: 0, 0
+  index: -1
+mainMenuScreenBackground
+  rotate: false
+  xy: 2, 2
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,106 @@
+{
+	com.badlogic.gdx.graphics.g2d.BitmapFont: 
+	{ 
+		small: { file: small.fnt },
+		medium: { file: medium.fnt },
+		big: { file: big.fnt }
+	},
+
+	com.badlogic.gdx.graphics.Color: 
+	{
+		green: { a: 1, b: 0, g: 1, r: 0 },
+		white: { a: 1, b: 1, g: 1, r: 1 },
+		red: { a: 1, b: 0, g: 0, r: 1 },
+		black: { a: 1, b: 0, g: 0, r: 0 },
+		lightGray: {a: 1, b: 0.9, g: 0.9, r: 0.9 },
+		blackboardSmallColor: {a: 1, b: 0.59, g: 0.78, r: 0.87 },
+		blackboardMediumColor: {a: 1, b: 0.69, g: 0.88, r: 0.97 },
+		woodColor: {a: 1, b: 0.35, g: 0.5, r: 0.59 },
+		leafColor: {a: 1, b: 0.04, g: 0.35, r: 0.05 },
+		rockColor: {a: 1, b: 0.16, g: 0.22, r: 0.31 },
+		coinColor: {a: 1, b: 0.14, g: 0.75, r: 1 }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: 
+	{
+		back: { down: backButton, up: backButton },
+		settings: { down: settingsButton, up: settingsButton },
+		soundOn: { down: soundButtonOn, up: soundButtonOn },
+		soundOff: { down: soundButtonOff, up: soundButtonOff },
+		facebook: { down: facebookButton, up: facebookButton },
+		googlePlus: { down: googlePlusButton, up: googlePlusButton },
+		joinRandomRoom: { down: joinRandomRoomButton, up: joinRandomRoomButton },
+		toggleWidgetHorizontal: { down: toggleWidgetButtonHorizontal, up: toggleWidgetButtonHorizontal },
+		toggleWidgetVertical: { down: toggleWidgetButtonVertical, up: toggleWidgetButtonVertical },
+		campaignArrowLeft: { down: campaignArrowLeft, up: campaignArrowLeft },
+		campaignArrowRight: { down: campaignArrowRight, up: campaignArrowRight },
+		noButton: { up: noButton, down: noButton },
+		yesButton: { up: yesButton, down: yesButton },
+		fadeOut: { up: blackNonTransparent, down: blackNonTransparent },
+		westWildLoader: { up: westWildLoader, down: westWildLoader },
+		forrestLoader: { up: forrestLoader, down: forrestLoader },
+		spaceLoader: { up: spaceLoader, down: spaceLoader },
+		inviteFriends: { up: inviteFriendsButton, down: inviteFriendsButton},
+		invite: { up: invite, down: invite},
+		starSmallEmpty: { up: starSmallEmpty, down: starSmallEmpty},
+		starSmallFull: { up: starSmallFull, down: starSmallFull}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
+	{
+		loader: { down: knob, up: knob, font: small, fontColor: white },
+		default: { down: defaultButton, up: defaultButton, font: medium, fontColor: woodColor },
+		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: small, fontColor: white },
+		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: small, fontColor: white },
+		westWildCampaignButton: { up: westWildCampaignButtonUp, down: westWildCampaignButtonDown, font: medium, fontColor: woodColor },
+		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: medium, fontColor: woodColor },
+		spaceCampaignButton: { up: spaceCampaignButtonUp, down: spaceCampaignButtonDown, font: small, fontColor: white },
+		spaceCampaignLockedButton: { up: spaceCampaignLockedButtonUp, down: spaceCampaignLockedButtonDown, font: small, fontColor: white },
+		categoryTab: { up: categoryTab, down: categoryTab, font: small, fontColor: white }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: 
+	{
+		default: { titleFont: small, titleFontColor: white },
+		small: { titleFont: small, background: widgetBackground, titleFontColor: white },
+		medium: { titleFont: small, background: widgetBackground, titleFontColor: white },
+		big: { titleFont: small, background: widgetBackground, titleFontColor: white }
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: 
+	{
+		default-horizontal: { background: slider, disabledBackground: sliderDisabled, knob: knob, disabledKnob: transparent },
+		default-vertical: { background: slider, knob: knob }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
+	{
+	    default: { font: small, fontColor: white },
+	    dialogLabel: { font: small, fontColor: white }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 
+	{
+		default: { background: whiteBackground, font: small, fontColor: white, cursor: textFieldCursor, focusedBackground: whiteBackground, selection: blackNonTransparent}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: 
+	{
+		default: { background: blackNonTransparent, font: small, fontColorSelected: white, fontColorUnselected: white, selection: whiteBackground}
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: 
+	{
+		default: { vScroll: scrollVBackground, vScrollKnob: scrollVKnob, background: transparent, hScroll: scrollHBackground, hScrollKnob: scrollHKnob }
+	},
+
+	com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle: 
+	{
+		default: { background: blackNonTransparent, font: small, fontColor: white, listStyle: default, scrollStyle: default}
+	},
+	
+	com.badlogic.gdx.scenes.scene2d.ui.CheckBox$CheckBoxStyle:
+	{
+		default: { checkboxOff: checkBoxOff, checkboxOn: checkBoxOn, font: small, fontColor: white }
+	}
+}
