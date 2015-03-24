@@ -4,29 +4,29 @@ filter: Linear,Linear
 repeat: none
 black
   rotate: false
-  xy: 1, 158
+  xy: 1, 147
   size: 30, 30
   orig: 30, 30
   offset: 0, 0
   index: -1
 loadingBase
   rotate: false
-  xy: 1, 208
+  xy: 1, 197
   size: 12, 12
   orig: 20, 20
   offset: 4, 4
   index: -1
 loadingCover
   rotate: false
-  xy: 1, 190
+  xy: 1, 179
   size: 16, 16
   orig: 20, 20
   offset: 2, 2
   index: -1
-medium
+small
   rotate: false
   xy: 1, 1
-  size: 510, 155
-  orig: 512, 256
-  offset: 0, 101
+  size: 254, 144
+  orig: 256, 256
+  offset: 0, 112
   index: -1
