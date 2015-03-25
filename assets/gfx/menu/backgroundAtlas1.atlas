@@ -1,0 +1,18 @@
+backgroundAtlas1.jpg
+format: RGB888
+filter: Linear,Linear
+repeat: none
+campaignScreenBackgroundWildWest
+  rotate: false
+  xy: 2, 2
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
+mainMenuScreenBackground
+  rotate: false
+  xy: 2, 804
+  size: 1280, 800
+  orig: 1280, 800
+  offset: 0, 0
+  index: -1
