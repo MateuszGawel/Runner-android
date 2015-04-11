@@ -1,0 +1,25 @@
+wildwestBackground.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mountains
+  rotate: false
+  xy: 4, 4
+  size: 1920, 295
+  orig: 1920, 295
+  offset: 0, 0
+  index: -1
+rocks
+  rotate: false
+  xy: 4, 309
+  size: 2034, 384
+  orig: 2034, 384
+  offset: 0, 0
+  index: -1
+sand
+  rotate: false
+  xy: 4, 703
+  size: 2034, 303
+  orig: 2034, 303
+  offset: 0, 0
+  index: -1
