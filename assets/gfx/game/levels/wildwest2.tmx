@@ -134,6 +134,24 @@
   <object name="coins" type="coins" x="1728" y="1472">
    <polygon points="0,0 0,-64 64,-64 64,0"/>
   </object>
+  <object name="barrel" type="barrel" x="1410" y="1476.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="1378" y="1423.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="1346" y="1476.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="10114" y="1220.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="10082" y="1167.33" width="60" height="59">
+   <ellipse/>
+  </object>
+  <object name="barrel" type="barrel" x="10050" y="1220.33" width="60" height="59">
+   <ellipse/>
+  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>

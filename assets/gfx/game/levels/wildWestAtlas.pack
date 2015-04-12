@@ -9,7 +9,7 @@ _wildWestAtlas
   orig: 1024, 1100
   offset: 0, 0
   index: -1
-barellSmall
+barrelSmall
   rotate: false
   xy: 1600, 1951
   size: 62, 61

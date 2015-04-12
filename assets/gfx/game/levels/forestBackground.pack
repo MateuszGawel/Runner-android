@@ -1,0 +1,11 @@
+forestBackground.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tree1
+  rotate: false
+  xy: 2, 2
+  size: 1216, 1000
+  orig: 1216, 1000
+  offset: 0, 0
+  index: -1

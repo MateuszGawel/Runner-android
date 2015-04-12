@@ -15,7 +15,7 @@
  </layer>
  <layer name="Obstacles" width="530" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt2stpxDAQBmBdU0kqSSV5teHDpotlD5s2wrJt5EEqySECxyCMTTA7lmPn+2BgMGJ++abDpAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA6/KQ63Ggj5qZ2r7J35qA0QDAH7LL9TTQR81Mbd/svCMAuMDV0hdg0DHX80AfNTO1fXP0jgDgAtdLXwAAWK2bpS8AALCwcodwyv5gdzZqlxH69hvJANiycodwyv5gdzZqlxH6DhvJ6OxHeoA1K3cIp+wPdmejdhmh71who+Y74jDSAwDxPitknCpkdF5GegAg1muur1zvM2d8zJxRZr39ZJU9sW5z3RV1XzGrX3NmR/vtX7bynwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxf3y0/Qbw=
+   eJzt2stpxDAUBVBtU0kqSSX5teHFpIthFjNthJA28iGVZBGBIxDCJpiR5dhzDjx4GKErgRdavBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYF0eYj0O9LX2DH3fxW9dha0BgH9kF+tpoK+1Z+j7bucdAcAZrpY+AIOOsU4Dfa09Q993R+8IAM5wvfQBAIDVuln6AAAAC8tnCKfMD6a1tWYZobTfSAbAluUzhFPmB9PaWrOMUDpsJCPZj/QAa5bPEE6ZH0xra80yQum1QUbLd8RhpAcA6vtqkPHSICN5HukB4BLcxrrL6n7GrLdY37E+Zs74nDkjz3r/zcp76mr5j5ZZZc2ZXdtfd9nKPQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALhcP++eQ7A=
   </data>
  </layer>
  <objectgroup name="Terrainlayer">
@@ -150,6 +150,16 @@
    </properties>
    <polyline points="0,0 0,59 30,66 41,105 69,61 76,0"/>
   </object>
+  <object type="catapult" x="3637.61" y="1657">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="catapult" x="3957.61" y="1657">
+   <polygon points="9,-2 -1,27 169,26 152,-2"/>
+  </object>
+  <object type="mushroom" x="3407.28" y="1621">
+   <polygon points="-3,27 126,26 62,47"/>
+  </object>
+  <object type="swamp" x="1408" y="1664" width="320" height="64"/>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
