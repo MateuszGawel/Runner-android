@@ -50,12 +50,12 @@
 	{
 		loader: { down: knob, up: knob, font: small, fontColor: white },
 		default: { down: defaultButton, up: defaultButton, font: medium, fontColor: woodColor },
-		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: small, fontColor: white },
-		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: small, fontColor: white },
+		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: medium, fontColor: leafColor },
+		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: medium, fontColor: leafColor },
 		westWildCampaignButton: { up: westWildCampaignButtonUp, down: westWildCampaignButtonDown, font: medium, fontColor: woodColor },
 		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: medium, fontColor: woodColor },
-		spaceCampaignButton: { up: spaceCampaignButtonUp, down: spaceCampaignButtonDown, font: small, fontColor: white },
-		spaceCampaignLockedButton: { up: spaceCampaignLockedButtonUp, down: spaceCampaignLockedButtonDown, font: small, fontColor: white },
+		spaceCampaignButton: { up: spaceCampaignButtonUp, down: spaceCampaignButtonDown, font: medium, fontColor: rockColor },
+		spaceCampaignLockedButton: { up: spaceCampaignLockedButtonUp, down: spaceCampaignLockedButtonDown, font: medium, fontColor: rockColor },
 		categoryTab: { up: categoryTab, down: categoryTab, font: small, fontColor: white }
 	},
 	
@@ -76,7 +76,8 @@
 	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
 	{
 	    default: { font: small, fontColor: white },
-	    dialogLabel: { font: small, fontColor: white }
+	    dialogLabel: { font: small, fontColor: white },
+	    gameWorldLabel: { font: big, fontColor: white }
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 

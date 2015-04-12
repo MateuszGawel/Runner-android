@@ -47,18 +47,18 @@
 	<world name="space" label = "Space">
         <campaign>
 		    <!-- unlockKey musi byc inne dla kazdej mapy - dodatkowo nie moze sie zawierac (np 'mama' i 'mama2')! poza tym dowolnosc -->
-			<level buttonLabel="1" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP1.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="1" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP1.0" requiredLevels="" requiredStars="0"></level>
 			<level buttonLabel="2" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP2.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="3" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP3.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="4" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP4.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="5" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP5.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="6" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP6.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="7" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP7.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="8" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP8.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="9" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP9.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="10" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP10.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="11" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP11.0" requiredLevels="" requiredStars="0"></level>
-			<level buttonLabel="12" mapPath="gfx/game/levels/space1.tmx" unlockKey="SP12.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="3" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP3.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="4" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP4.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="5" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP5.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="6" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP6.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="7" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP7.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="8" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP8.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="9" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP9.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="10" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP10.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="11" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP11.0" requiredLevels="" requiredStars="0"></level>
+			<level buttonLabel="12" mapPath="gfx/game/levels/space2.tmx" unlockKey="SP12.0" requiredLevels="" requiredStars="0"></level>
 		</campaign>
 		<multiplayer>
 		    <level buttonLabel="13" mapPath="gfx/game/levels/space1.tmx"></level>
