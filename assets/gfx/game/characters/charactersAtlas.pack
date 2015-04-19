@@ -4370,105 +4370,105 @@ blackhole
   orig: 210, 210
   offset: 0, 0
   index: -1
-bomblvl1
+bomblvlone0
   rotate: false
   xy: 1940, 1850
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
   index: 0
-bomblvl1
+bomblvlone1
   rotate: false
   xy: 1967, 1850
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
   index: 1
-bomblvl1
+bomblvlone2
   rotate: false
   xy: 711, 1718
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
   index: 2
-bomblvl1
+bomblvlone3
   rotate: false
   xy: 1398, 1965
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
   index: 3
-bomblvl1
+bomblvlone4
   rotate: false
   xy: 1425, 1964
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
   index: 4
-bomblvl2
+bomblvltwo0
   rotate: false
   xy: 698, 810
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 0
-bomblvl2
+bomblvltwo1
   rotate: false
   xy: 1576, 1380
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 1
-bomblvl2
+bomblvltwo2
   rotate: false
   xy: 1906, 1164
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 2
-bomblvl2
+bomblvltwo3
   rotate: false
   xy: 2015, 1143
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 3
-bomblvl2
+bomblvltwo4
   rotate: false
   xy: 2015, 1185
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 4
-bomblvl3
+bomblvlthree0
   rotate: false
   xy: 2015, 1227
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 0
-bomblvl3
+bomblvlthree1
   rotate: false
   xy: 1980, 1143
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 1
-bomblvl3
+bomblvlthree2
   rotate: false
   xy: 1997, 1648
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 2
-bomblvl3
+bomblvlthree3
   rotate: false
   xy: 1997, 1690
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
   index: 3
-bomblvl3
+bomblvlthree4
   rotate: false
   xy: 1938, 1572
   size: 33, 42
