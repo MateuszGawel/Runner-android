@@ -58,12 +58,12 @@ timeline0: 0.0
 - Scale - 
 lowMin: 1.0
 lowMax: 1.0
-highMin: 20.0
-highMax: 30.0
+highMin: 10.0
+highMax: 15.0
 relative: false
 scalingCount: 2
-scaling0: 0.627451
-scaling1: 0.49019608
+scaling0: 0.54901963
+scaling1: 0.23529412
 timelineCount: 2
 timeline0: 0.0
 timeline1: 1.0

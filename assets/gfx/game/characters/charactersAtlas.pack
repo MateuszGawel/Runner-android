@@ -18,7 +18,7 @@ alienBlankButton
   index: -1
 alienFoot
   rotate: false
-  xy: 778, 660
+  xy: 254, 1419
   size: 16, 20
   orig: 16, 20
   offset: 0, 0
@@ -2893,11 +2893,60 @@ archer_standup5
   orig: 158, 123
   offset: 55, 7
   index: -1
-arrow
+arrowlvl1
   rotate: false
   xy: 1196, 199
   size: 41, 5
   orig: 41, 5
+  offset: 0, 0
+  index: -1
+arrowlvl2
+  rotate: false
+  xy: 1672, 1558
+  size: 42, 7
+  orig: 42, 7
+  offset: 0, 0
+  index: -1
+arrowlvl30
+  rotate: false
+  xy: 751, 660
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+arrowlvl31
+  rotate: false
+  xy: 751, 669
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+arrowlvl32
+  rotate: false
+  xy: 751, 678
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+arrowlvl33
+  rotate: false
+  xy: 751, 687
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+arrowlvl34
+  rotate: false
+  xy: 227, 912
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+arrowlvl35
+  rotate: false
+  xy: 731, 911
+  size: 43, 9
+  orig: 43, 9
   offset: 0, 0
   index: -1
 banditArm
@@ -2930,7 +2979,7 @@ banditBombAbilityButton
   index: -1
 banditFoot
   rotate: false
-  xy: 751, 660
+  xy: 399, 2019
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
@@ -4370,111 +4419,111 @@ blackhole
   orig: 210, 210
   offset: 0, 0
   index: -1
-bomblvlone0
+bomblvl10
   rotate: false
   xy: 1940, 1850
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
-  index: 0
-bomblvlone1
+  index: -1
+bomblvl11
   rotate: false
   xy: 1967, 1850
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
-  index: 1
-bomblvlone2
+  index: -1
+bomblvl12
   rotate: false
   xy: 711, 1718
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
-  index: 2
-bomblvlone3
+  index: -1
+bomblvl13
   rotate: false
   xy: 1398, 1965
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
-  index: 3
-bomblvlone4
+  index: -1
+bomblvl14
   rotate: false
   xy: 1425, 1964
   size: 27, 40
   orig: 33, 42
   offset: 3, 2
-  index: 4
-bomblvltwo0
+  index: -1
+bomblvl20
   rotate: false
   xy: 698, 810
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 0
-bomblvltwo1
+  index: -1
+bomblvl21
   rotate: false
   xy: 1576, 1380
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 1
-bomblvltwo2
+  index: -1
+bomblvl22
   rotate: false
   xy: 1906, 1164
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 2
-bomblvltwo3
+  index: -1
+bomblvl23
   rotate: false
   xy: 2015, 1143
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 3
-bomblvltwo4
+  index: -1
+bomblvl24
   rotate: false
   xy: 2015, 1185
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 4
-bomblvlthree0
+  index: -1
+bomblvl30
   rotate: false
   xy: 2015, 1227
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 0
-bomblvlthree1
+  index: -1
+bomblvl31
   rotate: false
   xy: 1980, 1143
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 1
-bomblvlthree2
+  index: -1
+bomblvl32
   rotate: false
   xy: 1997, 1648
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 2
-bomblvlthree3
+  index: -1
+bomblvl33
   rotate: false
   xy: 1997, 1690
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 3
-bomblvlthree4
+  index: -1
+bomblvl34
   rotate: false
   xy: 1938, 1572
   size: 33, 42
   orig: 33, 42
   offset: 0, 0
-  index: 4
+  index: -1
 celownik
   rotate: false
   xy: 955, 381
@@ -4673,7 +4722,7 @@ planetProgressBarBegin
   index: -1
 planetProgressBarEnd
   rotate: false
-  xy: 227, 912
+  xy: 1620, 1267
   size: 33, 16
   orig: 33, 16
   offset: 0, 0
@@ -4764,7 +4813,7 @@ wildwestProgressBarBegin
   index: -1
 wildwestProgressBarEnd
   rotate: false
-  xy: 731, 911
+  xy: 498, 1910
   size: 33, 16
   orig: 33, 16
   offset: 0, 0

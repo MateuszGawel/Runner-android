@@ -2,11 +2,11 @@ Untitled
 - Delay -
 active: false
 - Duration - 
-lowMin: 500.0
-lowMax: 500.0
+lowMin: 1.0
+lowMax: 1.0
 - Count - 
 min: 1
-max: 3
+max: 1
 - Emission - 
 lowMin: 10.0
 lowMax: 10.0
@@ -101,11 +101,11 @@ timelineCount: 2
 timeline0: 0.0
 timeline1: 0.9931507
 - Options - 
-attached: false
+attached: true
 continuous: false
 aligned: false
 additive: false
 behind: false
 premultipliedAlpha: false
 - Image Path -
-liftField.png
+C:\Users\Beryl\Desktop\part\liftField.png
