@@ -18,7 +18,7 @@ alienBlankButton
   index: -1
 alienFoot
   rotate: false
-  xy: 254, 1419
+  xy: 778, 660
   size: 16, 20
   orig: 16, 20
   offset: 0, 0
@@ -2902,51 +2902,51 @@ arrowlvl1
   index: -1
 arrowlvl2
   rotate: false
-  xy: 1672, 1558
+  xy: 1620, 1281
   size: 42, 7
   orig: 42, 7
   offset: 0, 0
   index: -1
 arrowlvl30
   rotate: false
-  xy: 751, 660
-  size: 43, 9
-  orig: 43, 9
+  xy: 254, 1498
+  size: 46, 14
+  orig: 46, 14
   offset: 0, 0
   index: -1
 arrowlvl31
   rotate: false
-  xy: 751, 669
-  size: 43, 9
-  orig: 43, 9
+  xy: 300, 1498
+  size: 46, 14
+  orig: 46, 14
   offset: 0, 0
   index: -1
 arrowlvl32
   rotate: false
-  xy: 751, 678
-  size: 43, 9
-  orig: 43, 9
+  xy: 227, 912
+  size: 46, 14
+  orig: 46, 14
   offset: 0, 0
   index: -1
 arrowlvl33
   rotate: false
-  xy: 751, 687
-  size: 43, 9
-  orig: 43, 9
+  xy: 731, 911
+  size: 46, 14
+  orig: 46, 14
   offset: 0, 0
   index: -1
 arrowlvl34
   rotate: false
-  xy: 227, 912
-  size: 43, 9
-  orig: 43, 9
+  xy: 726, 1242
+  size: 46, 14
+  orig: 46, 14
   offset: 0, 0
   index: -1
 arrowlvl35
   rotate: false
-  xy: 731, 911
-  size: 43, 9
-  orig: 43, 9
+  xy: 1620, 1267
+  size: 46, 14
+  orig: 46, 14
   offset: 0, 0
   index: -1
 banditArm
@@ -2979,7 +2979,7 @@ banditBombAbilityButton
   index: -1
 banditFoot
   rotate: false
-  xy: 399, 2019
+  xy: 751, 660
   size: 27, 29
   orig: 27, 29
   offset: 0, 0
@@ -4687,7 +4687,7 @@ forestProgressBarBegin
   index: -1
 forestProgressBarEnd
   rotate: false
-  xy: 726, 1242
+  xy: 879, 1767
   size: 33, 11
   orig: 33, 16
   offset: 0, 0
@@ -4722,7 +4722,7 @@ planetProgressBarBegin
   index: -1
 planetProgressBarEnd
   rotate: false
-  xy: 1620, 1267
+  xy: 295, 2025
   size: 33, 16
   orig: 33, 16
   offset: 0, 0
