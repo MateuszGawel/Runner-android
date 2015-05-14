@@ -77,7 +77,8 @@
 	{
 	    default: { font: small, fontColor: white },
 	    dialogLabel: { font: small, fontColor: white },
-	    gameWorldLabel: { font: big, fontColor: white }
+	    gameWorldLabel: { font: big, fontColor: white },
+	    coinLabel: {font: medium, fontColor: coinColor}
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 
