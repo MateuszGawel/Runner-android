@@ -5,301 +5,287 @@ repeat: none
 _wildWestAtlas
   rotate: false
   xy: 0, 0
-  size: 1024, 1100
-  orig: 1024, 1100
+  size: 1028, 1104
+  orig: 1028, 1104
   offset: 0, 0
   index: -1
 barrelSmall
   rotate: false
-  xy: 1600, 1951
-  size: 62, 61
-  orig: 62, 61
+  xy: 1028, 0
+  size: 66, 65
+  orig: 66, 65
   offset: 0, 0
   index: -1
 bonfire0
   rotate: false
-  xy: 1736, 1751
-  size: 71, 107
-  orig: 71, 107
+  xy: 1094, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire1
   rotate: false
-  xy: 1807, 1751
-  size: 71, 107
-  orig: 71, 107
+  xy: 1169, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire10
   rotate: false
-  xy: 1878, 1751
-  size: 71, 107
-  orig: 71, 107
+  xy: 1244, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire11
   rotate: false
-  xy: 1949, 1751
-  size: 71, 107
-  orig: 71, 107
+  xy: 1319, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire12
   rotate: false
-  xy: 1736, 1858
-  size: 71, 107
-  orig: 71, 107
+  xy: 1394, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire13
   rotate: false
-  xy: 1807, 1858
-  size: 71, 107
-  orig: 71, 107
+  xy: 1469, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire14
   rotate: false
-  xy: 1878, 1858
-  size: 71, 107
-  orig: 71, 107
+  xy: 1544, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire15
   rotate: false
-  xy: 1949, 1858
-  size: 71, 107
-  orig: 71, 107
+  xy: 1619, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire16
   rotate: false
-  xy: 1024, 0
-  size: 71, 107
-  orig: 71, 107
+  xy: 1694, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire17
   rotate: false
-  xy: 1024, 107
-  size: 71, 107
-  orig: 71, 107
+  xy: 1769, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire18
   rotate: false
-  xy: 1024, 214
-  size: 71, 107
-  orig: 71, 107
+  xy: 1844, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire19
   rotate: false
-  xy: 1024, 321
-  size: 71, 107
-  orig: 71, 107
+  xy: 1919, 0
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire2
   rotate: false
-  xy: 1024, 428
-  size: 71, 107
-  orig: 71, 107
+  xy: 0, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire20
   rotate: false
-  xy: 1024, 535
-  size: 71, 107
-  orig: 71, 107
+  xy: 75, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire21
   rotate: false
-  xy: 1024, 642
-  size: 71, 107
-  orig: 71, 107
+  xy: 150, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire22
   rotate: false
-  xy: 1024, 749
-  size: 71, 107
-  orig: 71, 107
+  xy: 225, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire23
   rotate: false
-  xy: 1024, 856
-  size: 71, 107
-  orig: 71, 107
+  xy: 300, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire24
   rotate: false
-  xy: 1024, 963
-  size: 71, 107
-  orig: 71, 107
+  xy: 375, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire25
   rotate: false
-  xy: 1095, 0
-  size: 71, 107
-  orig: 71, 107
+  xy: 450, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire26
   rotate: false
-  xy: 1095, 107
-  size: 71, 107
-  orig: 71, 107
+  xy: 525, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire27
   rotate: false
-  xy: 1095, 214
-  size: 71, 107
-  orig: 71, 107
+  xy: 600, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire28
   rotate: false
-  xy: 1095, 321
-  size: 71, 107
-  orig: 71, 107
+  xy: 675, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire29
   rotate: false
-  xy: 1095, 428
-  size: 71, 107
-  orig: 71, 107
+  xy: 750, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire3
   rotate: false
-  xy: 1095, 535
-  size: 71, 107
-  orig: 71, 107
+  xy: 825, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire30
   rotate: false
-  xy: 1095, 642
-  size: 71, 107
-  orig: 71, 107
+  xy: 900, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire31
   rotate: false
-  xy: 1095, 749
-  size: 71, 107
-  orig: 71, 107
+  xy: 975, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire32
   rotate: false
-  xy: 1095, 856
-  size: 71, 107
-  orig: 71, 107
+  xy: 1050, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire4
   rotate: false
-  xy: 1095, 963
-  size: 71, 107
-  orig: 71, 107
+  xy: 1125, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire5
   rotate: false
-  xy: 1166, 0
-  size: 71, 107
-  orig: 71, 107
+  xy: 1200, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire6
   rotate: false
-  xy: 1166, 107
-  size: 71, 107
-  orig: 71, 107
+  xy: 1275, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire7
   rotate: false
-  xy: 1166, 214
-  size: 71, 107
-  orig: 71, 107
+  xy: 1350, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire8
   rotate: false
-  xy: 1166, 321
-  size: 71, 107
-  orig: 71, 107
+  xy: 1425, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 bonfire9
   rotate: false
-  xy: 1166, 428
-  size: 71, 107
-  orig: 71, 107
+  xy: 1500, 1104
+  size: 75, 111
+  orig: 75, 111
   offset: 0, 0
   index: -1
 liftField
   rotate: false
-  xy: 1536, 1751
-  size: 200, 200
-  orig: 200, 200
-  offset: 0, 0
-  index: -1
-mountains
-  rotate: false
-  xy: 0, 1751
-  size: 1536, 236
-  orig: 1536, 236
+  xy: 1575, 1104
+  size: 204, 204
+  orig: 204, 204
   offset: 0, 0
   index: -1
 particle-coin
   rotate: false
-  xy: 1694, 1951
-  size: 8, 8
-  orig: 8, 8
+  xy: 1779, 1104
+  size: 12, 12
+  orig: 12, 12
   offset: 0, 0
   index: -1
 particle-forest
   rotate: false
-  xy: 1694, 1959
-  size: 32, 5
-  orig: 32, 5
+  xy: 1791, 1104
+  size: 36, 9
+  orig: 36, 9
   offset: 0, 0
   index: -1
 particle-space
   rotate: false
-  xy: 1536, 1951
-  size: 64, 64
-  orig: 64, 64
+  xy: 1827, 1104
+  size: 68, 68
+  orig: 68, 68
   offset: 0, 0
   index: -1
 particle
   rotate: false
-  xy: 1662, 1951
-  size: 32, 32
-  orig: 32, 32
+  xy: 1895, 1104
+  size: 36, 36
+  orig: 36, 36
   offset: 0, 0
   index: -1
-rocks
+portal
   rotate: false
-  xy: 0, 1444
-  size: 2048, 307
-  orig: 2048, 307
-  offset: 0, 0
-  index: -1
-sand
-  rotate: false
-  xy: 0, 1100
-  size: 2048, 344
-  orig: 2048, 344
+  xy: 1931, 1104
+  size: 60, 203
+  orig: 60, 203
   offset: 0, 0
   index: -1

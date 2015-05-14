@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="500" height="40" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="wildWestTiled" tilewidth="64" tileheight="64" spacing="4" margin="2">
+  <image source="wildWestAtlas.png" width="2048" height="2048"/>
+ </tileset>
+ <layer name="Ground" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztzbEJgAAAA0H3VPdfQzsH+CIIdxD4LscBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ/z3fXu1lprrfVve/2vtdZa697rf6211lr3Xv9rrbXWuvf6X2uttda91/9aa6217r3+11prrXXv9b/WWmute6//tdZaa917/a+11lrr3ut/rbXWWvde/2uttda69/pfa6211r0BAAAAAIDuAbCXIGs=
+  </data>
+ </layer>
+ <layer name="Objects" width="500" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+  </data>
+ </layer>
+ <objectgroup name="Terrainlayer">
+  <properties>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object name="player3" type="player3" x="1024" y="1408" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="1408" width="64" height="128"/>
+  <object name="player1" type="player1" x="1152" y="1408" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="1408" width="64" height="128"/>
+  <object x="8" y="1540">
+   <polyline points="0,0 31992,-4 31992,892 -8,700 -8,-4"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="ObstaclesLayer">
+  <properties>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+ </objectgroup>
+ <objectgroup name="ObjectsLayer">
+  <properties>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+ </objectgroup>
+</map>
