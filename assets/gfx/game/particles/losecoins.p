@@ -2,16 +2,16 @@ Untitled
 - Delay -
 active: false
 - Duration - 
-lowMin: 50.0
-lowMax: 50.0
+lowMin: 1200.0
+lowMax: 1200.0
 - Count - 
 min: 1
-max: 40
+max: 200
 - Emission - 
-lowMin: 50.0
-lowMax: 50.0
-highMin: 50.0
-highMax: 50.0
+lowMin: 100.0
+lowMax: 100.0
+highMin: 100.0
+highMax: 100.0
 relative: false
 scalingCount: 1
 scaling0: 1.0
@@ -67,7 +67,7 @@ highMax: 32.0
 relative: false
 scalingCount: 2
 scaling0: 0.37254903
-scaling1: 0.0
+scaling1: 0.13725491
 timelineCount: 2
 timeline0: 0.0
 timeline1: 1.0
@@ -75,8 +75,8 @@ timeline1: 1.0
 active: true
 lowMin: 150.0
 lowMax: 150.0
-highMin: 150.0
-highMax: 150.0
+highMin: 100.0
+highMax: 100.0
 relative: true
 scalingCount: 2
 scaling0: 1.0
@@ -107,8 +107,8 @@ active: false
 active: true
 lowMin: 0.0
 lowMax: 0.0
-highMin: -300.0
-highMax: -350.0
+highMin: -200.0
+highMax: -250.0
 relative: false
 scalingCount: 2
 scaling0: 0.0
