@@ -1,8 +1,7 @@
 {
 	com.badlogic.gdx.graphics.g2d.BitmapFont: 
 	{ 
-		small: { file: fonts/small.fnt },
-		medium: { file: fonts/medium.fnt }
+		small: { file: fonts/small.fnt }
 	},
 
 	com.badlogic.gdx.graphics.Color: 
@@ -12,6 +11,6 @@
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
 	{
-	    default: { font: medium, fontColor: white }
+	    loadingSmall: { font: small, fontColor: white }
 	}
 }
