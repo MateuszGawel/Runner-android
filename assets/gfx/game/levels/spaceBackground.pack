@@ -1,10 +1,10 @@
 spaceBackground.png
 format: RGBA8888
-filter: Linear,Linear
+filter: Nearest,Nearest
 repeat: none
 space
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 1280, 800
   orig: 1280, 800
   offset: 0, 0

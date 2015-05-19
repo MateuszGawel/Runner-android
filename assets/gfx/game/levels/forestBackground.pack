@@ -1,17 +1,17 @@
 forestBackground.png
 format: RGBA8888
-filter: Linear,Linear
+filter: Nearest,Nearest
 repeat: none
 grass
   rotate: false
-  xy: 2, 2
+  xy: 4, 4
   size: 1985, 242
   orig: 1985, 242
   offset: 0, 0
   index: -1
 trees
   rotate: false
-  xy: 2, 246
+  xy: 4, 250
   size: 1985, 800
   orig: 1985, 800
   offset: 0, 0

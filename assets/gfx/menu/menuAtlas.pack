@@ -1269,14 +1269,14 @@ settingsButton
   orig: 111, 111
   offset: 0, 0
   index: -1
-shop0
+shopButton0
   rotate: false
   xy: 1808, 2
   size: 200, 201
   orig: 200, 201
   offset: 0, 0
   index: -1
-shop1
+shopButton1
   rotate: false
   xy: 1807, 206
   size: 200, 201

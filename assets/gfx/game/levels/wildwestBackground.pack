@@ -1,6 +1,6 @@
 wildwestBackground.png
 format: RGBA8888
-filter: Linear,Linear
+filter: Nearest,Nearest
 repeat: none
 mountains
   rotate: false
@@ -11,14 +11,14 @@ mountains
   index: -1
 rocks
   rotate: false
-  xy: 4, 309
+  xy: 4, 303
   size: 2034, 384
   orig: 2034, 384
   offset: 0, 0
   index: -1
 sand
   rotate: false
-  xy: 4, 703
+  xy: 4, 691
   size: 2034, 303
   orig: 2034, 303
   offset: 0, 0
