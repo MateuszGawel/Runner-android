@@ -145,4 +145,4 @@ additive: false
 behind: false
 premultipliedAlpha: false
 - Image Path -
-particle.png
+particle_gui.png

@@ -240,24 +240,3 @@ bonfire9
   orig: 71, 107
   offset: 0, 0
   index: -1
-wildwestProgressBarBegin
-  rotate: false
-  xy: 1462, 1104
-  size: 40, 20
-  orig: 40, 20
-  offset: 0, 0
-  index: -1
-wildwestProgressBarEnd
-  rotate: false
-  xy: 1504, 1104
-  size: 40, 20
-  orig: 40, 20
-  offset: 0, 0
-  index: -1
-wildwestProgressBarMiddle
-  rotate: false
-  xy: 1546, 1104
-  size: 100, 20
-  orig: 100, 20
-  offset: 0, 0
-  index: -1

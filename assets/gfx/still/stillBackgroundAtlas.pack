@@ -1,25 +1,25 @@
 stillBackgroundAtlas.jpg
 format: RGB888
-filter: Nearest,Nearest
+filter: Linear,Linear
 repeat: none
 loadingForest
   rotate: false
-  xy: 2, 2
-  size: 1020, 545
-  orig: 1020, 545
+  xy: 0, 0
+  size: 1024, 547
+  orig: 1024, 547
   offset: 0, 0
   index: -1
 loadingSpace
   rotate: false
-  xy: 2, 549
-  size: 1020, 545
-  orig: 1020, 545
+  xy: 0, 547
+  size: 1024, 547
+  orig: 1024, 547
   offset: 0, 0
   index: -1
 loadingWildWest
   rotate: false
-  xy: 2, 1096
-  size: 1020, 545
-  orig: 1020, 545
+  xy: 0, 1094
+  size: 1024, 547
+  orig: 1024, 547
   offset: 0, 0
   index: -1

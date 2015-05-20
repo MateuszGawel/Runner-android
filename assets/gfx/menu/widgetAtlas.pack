@@ -5,20 +5,20 @@ repeat: none
 blackBoardMedium
   rotate: false
   xy: 1185, 2
-  size: 805, 425
+  size: 803, 425
   orig: 805, 425
-  offset: 0, 0
+  offset: 1, 0
   index: -1
 closeWidget
   rotate: false
-  xy: 1057, 705
+  xy: 1054, 705
   size: 62, 64
   orig: 62, 64
   offset: 0, 0
   index: -1
 contactsTab
   rotate: false
-  xy: 804, 705
+  xy: 801, 705
   size: 250, 89
   orig: 250, 90
   offset: 0, 0
@@ -61,13 +61,13 @@ settingsTab
 shopWidget
   rotate: false
   xy: 2, 705
-  size: 799, 633
-  orig: 800, 633
-  offset: 1, 0
+  size: 796, 633
+  orig: 796, 633
+  offset: 0, 0
   index: -1
 widgetBlack
   rotate: false
-  xy: 1993, 2
+  xy: 1991, 2
   size: 25, 25
   orig: 25, 25
   offset: 0, 0

@@ -121,128 +121,107 @@ catapult9
   orig: 239, 162
   offset: 0, 0
   index: -1
-forestProgressBarBegin
-  rotate: false
-  xy: 966, 782
-  size: 40, 20
-  orig: 40, 20
-  offset: 0, 0
-  index: -1
-forestProgressBarEnd
-  rotate: false
-  xy: 1008, 782
-  size: 40, 20
-  orig: 40, 20
-  offset: 0, 0
-  index: -1
-forestProgressBarMiddle
-  rotate: false
-  xy: 1050, 782
-  size: 100, 20
-  orig: 100, 20
-  offset: 0, 0
-  index: -1
 hedgehog0
   rotate: false
-  xy: 1152, 782
+  xy: 966, 782
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog1
   rotate: false
-  xy: 1311, 782
+  xy: 1125, 782
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog10
   rotate: false
-  xy: 1470, 782
+  xy: 1284, 782
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog11
   rotate: false
-  xy: 1629, 782
+  xy: 1443, 782
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog2
   rotate: false
-  xy: 1788, 782
+  xy: 1602, 782
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog3
   rotate: false
-  xy: 2, 946
+  xy: 1761, 782
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog4
   rotate: false
-  xy: 161, 946
+  xy: 2, 946
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog5
   rotate: false
-  xy: 320, 946
+  xy: 161, 946
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog6
   rotate: false
-  xy: 479, 946
+  xy: 320, 946
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog7
   rotate: false
-  xy: 638, 946
+  xy: 479, 946
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog8
   rotate: false
-  xy: 797, 946
+  xy: 638, 946
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 hedgehog9
   rotate: false
-  xy: 956, 946
+  xy: 797, 946
   size: 157, 75
   orig: 157, 75
   offset: 0, 0
   index: -1
 leaf0
   rotate: false
-  xy: 1115, 946
+  xy: 956, 946
   size: 287, 177
   orig: 287, 177
   offset: 0, 0
   index: -1
 leaf1
   rotate: false
-  xy: 1404, 946
+  xy: 1245, 946
   size: 287, 177
   orig: 287, 177
   offset: 0, 0
   index: -1
 leaf10
   rotate: false
-  xy: 1693, 946
+  xy: 1534, 946
   size: 287, 177
   orig: 287, 177
   offset: 0, 0

@@ -639,24 +639,3 @@ lava9
   orig: 66, 25
   offset: 0, 0
   index: -1
-planetProgressBarBegin
-  rotate: false
-  xy: 410, 757
-  size: 40, 20
-  orig: 40, 20
-  offset: 0, 0
-  index: -1
-planetProgressBarEnd
-  rotate: false
-  xy: 452, 757
-  size: 40, 20
-  orig: 40, 20
-  offset: 0, 0
-  index: -1
-planetProgressBarMiddle
-  rotate: false
-  xy: 494, 757
-  size: 100, 20
-  orig: 100, 20
-  offset: 0, 0
-  index: -1

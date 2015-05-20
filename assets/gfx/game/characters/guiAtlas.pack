@@ -1,0 +1,228 @@
+guiAtlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+alienBlankButton
+  rotate: false
+  xy: 260, 221
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienJumpButton
+  rotate: false
+  xy: 130, 221
+  size: 127, 126
+  orig: 127, 126
+  offset: 0, 0
+  index: -1
+alienLiftAbilityButton
+  rotate: false
+  xy: 770, 1
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienProgressBarHead
+  rotate: false
+  xy: 905, 177
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+alienSlideButton
+  rotate: false
+  xy: 259, 350
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienSuperJumpButton
+  rotate: false
+  xy: 389, 221
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+alienSuperSpeedButton
+  rotate: false
+  xy: 388, 350
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+archerArrowAbilityButton
+  rotate: false
+  xy: 1, 221
+  size: 126, 130
+  orig: 127, 131
+  offset: 1, 1
+  index: -1
+archerBlankButton
+  rotate: false
+  xy: 512, 1
+  size: 126, 128
+  orig: 126, 128
+  offset: 0, 0
+  index: -1
+archerJumpButton
+  rotate: false
+  xy: 1, 354
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+archerProgressBarHead
+  rotate: false
+  xy: 905, 230
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+archerSlideButton
+  rotate: false
+  xy: 641, 1
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+archerSuperJumpButton
+  rotate: false
+  xy: 130, 350
+  size: 126, 127
+  orig: 126, 127
+  offset: 0, 0
+  index: -1
+archerSuperSpeedButton
+  rotate: false
+  xy: 899, 1
+  size: 124, 127
+  orig: 124, 127
+  offset: 0, 0
+  index: -1
+banditBlankButton
+  rotate: false
+  xy: 518, 132
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+banditBombAbilityButton
+  rotate: false
+  xy: 647, 131
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+banditJumpButton
+  rotate: false
+  xy: 518, 261
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+banditProgressBarHead
+  rotate: false
+  xy: 905, 283
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+banditSlideButton
+  rotate: false
+  xy: 647, 260
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+banditSuperJumpButton
+  rotate: false
+  xy: 776, 131
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+banditSuperSpeedButton
+  rotate: false
+  xy: 776, 260
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+forestProgressBarBegin
+  rotate: false
+  xy: 905, 359
+  size: 40, 12
+  orig: 40, 20
+  offset: 0, 7
+  index: -1
+forestProgressBarEnd
+  rotate: false
+  xy: 207, 480
+  size: 40, 12
+  orig: 40, 20
+  offset: 0, 1
+  index: -1
+forestProgressBarMiddle
+  rotate: false
+  xy: 1, 484
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+medium
+  rotate: false
+  xy: 1, 1
+  size: 508, 217
+  orig: 512, 256
+  offset: 0, 35
+  index: -1
+particle_gui
+  rotate: false
+  xy: 130, 480
+  size: 32, 31
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+planetProgressBarBegin
+  rotate: false
+  xy: 958, 177
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+planetProgressBarEnd
+  rotate: false
+  xy: 905, 336
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+planetProgressBarMiddle
+  rotate: false
+  xy: 905, 131
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+wildwestProgressBarBegin
+  rotate: false
+  xy: 958, 200
+  size: 37, 20
+  orig: 40, 20
+  offset: 3, 0
+  index: -1
+wildwestProgressBarEnd
+  rotate: false
+  xy: 165, 480
+  size: 39, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+wildwestProgressBarMiddle
+  rotate: false
+  xy: 905, 154
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
