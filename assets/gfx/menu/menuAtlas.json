@@ -43,7 +43,8 @@
 		inviteFriends: { up: inviteFriendsButton, down: inviteFriendsButton},
 		invite: { up: invite, down: invite},
 		starSmallEmpty: { up: starSmallEmpty, down: starSmallEmpty},
-		starSmallFull: { up: starSmallFull, down: starSmallFull}
+		starSmallFull: { up: starSmallFull, down: starSmallFull},
+		buyButton: { up: buyButton, down: buyButton}
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
@@ -76,7 +77,7 @@
 	com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: 
 	{
 	    default: { font: small, fontColor: white },
-	    dialogLabel: { font: small, fontColor: white },
+	    dialogLabel: { font: medium, fontColor: woodColor },
 	    gameWorldLabel: { font: big, fontColor: white },
 	    coinLabel: {font: medium, fontColor: coinColor}
 	},
