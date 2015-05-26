@@ -79,12 +79,13 @@
 	    default: { font: small, fontColor: white },
 	    dialogLabel: { font: medium, fontColor: woodColor },
 	    gameWorldLabel: { font: big, fontColor: white },
-	    coinLabel: {font: medium, fontColor: coinColor}
+	    coinLabel: {font: medium, fontColor: coinColor},
+	    coinLabelBig: {font: big, fontColor: coinColor}
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 
 	{
-		default: { background: whiteBackground, font: small, fontColor: white, cursor: textFieldCursor, focusedBackground: whiteBackground, selection: blackNonTransparent}
+		default: { background: whiteBackground, font: medium, fontColor: white, cursor: textFieldCursor, focusedBackground: whiteBackground, selection: blackNonTransparent}
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.List$ListStyle: 
