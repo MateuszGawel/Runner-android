@@ -57,7 +57,8 @@
 		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: medium, fontColor: woodColor },
 		spaceCampaignButton: { up: spaceCampaignButtonUp, down: spaceCampaignButtonDown, font: medium, fontColor: rockColor },
 		spaceCampaignLockedButton: { up: spaceCampaignLockedButtonUp, down: spaceCampaignLockedButtonDown, font: medium, fontColor: rockColor },
-		categoryTab: { up: categoryTab, down: categoryTab, font: small, fontColor: white }
+		categoryTab: { up: categoryTab, down: categoryTab, font: small, fontColor: white },
+		signboard: { up: signboard, down: signboard, font: big, fontColor: woodColor }
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: 
