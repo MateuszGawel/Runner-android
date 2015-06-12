@@ -37,27 +37,25 @@
 		noButton: { up: noButton, down: noButton },
 		yesButton: { up: yesButton, down: yesButton },
 		fadeOut: { up: blackNonTransparent, down: blackNonTransparent },
-		westWildLoader: { up: westWildLoader, down: westWildLoader },
-		forrestLoader: { up: forrestLoader, down: forrestLoader },
-		spaceLoader: { up: spaceLoader, down: spaceLoader },
 		inviteFriends: { up: inviteFriendsButton, down: inviteFriendsButton},
-		invite: { up: invite, down: invite},
+		invite: { up: inviteButton, down: inviteButton},
+		buyButton: { up: buyButton, down: buyButton},
+		login: { up: loginButton, down: loginButton},
+		search: { up: searchButton, down: searchButton},
 		starSmallEmpty: { up: starSmallEmpty, down: starSmallEmpty},
-		starSmallFull: { up: starSmallFull, down: starSmallFull},
-		buyButton: { up: buyButton, down: buyButton}
+		starSmallFull: { up: starSmallFull, down: starSmallFull}
 	},
 	
 	com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: 
 	{
-		loader: { down: knob, up: knob, font: small, fontColor: white },
 		default: { down: defaultButton, up: defaultButton, font: medium, fontColor: woodColor },
+		loader: { down: knob, up: knob, font: small, fontColor: white },
 		forestCampaignButton: { up: forestCampaignButtonUp, down: forestCampaignButtonDown, font: medium, fontColor: leafColor },
 		forestCampaignLockedButton: { up: forestCampaignLockedButtonUp, down: forestCampaignLockedButtonDown, font: medium, fontColor: leafColor },
 		westWildCampaignButton: { up: westWildCampaignButtonUp, down: westWildCampaignButtonDown, font: medium, fontColor: woodColor },
 		westWildCampaignLockedButton: { up: westWildCampaignLockedButtonUp, down: westWildCampaignLockedButtonDown, font: medium, fontColor: woodColor },
 		spaceCampaignButton: { up: spaceCampaignButtonUp, down: spaceCampaignButtonDown, font: medium, fontColor: rockColor },
 		spaceCampaignLockedButton: { up: spaceCampaignLockedButtonUp, down: spaceCampaignLockedButtonDown, font: medium, fontColor: rockColor },
-		categoryTab: { up: categoryTab, down: categoryTab, font: small, fontColor: white },
 		signboard: { up: signboard, down: signboard, font: big, fontColor: woodColor }
 	},
 	
@@ -82,7 +80,9 @@
 	    dialogLabel: { font: medium, fontColor: woodColor },
 	    gameWorldLabel: { font: big, fontColor: white },
 	    coinLabel: {font: medium, fontColor: coinColor},
-	    coinLabelBig: {font: big, fontColor: coinColor}
+	    coinLabelBig: {font: big, fontColor: coinColor},
+	    woodSmall: {font: medium, fontColor: woodColor},
+	    woodBig: {font: big, fontColor: woodColor},
 	},
 
 	com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: 
