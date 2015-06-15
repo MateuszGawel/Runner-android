@@ -82,6 +82,7 @@
 	    coinLabel: {font: medium, fontColor: coinColor},
 	    coinLabelBig: {font: big, fontColor: coinColor},
 	    woodSmall: {font: medium, fontColor: woodColor},
+	    woodMedium: {font: medium, fontColor: woodColor},
 	    woodBig: {font: big, fontColor: woodColor},
 	},
 
