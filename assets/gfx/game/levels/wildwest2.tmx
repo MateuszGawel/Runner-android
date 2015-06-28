@@ -152,9 +152,6 @@
   <object name="barrel" type="barrel" x="10050" y="1220.33" width="60" height="59">
    <ellipse/>
   </object>
-  <object type="bonfire" x="1602" y="1532">
-   <polygon points="0,0 44,0 21,-60"/>
-  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
