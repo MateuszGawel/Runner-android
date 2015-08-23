@@ -324,65 +324,72 @@ buddy9
   orig: 98, 89
   offset: 0, 0
   index: -1
-lava0
+laserPattern
   rotate: false
   xy: 1402, 639
+  size: 18, 1
+  orig: 18, 1
+  offset: 0, 0
+  index: -1
+lava0
+  rotate: false
+  xy: 1422, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava1
   rotate: false
-  xy: 1470, 639
+  xy: 1490, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava10
   rotate: false
-  xy: 1538, 639
+  xy: 1558, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava11
   rotate: false
-  xy: 1606, 639
+  xy: 1626, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava12
   rotate: false
-  xy: 1674, 639
+  xy: 1694, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava13
   rotate: false
-  xy: 1742, 639
+  xy: 1762, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava14
   rotate: false
-  xy: 1810, 639
+  xy: 1830, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava15
   rotate: false
-  xy: 1878, 639
+  xy: 1898, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
   index: -1
 lava16
   rotate: false
-  xy: 1946, 639
+  xy: 1966, 639
   size: 66, 25
   orig: 66, 25
   offset: 0, 0
