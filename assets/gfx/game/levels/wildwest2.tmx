@@ -10,12 +10,12 @@
  </layer>
  <layer name="Objects" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJztwYEAAAAAw6D5Ux/gClUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMAbOI8AAQ==
+   eJzt1cEJxTAIAFAH6F+kXaR/q45eL4EQCOTgJfQ9kIioeEsEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfMMv4jky2tvXxp5ZvjpbfXPlTgDY2ZX/4pnR3r429szy1dnqmyt3AsDO/vkv3hnt7Wtjzyxfna2+uXInAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA7OIFyRwn9w==
   </data>
  </layer>
  <layer name="Obstacles" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJzt2jmOE0EUBuCahCUiYIAERMISTcCWgEhYojkCASkcAugIDsGWwCHYErgFJHAIQCTAk2iLkseWqzzd7pb9fdKvrpJKcjlwv+5XTgkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgny8pNZ8jP2I8nZ+D7gwAWGRSx39Fjm+ldCKyHcnHx7aG3iUAjNODyMMl8qijz8/r+HZbty9HrswYq+cAMNvTyLM2LyIvC+fP9/m5s+r4oqjnADBbXs/fRz4Uzpet5yV9df12oNSByMGhN9Hqai+HIoezK5urpod+N/2v1zUpqeff097/tJX01fXb+zOme1/X1vm7Md+ZyNmhN9Hqai/nIuezK5srf+fuKyX1/GhhH12/fXXGdO/r2jp/N+a7Ebk59CZaXe3lVuR2dmVzTep5zXl4yfxe5H6qr+dfY/wtlffV9dv7M6Z7X9emv5v3ddg8Nb/7mrVDnX1M6nnNeXjJ/HHkSaqv579j/Cct12Ov6bcfiZwu2FesaWJtM2/eJ+dhqzPW93XPGdCfmt99zdqhzj766re/irxO9fX8ZOTUCvrtO5HrBfuKNc1OVr+n531yHrY6Y+1FjPU5A9ZBze++Zu1QZx9vIm97yMfIp3b8rmAfF6L+XoxcjVxrx/vJpQX1fDdyp2BfsabZzer39LxPzsMY63MGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB7/QV2T8XP
+   eJzt2jluFEEUBuBywhIR2EACImGJHLAlIBKWyEcgIDWHADqCQ7AlcAi2BG4BCRwCEAnwJHpEazzWVI2nplvT3yf96iqppKkO2q/7lVMCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA+OdLSs3nyI8YT+dnrzsDAOaZ1PFfkRMbKZ2MbEW64+Mbfe8SAIbpQeThAnm0pN/v1vGttm5fiVydMVbPAWC2p5FnbV5EXmbOnx/wd2fV8XlRzwFgtm49fx/5kDlftJ7n9NX124ExOxI52rkyXiU99Hvpf70uSU49/572/k9bTl9dv72eQ5HDfW+iknW+N8blfORC58p4db+5ayWnnm9m9tH121fnbORc35uoZJ3vjf3djNzqexOtZe3lduRO58p4Tep5yXl4znw3cj+V1/OvMf6W8vvq+u31DOlv37JN35vvdRifkue+ZG1fZx+Tel5yHp4zfxx5ksrr+e8Y/0mL9dhL+u3HImcy9hVrmljb7DevyXnY6gz1e917BtRT8tyXrO3r7KNWv/1V5HUqr+enIqdX0G/fjtzI2FesabY79Xt6XpPzsNUZai9iqO8ZsA5KnvuStX2dfbyJvK2Qj5FP7fhdxj4uRv29FLkWud6OD5LLc+r5TuRuxr5iTbPTqd/T85qchzHU9wwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPb6Cw4wxSM=
   </data>
  </layer>
  <layer name="Decorations #Front" width="500" height="40">
@@ -43,12 +43,6 @@
   </properties>
   <object type="bonfire" x="8203" y="1536">
    <polygon points="0,0 44,0 21,-60"/>
-  </object>
-  <object name="killingBottom" type="killingBottom" x="5024.5" y="1538">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
   <object name="killingBottom" type="killingBottom" x="11233.3" y="1732">
    <properties>
@@ -116,31 +110,25 @@
   <object name="barrel" type="barrel" x="14114" y="1615.33" width="60" height="59">
    <ellipse/>
   </object>
-  <object name="killingBottom" type="killingBottom" x="2783.52" y="1534.79">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
-  </object>
   <object name="killingBottom" type="killingBottom" x="29409.1" y="1730.3">
    <properties>
     <property name="isGhost" value="true"/>
    </properties>
    <polyline points="0,0 0,-89 36,-130 69,-90 70,0"/>
   </object>
-  <object name="coins" type="coins" x="2368" y="1472">
+  <object name="coins" type="coins" x="2366.67" y="1229.33">
    <polygon points="0,0 1.33333,-188 196,-189.333 324,-92 196,2.66667"/>
   </object>
-  <object name="coins" type="coins" x="1728" y="1472">
+  <object name="coins" type="coins" x="1728" y="1284">
    <polygon points="0,0 0,-64 64,-64 64,0"/>
   </object>
-  <object name="barrel" type="barrel" x="2268" y="1472.33" width="60" height="59">
+  <object name="barrel" type="barrel" x="888" y="1473.66" width="60" height="59">
    <ellipse/>
   </object>
-  <object name="barrel" type="barrel" x="2236" y="1419.33" width="60" height="59">
+  <object name="barrel" type="barrel" x="856" y="1420.66" width="60" height="59">
    <ellipse/>
   </object>
-  <object name="barrel" type="barrel" x="2204" y="1472.33" width="60" height="59">
+  <object name="barrel" type="barrel" x="824" y="1473.66" width="60" height="59">
    <ellipse/>
   </object>
   <object name="barrel" type="barrel" x="10114" y="1220.33" width="60" height="59">
@@ -178,5 +166,17 @@
   <object name="stone" x="19394.7" y="1729.33">
    <polyline points="101.333,4.66667 95.6663,-52 60.9997,-70 15.9997,-57 0.666667,3.66667"/>
   </object>
+  <object x="4352" y="1534.67">
+   <polygon points="0,0 0,-62.6667 128,-62.6667 128,1.33333"/>
+  </object>
+  <object x="3008" y="1472" width="128" height="64"/>
+  <object x="1482.67" y="1472" width="96" height="62.6667"/>
+  <object x="1610.67" y="1472" width="94.6667" height="62.6667"/>
+  <object x="1802" y="1472.67" width="94.6667" height="62.6667"/>
+  <object x="2064.67" y="1474" width="94.6667" height="62.6667"/>
+  <object x="2259.33" y="1472.67" width="94.6667" height="62.6667"/>
+  <object x="2448.67" y="1475.33" width="94.6667" height="62.6667"/>
+  <object x="2576.67" y="1474" width="94.6667" height="62.6667"/>
+  <object x="2770" y="1474" width="94.6667" height="62.6667"/>
  </objectgroup>
 </map>
