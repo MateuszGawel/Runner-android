@@ -240,3 +240,10 @@ bonfire9
   orig: 71, 107
   offset: 0, 0
   index: -1
+viewfinder
+  rotate: false
+  xy: 1462, 1104
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
