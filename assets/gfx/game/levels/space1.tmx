@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="700" height="50" tilewidth="64" tileheight="64">
+ <tileset firstgid="1" name="spaceAtlas" tilewidth="64" tileheight="64" spacing="4" margin="2">
+  <image source="spaceAtlas.png" width="2048" height="2048"/>
+ </tileset>
+ <layer name="Decorations #Back" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Obstacle#Back" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Ground" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztnVuK69oVADWyCxmHwflJ7hxaJBCSzEGaiC3PwxOKDS66el1Dvnx+bhUI95Gl/ZKarr20ts6yRERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERET8f/6yLP/67fHZ1tb267fH719ERER8mL8+fPfy+Dwe2+2x3R/b1+vfz8/9te/62rc9tvX13fX1M+c+911Uxvo6/qKyTq/jKXPTxv7jdc5Nx1DW+VXG/fX9SZ9fOmZ97d9f+6mPT469vuraX8dTD2Pgfl1U5v6qh/M3ten22reqnOtr29Un2sHY7q9PzvNYnHU8ddMexsBjtb8+Txrb0/huV9lcN1/rdVxD2nIa48F21vWh/bs+aeemsV5f59zVR8rjnNkvrin3DdeHcugvdV107b/UPpe16zvK4np4XNxH/u1x4neI+2bTsYwR1+q5PX7/IiIi4sM8fff5dxm/4HNbvr0Kdz0t365pJ8SD8Qw8BZezT+AyeBiehVvYS+wK+AdOhAPRFjsoboa7ULdd8qa6L+NcfIU+3pdvV6ON1IEH7dpHn/Ei3Ouk72gL8wq7EJ5r12Kjnevy7WX2Tzu0x8rudntTDm1hTNlHnVwP6mQs2PBa+xx93HXcdE/6z9hTDu266TjOmXUzrow/Pk/fz6qTPnnMaJ/nUvT1tHz/Dvie4TqvKot7izLOOp/fHd+rzzLy3YiIiM9DfBevwZf8t52Y1qbv8Ft7k33Brour2RmJiTlOh0dQHs5M3au+c9zY/nLXOXziyvTl0Hln1TnPwaWIG86YNPOAy/jEz6bj79rwLMrChzy2+JndG5dkLBhjYsyO1XtOwfjhvrv2c90dT6bt+Jtjzmd9h5Paiw/VZd9btR+/38axdt2TjqNu4uKOhVOvvXIfx3Cfsd/zCsd4HbNfVS4Ozf3rcbUvH6rDns08w/fV83z77t8e298/uP2+RERE/Dl5+i6+hVfYmfAFx9BwKTb+/hOjm8+p8RvOnc/i8R7HMR1HI168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
+  </data>
+ </layer>
+ <layer name="Objects#Back" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Objects#Middle" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Objects" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Decorations #Middle" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Decorations#Front" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzTENAAAIwDDMgX9JIIKDkDbZvQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALglp3r0AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHY0aXUBFw==
+  </data>
+ </layer>
+ <layer name="Obstacle#Middle" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <layer name="Obstacles" width="700" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADg3wAi/gAB
+  </data>
+ </layer>
+ <objectgroup name="Terrainlayer">
+  <properties>
+   <property name="GroundLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object name="player1" type="player1" x="1152" y="1984" width="64" height="128"/>
+  <object name="player4" type="player4" x="960" y="1984" width="64" height="128"/>
+  <object name="player3" type="player3" x="1024" y="1984" width="64" height="128"/>
+  <object name="player2" type="player2" x="1088" y="1984" width="64" height="128"/>
+  <object x="0" y="2112">
+   <polyline points="0,0 14400,0 14400,1088 0,1088 0,0"/>
+  </object>
+  <object x="14513.2" y="2307.03" width="4232" height="408"/>
+ </objectgroup>
+ <objectgroup name="ObstacleLayer">
+  <properties>
+   <property name="ObstaclesLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object name="rockSmall" type="rockSmall" x="1357.33" y="1989.33">
+   <polyline points="0,0 166.667,0 118.667,58.6667 49.3333,57.3333 -1.33333,1.33333"/>
+  </object>
+  <object name="rockBig" type="rockBig" x="1613.33" y="1914.67">
+   <properties>
+    <property name="delay" value="1"/>
+   </properties>
+   <polyline points="0,0 161.333,-1.33333 117.333,102.667 45.3333,102.667 -1.33333,0"/>
+  </object>
+  <object name="rockBig" type="rockBig" x="1872" y="1846.67">
+   <properties>
+    <property name="delay" value="1.5"/>
+   </properties>
+   <polyline points="0,0 161.333,-1.33333 117.333,102.667 45.3333,102.667 -1.33333,0"/>
+  </object>
+  <object name="rockSmall" type="rockSmall" x="2114.67" y="1802.67">
+   <polyline points="0,0 166.667,0 118.667,58.6667 49.3333,57.3333 -1.33333,1.33333"/>
+  </object>
+  <object name="rockSmall" type="rockSmall" x="3029.33" y="1989.33">
+   <polyline points="0,0 166.667,0 118.667,58.6667 49.3333,57.3333 -1.33333,1.33333"/>
+  </object>
+  <object x="3145.33" y="2108">
+   <polyline points="0,0 2.66667,-58.6667"/>
+  </object>
+ </objectgroup>
+ <objectgroup name="ObjectsLayer">
+  <properties>
+   <property name="ObjectsLayer" value="true"/>
+   <property name="PhysicsEnabled" value="true"/>
+  </properties>
+  <object name="finishingLine" type="finishingLine" x="14288" y="748" width="64" height="1408">
+   <properties>
+    <property name="isGhost" value="true"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
