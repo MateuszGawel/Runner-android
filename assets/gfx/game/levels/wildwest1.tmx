@@ -5,7 +5,7 @@
  </tileset>
  <layer name="Ground" width="500" height="40">
   <data encoding="base64" compression="zlib">
-   eJztzVEKQFAYhFHWZwnYiNWzAIXmYcg59dfX7dYMAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABwx/bgAIB3msbrt7M/AAAA8Dfzcctxq9Zaa60/2+19rbXWWufd3tdaa6113u19rbXWWufd3tdaa6113u19rbXWWufd3tdaa6113u19rbXWWufd3tdaa6113u19rbXWWufd3tdaa6113u19rbXWWufd3tdaa6113gAAAAAAQG4HmU8mjQ==
+   eJztzbEJgAAAA0H3VPdfQzsH+CIIdxD4LscBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJ/z3fXu1lprrfVve/2vtdZa697rf6211lr3Xv9rrbXWuvf6X2uttda91/9aa6217r3+11prrXXv9b/WWmute6//tdZaa917/a+11lrr3ut/rbXWWvde/2uttda69/pfa6211r0BAAAAAIDuAbCXIGs=
   </data>
  </layer>
  <layer name="Objects" width="500" height="40">
@@ -31,24 +31,6 @@
    <property name="ObstaclesLayer" value="true"/>
    <property name="PhysicsEnabled" value="true"/>
   </properties>
-  <object name="killingBottom" type="killingBottom" x="1492" y="1408">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polyline points="0,0 9,66 16,-4"/>
-  </object>
-  <object name="killingBottom" type="killingBottom" x="1812" y="1409">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polyline points="0,0 9,66 16,-4"/>
-  </object>
-  <object name="killingBottom" type="killingBottom" x="2069" y="1406">
-   <properties>
-    <property name="isGhost" value="true"/>
-   </properties>
-   <polyline points="0,0 9,66 16,-4"/>
-  </object>
  </objectgroup>
  <objectgroup name="ObjectsLayer">
   <properties>
